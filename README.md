@@ -234,4 +234,4 @@ If this database helps you in your project, please:
 ---
 
 *Made with ❤️ for Bangladesh*  
-*Last updated: December 2024*
+*Last updated: 30 August 2025*
