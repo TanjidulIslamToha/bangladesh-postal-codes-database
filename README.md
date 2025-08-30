@@ -44,10 +44,10 @@ So I decided to **collect them myself** from Wikipedia and **fix all the issues*
 | File | Format | Size | Entries | Description |
 |------|--------|------|---------|-------------|
 | `postcodes-pretty.json` | JSON (Bilingual) | 645KB | 1,353 | **Main file** - Both Bangla & English |
-| `bengali.json` | JSON (Bengali) | 318KB | 1,353 | Bengali-only data |
-| `english.json` | JSON (English) | 232KB | 1,353 | English-only data |
-| `bengali.csv` | CSV (Bengali) | 165KB | 1,353 | Bengali CSV format |
-| `english.csv` | CSV (English) | 81KB | 1,353 | English CSV format |
+| `postcodes-bengali.json` | JSON (Bengali) | 318KB | 1,353 | Bengali-only data |
+| `postcodes-english.json` | JSON (English) | 232KB | 1,353 | English-only data |
+| `postcodes-bengali.csv` | CSV (Bengali) | 165KB | 1,353 | Bengali CSV format |
+| `postcodes-english.csv` | CSV (English) | 81KB | 1,353 | English CSV format |
 | `districts-bengali.json` | JSON (Districts) | 35KB | 70 | Bengali districts with divisions |
 | `districts-english.json` | JSON (Districts) | 34KB | 82 | English districts with divisions |
 | `districts-bengali.csv` | CSV (Districts) | 11KB | 70 | Bengali districts CSV |
@@ -183,7 +183,7 @@ print(postcodes['1206']['bn']['division']); // "ঢাকা"
 ```
 
 ### **For Spreadsheets:**
-Simply open `bengali.csv` or `english.csv` in Excel, Google Sheets, or any CSV reader.
+Simply open `postcodes-bengali.csv` or `postcodes-english.csv` in Excel, Google Sheets, or any CSV reader.
 
 ---
 
