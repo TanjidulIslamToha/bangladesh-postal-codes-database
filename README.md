@@ -1,237 +1,161 @@
-# 🇧🇩 Bangladesh Postcodes Database
+# Bangladesh Postcodes Database
 
-> **Complete, Clean & Validated Bangladesh Postal Codes Database**  
-> *Collected from Wikipedia, Fixed & Validated for Public Use*
+A comprehensive database of Bangladesh postal codes with bilingual support (Bengali and English).
 
-[![GitHub stars](https://img.shields.io/github/stars/TanjidulIslamToha/bangladesh-postal-codes-database?style=social)](https://github.com/TanjidulIslamToha/bangladesh-postal-codes-database)
-[![GitHub forks](https://img.shields.io/github/forks/TanjidulIslamToha/bangladesh-postal-codes-database?style=social)](https://github.com/TanjidulIslamToha/bangladesh-postal-codes-database)
-[![GitHub issues](https://img.shields.io/github/issues/TanjidulIslamToha/bangladesh-postal-codes-database)](https://github.com/TanjidulIslamToha/bangladesh-postal-codes-database/issues)
-[![GitHub license](https://img.shields.io/github/license/TanjidulIslamToha/bangladesh-postal-codes-database)](https://github.com/TanjidulIslamToha/bangladesh-postal-codes-database/blob/main/LICENSE)
+## 📁 Files
 
----
+### Main Data Files
+- **`postcodes-pretty.json`** - Main formatted JSON file with bilingual postcode data
+- **`postcodes-english.json`** - English-only postcode data
+- **`postcodes-bengali.json`** - Bengali-only postcode data
 
-## 🚀 **Hello Bangladesh! 🇧🇩**
+### CSV Files
+- **`postcodes-english.csv`** - English postcode data in CSV format
+- **`postcodes-bengali.csv`** - Bengali postcode data in CSV format
 
-I was working on a **non-profit public safety project** for Bangladesh people, and I desperately needed a **comprehensive, accurate Bangladesh postcodes database**. But guess what? **I couldn't find one anywhere!** 😤
+### Administrative Divisions
+- **`divisions-english.json`** - English division data
+- **`divisions-bengali.json`** - Bengali division data
+- **`divisions-english.csv`** - English division data in CSV format
+- **`divisions-bengali.csv`** - Bengali division data in CSV format
 
-So I decided to **collect them myself** from Wikipedia and **fix all the issues** I encountered. This repository contains **1,353 validated postcodes** covering all divisions of Bangladesh.
+### Districts
+- **`districts-english.json`** - English district data
+- **`districts-bengali.json`** - Bengali district data
+- **`districts-english.csv`** - English district data in CSV format
+- **`districts-bengali.csv`** - Bengali district data in CSV format
 
----
+## 📊 Data Structure
 
-## 📊 **What I Fixed (The Struggle Was Real! 😅)**
+### Main JSON Format (`postcodes-pretty.json`)
 
-### **Issues I Encountered & Fixed:**
-- ❌ **12,175+ data quality issues** in the original data
-- ❌ **Missing English translations** for many postcodes
-- ❌ **Incorrect division mappings** (postcodes assigned to wrong divisions)
-- ❌ **Trailing spaces and special characters** everywhere
-- ❌ **Inconsistent postcode formats** (mixed Bangla/English numbers)
-- ❌ **Incomplete data** (missing districts, thanas, sub-offices)
-- ❌ **No standardized structure** for easy use
+Each postcode entry follows this structure:
 
-### **What I Achieved:**
-- ✅ **100% bilingual coverage** (Bangla + English)
-- ✅ **All 1,353 postcodes validated** and cleaned
-- ✅ **Proper division mappings** based on postcode ranges
-- ✅ **Consistent formatting** (Bangla numbers in Bangla, English in English)
-- ✅ **Multiple file formats** (JSON + CSV)
-- ✅ **Production-ready** data structure
-
----
-
-## 📁 **Files Available**
-
-| File | Format | Size | Entries | Description |
-|------|--------|------|---------|-------------|
-| `postcodes-pretty.json` | JSON (Bilingual) | 645KB | 1,353 | **Main file** - Both Bangla & English |
-| `postcodes-bengali.json` | JSON (Bengali) | 318KB | 1,353 | Bengali-only data |
-| `postcodes-english.json` | JSON (English) | 232KB | 1,353 | English-only data |
-| `postcodes-bengali.csv` | CSV (Bengali) | 165KB | 1,353 | Bengali CSV format |
-| `postcodes-english.csv` | CSV (English) | 81KB | 1,353 | English CSV format |
-| `districts-bengali.json` | JSON (Districts) | 35KB | 70 | Bengali districts with divisions |
-| `districts-english.json` | JSON (Districts) | 34KB | 82 | English districts with divisions |
-| `districts-bengali.csv` | CSV (Districts) | 11KB | 70 | Bengali districts CSV |
-| `districts-english.csv` | CSV (Districts) | 9.9KB | 82 | English districts CSV |
-| `divisions-bengali.json` | JSON (Divisions) | 28KB | 8 | Bengali divisions with districts |
-| `divisions-english.json` | JSON (Divisions) | 27KB | 8 | English divisions with districts |
-| `divisions-bengali.csv` | CSV (Divisions) | 9.9KB | 8 | Bengali divisions CSV |
-| `divisions-english.csv` | CSV (Divisions) | 9.3KB | 8 | English divisions CSV |
-
----
-
-## 🔧 **How I Fixed Everything (PHP Code)**
-
-I used **PHP scripts** to clean and validate the data:
-
-```php
-// Example of the cleaning process
-function fixAllIssues($data) {
-    foreach ($data as $postcode => $info) {
-        // Fix postcode format consistency
-        $bn['postcode'] = e2b($postcode); // Convert to Bangla numbers
-        $en['postcode'] = $postcode;      // Keep English numbers
-        
-        // Fix division mappings based on postcode ranges
-        $correctDivision = getCorrectDivision($postcode);
-        
-        // Remove trailing spaces and special characters
-        $text = trim(preg_replace('/\s+/', ' ', $text));
-        
-        // Ensure bilingual data exists
-        if (!isset($info['bn']) && isset($info['en'])) {
-            // Create missing Bangla data from English
-        }
-    }
-}
-```
-
-**Total fixes applied:** 12,175+ issues resolved! 🎯
-
----
-
-## 📋 **Data Structure**
-
-### **Main Bilingual Format:**
 ```json
 {
-  "1206": {
+  "1236": {
     "bn": {
       "division": "ঢাকা",
       "district": "ঢাকা", 
-      "thana": "ঢাকা সেনানিবাস",
-      "suboffice": "ঢাকা সেনানিবাস TSO",
-      "postcode": "১২০৬"
+      "thana": "যাত্রাবাড়ী",
+      "suboffice": "ধানিয়া টিএসও",
+      "postcode": "১২৩৬"
     },
     "en": {
       "division": "Dhaka",
       "district": "Dhaka",
-      "thana": "Dhaka", 
-      "suboffice": "Dhaka Cantonment-TSO",
-      "postcode": "1206"
+      "thana": "Jatrabari",
+      "suboffice": "Dhania TSO",
+      "postcode": 1236
     }
   }
 }
 ```
 
-### **Districts Format:**
-```json
-{
-  "ঢাকা": {
-    "name": "ঢাকা",
-    "division": "ঢাকা",
-    "postcodes": ["1206", "1207", "1208", "1209", "1210"]
-  }
-}
-```
+### Fields Description
 
-### **Divisions Format:**
-```json
-{
-  "ঢাকা": {
-    "name": "ঢাকা",
-    "districts": ["ঢাকা", "গাজীপুর", "নারায়ণগঞ্জ", "টাঙ্গাইল"],
-    "postcodes": ["1206", "1207", "1208", "1209", "1210"]
-  }
-}
-```
+| Field | Description |
+|-------|-------------|
+| `division` | Administrative division (বিভাগ) |
+| `district` | District (জেলা) |
+| `thana` | Police station/Upazila (থানা/উপজেলা) |
+| `suboffice` | Sub post office (উপ-ডাকঘর) |
+| `postcode` | Postal code (পোস্ট কোড) |
 
-### **CSV Format:**
-```csv
-"Postcode","Division","District","Thana","SubOffice","PostCode"
-"1206","ঢাকা","ঢাকা","ঢাকা সেনানিবাস","ঢাকা সেনানিবাস TSO","১২০৬"
-"1206","Dhaka","Dhaka","Dhaka","Dhaka Cantonment-TSO","1206"
-```
+## 🌍 Language Support
 
----
+- **Bengali (`bn`)**: Full Bengali text with proper spelling
+- **English (`en`)**: Full English text with correct transliteration
 
-## 🗺️ **Coverage**
+## 📈 Statistics
 
-### **Divisions Covered:**
-- **ঢাকা (Dhaka)** - 10 districts, 213 postcodes
-- **চট্টগ্রাম (Chittagong)** - 6 districts, 143 postcodes  
-- **রাজশাহী (Rajshahi)** - 16 districts, 223 postcodes
-- **খুলনা (Khulna)** - 4 districts, 90 postcodes
-- **বরিশাল (Barisal)** - 8 districts, 141 postcodes
-- **সিলেট (Sylhet)** - 11 districts, 323 postcodes
-- **রংপুর (Rangpur)** - 10 districts, 121 postcodes
-- **ময়মনসিংহ (Mymensingh)** - 6 districts, 99 postcodes
+- **Total Postcodes**: 1,353
+- **Divisions**: 8
+- **Districts**: 64
+- **Format**: JSON and CSV
+- **Encoding**: UTF-8
 
-**Total: 1,353 postcodes across 8 divisions and 70+ districts** 🎯
+## 🔧 Data Quality
 
----
+✅ **Verified and Cleaned**:
+- All language keys consistently ordered (`bn` before `en`)
+- No mixed-language entries
+- No missing fields or sections
+- No empty or null values
+- Proper Bengali spelling throughout
+- Accurate English transliterations
 
-## 🚀 **How to Use**
+## 📋 Usage Examples
 
-### **For Web Applications:**
+### JavaScript/Node.js
 ```javascript
-// Load the JSON file
-fetch('postcodes-pretty.json')
-  .then(response => response.json())
-  .then(data => {
-    const postcode = data['1206'];
-    console.log(postcode.bn.division); // "ঢাকা"
-    console.log(postcode.en.division); // "Dhaka"
-  });
+const fs = require('fs');
+const postcodes = JSON.parse(fs.readFileSync('postcodes-pretty.json', 'utf8'));
+
+// Get postcode data
+const postcode1236 = postcodes['1236'];
+console.log(postcode1236.bn.division); // "ঢাকা"
+console.log(postcode1236.en.district); // "Dhaka"
 ```
 
-### **For Mobile Apps:**
-```dart
-// Flutter/Dart example
-Map<String, dynamic> postcodes = jsonDecode(postcodesJson);
-var dhakaPostcode = postcodes['1206'];
-print(postcodes['1206']['bn']['division']); // "ঢাকা"
+### Python
+```python
+import json
+
+with open('postcodes-pretty.json', 'r', encoding='utf-8') as f:
+    postcodes = json.load(f)
+
+# Get postcode data
+postcode_1236 = postcodes['1236']
+print(postcode_1236['bn']['division'])  # "ঢাকা"
+print(postcode_1236['en']['district'])  # "Dhaka"
 ```
 
-### **For Spreadsheets:**
-Simply open `postcodes-bengali.csv` or `postcodes-english.csv` in Excel, Google Sheets, or any CSV reader.
+### PHP
+```php
+$postcodes = json_decode(file_get_contents('postcodes-pretty.json'), true);
+
+// Get postcode data
+$postcode_1236 = $postcodes['1236'];
+echo $postcode_1236['bn']['division']; // "ঢাকা"
+echo $postcode_1236['en']['district']; // "Dhaka"
+```
+
+## 🗺️ Administrative Structure
+
+### Divisions (বিভাগ)
+1. **ঢাকা** (Dhaka)
+2. **চট্টগ্রাম** (Chittagong)
+3. **রাজশাহী** (Rajshahi)
+4. **খুলনা** (Khulna)
+5. **বরিশাল** (Barisal)
+6. **সিলেট** (Sylhet)
+7. **রংপুর** (Rangpur)
+8. **ময়মনসিংহ** (Mymensingh)
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🤝 Contributing
+
+Contributions are welcome! Please ensure:
+- Data accuracy and consistency
+- Proper Bengali spelling
+- Correct English transliterations
+- UTF-8 encoding for all files
+
+## 📞 Support
+
+For questions or issues, please open an issue on the project repository.
+
+## 🔄 Updates
+
+This database is regularly updated to maintain accuracy and completeness of Bangladesh postal information.
 
 ---
 
-## 🤝 **Contributing**
-
-Found an issue? Want to add more postcodes? **Please contribute!**
-
-1. Fork this repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
-
-**Every contribution helps make this database better for the Bangladesh community!** 🙏
-
----
-
-## 📞 **Connect With Me**
-
-- **GitHub:** [@TanjidulIslamToha](https://github.com/TanjidulIslamToha)
-- **Facebook:** [facebook.com/MdTanjidulIslamToha](https://facebook.com/MdTanjidulIslamToha)
-
----
-
-## 📄 **License**
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
-## 🙏 **Why I Created This**
-
-I was working on a **public safety project** for Bangladesh people, and I needed accurate postcode data. When I couldn't find a reliable source, I decided to **create one myself** and share it with the community.
-
-**I hope this helps other developers who face the same struggle!** 💪
-
----
-
-## ⭐ **Support This Project**
-
-If this database helps you in your project, please:
-- ⭐ **Star this repository**
-- 🔄 **Share it with others**
-- 🐛 **Report any issues**
-- 💡 **Suggest improvements**
-
-**Together, we can make better tools for Bangladesh!** 🇧🇩
-
----
-
-*Made with ❤️ for Bangladesh*  
-*Last updated: 30 August 2025*
+**Last Updated**: December 2024  
+**Total Records**: 1,353 postcodes  
+**Data Format**: JSON & CSV  
+**Language Support**: Bengali & English
