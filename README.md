@@ -3,10 +3,10 @@
 > **Complete, Clean & Validated Bangladesh Postal Codes Database**  
 > *Collected from Wikipedia, Fixed & Validated for Public Use*
 
-[![GitHub stars](https://img.shields.io/github/stars/TanjidulIslamToha/bangladesh-postcodes?style=social)](https://github.com/TanjidulIslamToha/bangladesh-postcodes)
-[![GitHub forks](https://img.shields.io/github/forks/TanjidulIslamToha/bangladesh-postcodes?style=social)](https://github.com/TanjidulIslamToha/bangladesh-postcodes)
-[![GitHub issues](https://img.shields.io/github/issues/TanjidulIslamToha/bangladesh-postcodes)](https://github.com/TanjidulIslamToha/bangladesh-postcodes/issues)
-[![GitHub license](https://img.shields.io/github/license/TanjidulIslamToha/bangladesh-postcodes)](https://github.com/TanjidulIslamToha/bangladesh-postcodes/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/TanjidulIslamToha/bangladesh-postal-codes-database?style=social)](https://github.com/TanjidulIslamToha/bangladesh-postal-codes-database)
+[![GitHub forks](https://img.shields.io/github/forks/TanjidulIslamToha/bangladesh-postal-codes-database?style=social)](https://github.com/TanjidulIslamToha/bangladesh-postal-codes-database)
+[![GitHub issues](https://img.shields.io/github/issues/TanjidulIslamToha/bangladesh-postal-codes-database)](https://github.com/TanjidulIslamToha/bangladesh-postal-codes-database/issues)
+[![GitHub license](https://img.shields.io/github/license/TanjidulIslamToha/bangladesh-postal-codes-database)](https://github.com/TanjidulIslamToha/bangladesh-postal-codes-database/blob/main/LICENSE)
 
 ---
 
