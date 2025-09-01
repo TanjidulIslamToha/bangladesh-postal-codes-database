@@ -1,0 +1,146 @@
+{
+  "5500": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "লালমনিরহাট সদর",
+      "suboffice": "লালমনিরহাট সদর",
+      "postcode": "৫৫০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Lalmonirhat Sadar",
+      "suboffice": "Lalmonirhat Sadar",
+      "postcode": 5500
+    }
+  },
+  "5501": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "লালমনিরহাট সদর",
+      "suboffice": "মোগলহাট",
+      "postcode": "৫৫০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Lalmonirhat Sadar",
+      "suboffice": "Moghalhat",
+      "postcode": 5501
+    }
+  },
+  "5502": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "লালমনিরহাট সদর",
+      "suboffice": "কুলাঘাট SO",
+      "postcode": "৫৫০২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Lalmonirhat Sadar",
+      "suboffice": "Kulaghat SO",
+      "postcode": 5502
+    }
+  },
+  "5510": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "আদিতমারী",
+      "suboffice": "আদিতমারী",
+      "postcode": "৫৫১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Aditmari",
+      "suboffice": "Aditmari",
+      "postcode": 5510
+    }
+  },
+  "5520": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "তুষভান্ডার",
+      "suboffice": "তুষভান্ডার",
+      "postcode": "৫৫২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Tushbhandar",
+      "suboffice": "Tushbhandar",
+      "postcode": 5520
+    }
+  },
+  "5530": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "হাতীবান্ধা",
+      "suboffice": "হাতীবান্ধা",
+      "postcode": "৫৫৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Hatibandha",
+      "suboffice": "Hatibandha",
+      "postcode": 5530
+    }
+  },
+  "5540": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "পাটগ্রাম",
+      "suboffice": "পাটগ্রাম",
+      "postcode": "৫৫৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Patgram",
+      "suboffice": "Patgram",
+      "postcode": 5540
+    }
+  },
+  "5541": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "পাটগ্রাম",
+      "suboffice": "বাউরা",
+      "postcode": "৫৫৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Patgram",
+      "suboffice": "Baura",
+      "postcode": 5541
+    }
+  },
+  "5542": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "পাটগ্রাম",
+      "suboffice": "বুড়িমারী",
+      "postcode": "৫৫৪২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Patgram",
+      "suboffice": "Burimari",
+      "postcode": 5542
+    }
+  }
+}

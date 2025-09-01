@@ -1,0 +1,130 @@
+{
+  "7600": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মাগুরা",
+      "thana": "মাগুরা সদর",
+      "suboffice": "মাগুরা সদর",
+      "postcode": "৭৬০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Magura",
+      "thana": "Magura Sadar",
+      "suboffice": "Magura Sadar",
+      "postcode": 7600
+    }
+  },
+  "7610": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মাগুরা",
+      "thana": "শ্রীপুর",
+      "suboffice": "শ্রীপুর",
+      "postcode": "৭৬১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Magura",
+      "thana": "Sreepur",
+      "suboffice": "Tengra",
+      "postcode": 7610
+    }
+  },
+  "7611": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মাগুরা",
+      "thana": "শ্রীপুর",
+      "suboffice": "লাঙ্গলবাঁধ",
+      "postcode": "৭৬১১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Magura",
+      "thana": "Sreepur",
+      "suboffice": "Langalbadh",
+      "postcode": 7611
+    }
+  },
+  "7612": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মাগুরা",
+      "thana": "শ্রীপুর",
+      "suboffice": "নাকোল",
+      "postcode": "৭৬১২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Magura",
+      "thana": "Sreepur",
+      "suboffice": "Nachol",
+      "postcode": 7612
+    }
+  },
+  "7620": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মাগুরা",
+      "thana": "সাঁলিখা",
+      "suboffice": "সাঁলিখা",
+      "postcode": "৭৬২০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Magura",
+      "thana": "Arpara",
+      "suboffice": "Arpara",
+      "postcode": 7620
+    }
+  },
+  "7630": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মাগুরা",
+      "thana": "মোহাম্মদপুর",
+      "suboffice": "মোহাম্মদপুর",
+      "postcode": "৭৬৩০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Magura",
+      "thana": "Mohammadpur",
+      "suboffice": "Mohammadpur",
+      "postcode": 7630
+    }
+  },
+  "7631": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মাগুরা",
+      "thana": "মোহাম্মদপুর",
+      "suboffice": "বিনোদপুর",
+      "postcode": "৭৬৩১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Magura",
+      "thana": "Mohammadpur",
+      "suboffice": "Binodpur",
+      "postcode": 7631
+    }
+  },
+  "7632": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মাগুরা",
+      "thana": "মোহাম্মদপুর",
+      "suboffice": "নহাটা",
+      "postcode": "৭৬৩২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Magura",
+      "thana": "Mohammadpur",
+      "suboffice": "Nahata",
+      "postcode": 7632
+    }
+  }
+}

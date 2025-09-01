@@ -1,0 +1,274 @@
+{
+  "7800": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "ফরিদপুর সদর",
+      "suboffice": "ফরিদপুর সদর",
+      "postcode": "৭৮০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Faridpur Sadar",
+      "suboffice": "Faridpursadar",
+      "postcode": 7800
+    }
+  },
+  "7801": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "ফরিদপুর সদর",
+      "suboffice": "কানাইপুর",
+      "postcode": "৭৮০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Faridpur Sadar",
+      "suboffice": "Kanaipur",
+      "postcode": 7801
+    }
+  },
+  "7802": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "ফরিদপুর সদর",
+      "suboffice": "অম্বিকাপুর",
+      "postcode": "৭৮০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Faridpur Sadar",
+      "suboffice": "Ambikapur",
+      "postcode": 7802
+    }
+  },
+  "7803": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "ফরিদপুর সদর",
+      "suboffice": "বাইতুলমান পলিটেকনিক",
+      "postcode": "৭৮০৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Faridpur Sadar",
+      "suboffice": "Baitulaman Politecni",
+      "postcode": 7803
+    }
+  },
+  "7804": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "ফরিদপুর সদর",
+      "suboffice": "শ্রী-অঙ্গন",
+      "postcode": "৭৮০৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Faridpur Sadar",
+      "suboffice": "Sri Angan",
+      "postcode": 7804
+    }
+  },
+  "7810": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "চরভদ্রাসন",
+      "suboffice": "চরভদ্রাসন",
+      "postcode": "৭৮১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Charbhadrasan",
+      "suboffice": "Charbadrashan",
+      "postcode": 7810
+    }
+  },
+  "7820": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "সদরপুর",
+      "suboffice": "সদরপুর",
+      "postcode": "৭৮২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Sadarpur",
+      "suboffice": "Sadarpur",
+      "postcode": 7820
+    }
+  },
+  "7821": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "সদরপুর",
+      "suboffice": "হাট ক্রিশাপুর",
+      "postcode": "৭৮২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Sadarpur",
+      "suboffice": "Hat Krishapur",
+      "postcode": 7821
+    }
+  },
+  "7822": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "সদরপুর",
+      "suboffice": "বিশ্বরোড জাকের মঞ্জিল",
+      "postcode": "৭৮২২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Sadarpur",
+      "suboffice": "Bishwa jaker Manjil",
+      "postcode": 7822
+    }
+  },
+  "7830": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "ভাঙ্গা",
+      "suboffice": "ভাঙ্গা",
+      "postcode": "৭৮৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Bhanga",
+      "suboffice": "Bhanga",
+      "postcode": 7830
+    }
+  },
+  "7840": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "নগরকান্দা",
+      "suboffice": "নগরকান্দা",
+      "postcode": "৭৮৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Nagarkanda",
+      "suboffice": "Nagarkanda",
+      "postcode": 7840
+    }
+  },
+  "7841": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "নগরকান্দা",
+      "suboffice": "তালমা",
+      "postcode": "৭৮৪১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Nagarkanda",
+      "suboffice": "Talma",
+      "postcode": 7841
+    }
+  },
+  "7850": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "মধুখালী",
+      "suboffice": "মধুখালী",
+      "postcode": "৭৮৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Madukhali",
+      "suboffice": "Madukhali",
+      "postcode": 7850
+    }
+  },
+  "7851": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "মধুখালী",
+      "suboffice": "কামারখালি",
+      "postcode": "৭৮৫১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Madukhali",
+      "suboffice": "Kamarkali",
+      "postcode": 7851
+    }
+  },
+  "7860": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "বোয়ালমারী",
+      "suboffice": "বোয়ালমারী",
+      "postcode": "৭৮৬০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Boalmari",
+      "suboffice": "Boalmari",
+      "postcode": 7860
+    }
+  },
+  "7861": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "বোয়ালমারী",
+      "suboffice": "রুপাতপাত",
+      "postcode": "৭৮৬১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Boalmari",
+      "suboffice": "Rupatpat",
+      "postcode": 7861
+    }
+  },
+  "7870": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ফরিদপুর",
+      "thana": "আলফাডাঙ্গা",
+      "suboffice": "আলফাডাঙ্গা",
+      "postcode": "৭৮৭০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Faridpur",
+      "thana": "Alfadanga",
+      "suboffice": "Alfadanga",
+      "postcode": 7870
+    }
+  }
+}

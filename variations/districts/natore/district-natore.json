@@ -1,0 +1,210 @@
+{
+  "6400": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "নাটোর সদর",
+      "suboffice": "নাটোর সদর",
+      "postcode": "৬৪০০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Natore Sadar",
+      "suboffice": "Natore Sadar",
+      "postcode": 6400
+    }
+  },
+  "6401": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "নাটোর সদর",
+      "suboffice": "দিঘাপাতিয়া",
+      "postcode": "৬৪০১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Natore Sadar",
+      "suboffice": "Digapatia",
+      "postcode": 6401
+    }
+  },
+  "6402": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "নাটোর সদর",
+      "suboffice": "বাইদ্দ্যাবল ঘরিয়া",
+      "postcode": "৬৪০২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Natore Sadar",
+      "suboffice": "Baiddyabal Gharia",
+      "postcode": 6402
+    }
+  },
+  "6403": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "নাটোর সদর",
+      "suboffice": "মাধনগর",
+      "postcode": "৬৪০৩"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Natore Sadar",
+      "suboffice": "Madhnagar",
+      "postcode": 6403
+    }
+  },
+  "6410": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "লক্ষ্মণ",
+      "suboffice": "লক্ষ্মণ",
+      "postcode": "৬৪১০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Laxman",
+      "suboffice": "Laxman",
+      "postcode": 6410
+    }
+  },
+  "6420": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "গোপালপুর Upo",
+      "suboffice": "গোপালপুর U.P.O",
+      "postcode": "৬৪২০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Gopalpur UPO",
+      "suboffice": "Gopalpur U.P.O",
+      "postcode": 6420
+    }
+  },
+  "6421": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "গোপালপুর Upo",
+      "suboffice": "লালপুর S.O",
+      "postcode": "৬৪২১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Gopalpur UPO",
+      "suboffice": "Lalpur S.O",
+      "postcode": 6421
+    }
+  },
+  "6422": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "গোপালপুর Upo",
+      "suboffice": "আব্দুলপুর",
+      "postcode": "৬৪২২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Gopalpur UPO",
+      "suboffice": "Abdulpur",
+      "postcode": 6422
+    }
+  },
+  "6430": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "হারুয়া",
+      "suboffice": "হারুয়া",
+      "postcode": "৬৪৩০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Harua",
+      "suboffice": "Harua",
+      "postcode": 6430
+    }
+  },
+  "6431": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "হারুয়া",
+      "suboffice": "দয়ারামপুর",
+      "postcode": "৬৪৩১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Harua",
+      "suboffice": "Dayarampur",
+      "postcode": 6431
+    }
+  },
+  "6432": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "হারুয়া",
+      "suboffice": "বড়াইগ্রাম",
+      "postcode": "৬৪৩২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Harua",
+      "suboffice": "Baraigram",
+      "postcode": 6432
+    }
+  },
+  "6440": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "হাতগুরুদাসপুর",
+      "suboffice": "হাতগুরুদাসপুর",
+      "postcode": "৬৪৪০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Hatgurudaspur",
+      "suboffice": "Hatgurudaspur",
+      "postcode": 6440
+    }
+  },
+  "6450": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নাটোর",
+      "thana": "সিংড়া",
+      "suboffice": "সিংড়া",
+      "postcode": "৬৪৫০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Natore",
+      "thana": "Singra",
+      "suboffice": "Singra",
+      "postcode": 6450
+    }
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "1800": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "মানিকগঞ্জ সদর",
+      "suboffice": "মানিকগঞ্জ সদর",
+      "postcode": "১৮০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Manikganj Sadar",
+      "suboffice": "Manikganj Sadar",
+      "postcode": 1800
+    }
+  },
+  "1801": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "মানিকগঞ্জ সদর",
+      "suboffice": "মানিকগঞ্জ বাজার",
+      "postcode": "১৮০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Manikganj Sadar",
+      "suboffice": "Manikganj Bazar",
+      "postcode": 1801
+    }
+  },
+  "1802": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "মানিকগঞ্জ সদর",
+      "suboffice": "গড়পাড়া",
+      "postcode": "১৮০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Manikganj Sadar",
+      "suboffice": "Gorpara",
+      "postcode": 1802
+    }
+  },
+  "1803": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "মানিকগঞ্জ সদর",
+      "suboffice": "মহাদেবপুর",
+      "postcode": "১৮০৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Manikganj Sadar",
+      "suboffice": "Mahadebpur",
+      "postcode": 1803
+    }
+  },
+  "1804": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "মানিকগঞ্জ সদর",
+      "suboffice": "বরংগাইল",
+      "postcode": "১৮০৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Manikganj Sadar",
+      "suboffice": "Barangail",
+      "postcode": 1804
+    }
+  },
+  "1810": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "সাটুরিয়া",
+      "suboffice": "সাটুরিয়া",
+      "postcode": "১৮১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Saturia",
+      "suboffice": "Saturia",
+      "postcode": 1810
+    }
+  },
+  "1811": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "সাটুরিয়া",
+      "suboffice": "বালিয়াটি",
+      "postcode": "১৮১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Saturia",
+      "suboffice": "Baliati",
+      "postcode": 1811
+    }
+  },
+  "1820": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "সিংগাইর",
+      "suboffice": "সিংগাইর",
+      "postcode": "১৮২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Singari",
+      "suboffice": "Singair",
+      "postcode": 1820
+    }
+  },
+  "1821": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "সিংগাইর",
+      "suboffice": "বায়রা",
+      "postcode": "১৮২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Singari",
+      "suboffice": "Baira",
+      "postcode": 1821
+    }
+  },
+  "1822": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "সিংগাইর",
+      "suboffice": "জয়মন্তব",
+      "postcode": "১৮২২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Singari",
+      "suboffice": "joymantop",
+      "postcode": 1822
+    }
+  },
+  "1830": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "বারহামগঞ্জ",
+      "suboffice": "বারহামগঞ্জ",
+      "postcode": "১৮৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Barhamganj",
+      "suboffice": "Barhamganj",
+      "postcode": 1830
+    }
+  },
+  "1831": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "লেছড়াগঞ্জ",
+      "suboffice": "ঝিটকা",
+      "postcode": "১৮৩১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Lechhraganj",
+      "suboffice": "Jhitka",
+      "postcode": 1831
+    }
+  },
+  "1840": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "ঘিওর",
+      "suboffice": "ঘিওর",
+      "postcode": "১৮৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Ghior",
+      "suboffice": "Ghior",
+      "postcode": 1840
+    }
+  },
+  "1850": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "শিবালয়",
+      "suboffice": "শিবালয়",
+      "postcode": "১৮৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Shibloya",
+      "suboffice": "Shibaloy",
+      "postcode": 1850
+    }
+  },
+  "1851": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "শিবালয়",
+      "suboffice": "আরিচা",
+      "postcode": "১৮৫১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Shibloya",
+      "suboffice": "Aricha",
+      "postcode": 1851
+    }
+  },
+  "1852": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "শিবালয়",
+      "suboffice": "তেওতা",
+      "postcode": "১৮৫২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Shibloya",
+      "suboffice": "Tewta",
+      "postcode": 1852
+    }
+  },
+  "1853": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "শিবালয়",
+      "suboffice": "উঠলি",
+      "postcode": "১৮৫৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Shibloya",
+      "suboffice": "Uthli",
+      "postcode": 1853
+    }
+  },
+  "1860": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মানিকগঞ্জ",
+      "thana": "দৌলতপুর",
+      "suboffice": "দৌলতপুর",
+      "postcode": "১৮৬০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Manikganj",
+      "thana": "Rafayetpur",
+      "suboffice": "Doulatpur",
+      "postcode": 1860
+    }
+  }
+}

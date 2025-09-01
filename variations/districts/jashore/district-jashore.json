@@ -1,0 +1,338 @@
+{
+  "7400": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "যশোর সদর",
+      "suboffice": "যশোর সদর",
+      "postcode": "৭৪০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Jashore Sadar",
+      "suboffice": "Jashore Sadar",
+      "postcode": 7400
+    }
+  },
+  "7401": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "যশোর সদর",
+      "suboffice": "যশোর উপশহর",
+      "postcode": "৭৪০১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Jashore Sadar",
+      "suboffice": "Jashore Upa-Shahar",
+      "postcode": 7401
+    }
+  },
+  "7402": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "যশোর সদর",
+      "suboffice": "চাঁচড়া",
+      "postcode": "৭৪০২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Jashore Sadar",
+      "suboffice": "Chanchra",
+      "postcode": 7402
+    }
+  },
+  "7403": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "যশোর সদর",
+      "suboffice": "যশোর ক্যান্টনমেন্ট",
+      "postcode": "৭৪০৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Jashore Sadar",
+      "suboffice": "Jashore canttonment",
+      "postcode": 7403
+    }
+  },
+  "7404": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "যশোর সদর",
+      "suboffice": "যশোর এয়ারবেজ",
+      "postcode": "৭৪০৪"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Jashore Sadar",
+      "suboffice": "Jashore Airbach",
+      "postcode": 7404
+    }
+  },
+  "7405": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "যশোর সদর",
+      "suboffice": "রূপদিয়া",
+      "postcode": "৭৪০৫"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Jashore Sadar",
+      "suboffice": "Rupdia",
+      "postcode": 7405
+    }
+  },
+  "7406": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "যশোর সদর",
+      "suboffice": "বসুন্দিয়া",
+      "postcode": "৭৪০৬"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Jashore Sadar",
+      "suboffice": "Basundia",
+      "postcode": 7406
+    }
+  },
+  "7407": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "যশোর সদর",
+      "suboffice": "চূড়ামনকাঠি",
+      "postcode": "৭৪০৭"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Jashore Sadar",
+      "suboffice": "Churamankathi",
+      "postcode": 7407
+    }
+  },
+  "7410": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "চৌগাছা",
+      "suboffice": "চৌগাছা",
+      "postcode": "৭৪১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Chaugachha",
+      "suboffice": "Chougachha",
+      "postcode": 7410
+    }
+  },
+  "7420": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "ঝিকরগাছা",
+      "suboffice": "ঝিকরগাছা",
+      "postcode": "৭৪২০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Jhikargachha",
+      "suboffice": "Jhikargachha",
+      "postcode": 7420
+    }
+  },
+  "7430": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "শার্শা",
+      "suboffice": "শার্শা",
+      "postcode": "৭৪৩০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Sarsa",
+      "suboffice": "Sarsa",
+      "postcode": 7430
+    }
+  },
+  "7431": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "শার্শা",
+      "suboffice": "বেনাপোল",
+      "postcode": "৭৪৩১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Sarsa",
+      "suboffice": "Benapole",
+      "postcode": 7431
+    }
+  },
+  "7432": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "শার্শা",
+      "suboffice": "যাদবপুর",
+      "postcode": "৭৪৩২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Sarsa",
+      "suboffice": "Jadabpur",
+      "postcode": 7432
+    }
+  },
+  "7433": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "শার্শা",
+      "suboffice": "বাগআঁচড়া",
+      "postcode": "৭৪৩৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Sarsa",
+      "suboffice": "Bag Achra",
+      "postcode": 7433
+    }
+  },
+  "7440": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "মনিরামপুর",
+      "suboffice": "মনিরামপুর",
+      "postcode": "৭৪৪০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Monirampur",
+      "suboffice": "Monirampur",
+      "postcode": 7440
+    }
+  },
+  "7450": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "কেশবপুর",
+      "suboffice": "কেশবপুর",
+      "postcode": "৭৪৫০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Keshabpur",
+      "suboffice": "Keshobpur",
+      "postcode": 7450
+    }
+  },
+  "7460": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "অভয়নগর",
+      "suboffice": "অভয়নগর",
+      "postcode": "৭৪৬০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Noapara",
+      "suboffice": "Noapara",
+      "postcode": 7460
+    }
+  },
+  "7461": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "অভয়নগর",
+      "suboffice": "রাজঘাট",
+      "postcode": "৭৪৬১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Noapara",
+      "suboffice": "Rajghat",
+      "postcode": 7461
+    }
+  },
+  "7462": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "অভয়নগর",
+      "suboffice": "ভুগিলহাট",
+      "postcode": "৭৪৬২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Noapara",
+      "suboffice": "Bhugilhat",
+      "postcode": 7462
+    }
+  },
+  "7470": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "বাঘারপাড়া",
+      "suboffice": "বাঘারপাড়া",
+      "postcode": "৭৪৭০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Bagharpara",
+      "suboffice": "Bagharpara",
+      "postcode": 7470
+    }
+  },
+  "7471": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "যশোর",
+      "thana": "বাঘারপাড়া",
+      "suboffice": "গৌরনগর",
+      "postcode": "৭৪৭১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jashore",
+      "thana": "Bagharpara",
+      "suboffice": "Gouranagar",
+      "postcode": 7471
+    }
+  }
+}

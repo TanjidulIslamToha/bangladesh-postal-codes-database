@@ -1,0 +1,82 @@
+{
+  "7100": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মেহেরপুর",
+      "thana": "মেহেরপুর সদর",
+      "suboffice": "মেহেরপুর সদর",
+      "postcode": "৭১০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "thana": "Meherpur Sadar",
+      "suboffice": "Meherpur Sadar",
+      "postcode": 7100
+    }
+  },
+  "7101": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মেহেরপুর",
+      "thana": "মেহেরপুর সদর",
+      "suboffice": "আমঝুপি",
+      "postcode": "৭১০১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "thana": "Meherpur Sadar",
+      "suboffice": "Amjhupi",
+      "postcode": 7101
+    }
+  },
+  "7102": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মেহেরপুর",
+      "thana": "মুজিবনগর",
+      "suboffice": "মুজিব নগর",
+      "postcode": "৭১০২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "thana": "Meherpur Sadar",
+      "suboffice": "Mujib Nagar Complex",
+      "postcode": 7102
+    }
+  },
+  "7110": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মেহেরপুর",
+      "thana": "গাংনী",
+      "suboffice": "গাংনী",
+      "postcode": "৭১১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "thana": "Gangni",
+      "suboffice": "Gangni",
+      "postcode": 7110
+    }
+  },
+  "7152": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "মেহেরপুর",
+      "thana": "মেহেরপুর সদর",
+      "suboffice": "আমঝুপি",
+      "postcode": "৭১৫২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Meherpur",
+      "thana": "Meherpur Sadar",
+      "suboffice": "Amjhupi",
+      "postcode": 7152
+    }
+  }
+}

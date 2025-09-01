@@ -1,0 +1,322 @@
+{
+  "5800": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "বগুড়া সদর",
+      "suboffice": "বগুড়া সদর",
+      "postcode": "৫৮০০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Bogura Sadar",
+      "suboffice": "Bogura Sadar",
+      "postcode": 5800
+    }
+  },
+  "5801": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "বগুড়া সদর",
+      "suboffice": "বগুড়া সেনানিবাস",
+      "postcode": "৫৮০১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Bogura Sadar",
+      "suboffice": "Bogura Canttonment",
+      "postcode": 5801
+    }
+  },
+  "5810": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "শিবগঞ্জ",
+      "suboffice": "শিবগঞ্জ",
+      "postcode": "৫৮১০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Shibganj",
+      "suboffice": "Shibganj",
+      "postcode": 5810
+    }
+  },
+  "5820": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "গাবতলী",
+      "suboffice": "গাবতলী",
+      "postcode": "৫৮২০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Gabtoli",
+      "suboffice": "-",
+      "postcode": 5820
+    }
+  },
+  "5821": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "গাবতলী",
+      "suboffice": "সুখানপুকুর",
+      "postcode": "৫৮২১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Gabtoli",
+      "suboffice": "Sukhanpukur",
+      "postcode": 5821
+    }
+  },
+  "5826": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "সোনাতলা",
+      "suboffice": "সোনাতলা",
+      "postcode": "৫৮২৬"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Sonatola",
+      "suboffice": "Sonatola",
+      "postcode": 5826
+    }
+  },
+  "5830": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "সারিয়াকান্দি",
+      "suboffice": "সারিয়াকান্দি",
+      "postcode": "৫৮৩০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Sariakandi",
+      "suboffice": "Sariakandi",
+      "postcode": 5830
+    }
+  },
+  "5831": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "সারিয়াকান্দি",
+      "suboffice": "চন্দন বাইশা",
+      "postcode": "৫৮৩১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Sariakandi",
+      "suboffice": "Chandan Baisha",
+      "postcode": 5831
+    }
+  },
+  "5840": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "শেরপুর",
+      "suboffice": "শেরপুর",
+      "postcode": "৫৮৪০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Sherpur",
+      "suboffice": "Sherpur",
+      "postcode": 5840
+    }
+  },
+  "5841": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "শেরপুর",
+      "suboffice": "চান্দাইকোনা",
+      "postcode": "৫৮৪১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Sherpur",
+      "suboffice": "Chandaikona",
+      "postcode": 5841
+    }
+  },
+  "5842": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "শেরপুর",
+      "suboffice": "পল্লী উন্নয়ন একাডেমী",
+      "postcode": "৫৮৪২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Sherpur",
+      "suboffice": "Palli Unnyan Accadem",
+      "postcode": 5842
+    }
+  },
+  "5850": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "ধুনট",
+      "suboffice": "ধুনট",
+      "postcode": "৫৮৫০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Dhunat",
+      "suboffice": "Dhunat",
+      "postcode": 5850
+    }
+  },
+  "5851": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "ধুনট",
+      "suboffice": "গোসাইবাড়ি",
+      "postcode": "৫৮৫১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Dhunat",
+      "suboffice": "Gosaibari",
+      "postcode": 5851
+    }
+  },
+  "5860": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "নন্দীগ্রাম",
+      "suboffice": "নন্দীগ্রাম",
+      "postcode": "৫৮৬০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Nandigram",
+      "suboffice": "Nandigram",
+      "postcode": 5860
+    }
+  },
+  "5870": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "কাহালু",
+      "suboffice": "কাহালু",
+      "postcode": "৫৮৭০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Kahalu",
+      "suboffice": "Kahalu",
+      "postcode": 5870
+    }
+  },
+  "5880": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "দুপচাঁচিয়া",
+      "suboffice": "দুপচাঁচিয়া",
+      "postcode": "৫৮৮০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Dupchachia",
+      "suboffice": "Dupchanchia",
+      "postcode": 5880
+    }
+  },
+  "5881": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "দুপচাঁচিয়া",
+      "suboffice": "তালোড়া",
+      "postcode": "৫৮৮১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Dupchachia",
+      "suboffice": "Talora",
+      "postcode": 5881
+    }
+  },
+  "5890": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "আদমদীঘি",
+      "suboffice": "আদমদীঘি",
+      "postcode": "৫৮৯০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Adamdighi",
+      "suboffice": "Adamdighi",
+      "postcode": 5890
+    }
+  },
+  "5891": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "আদমদীঘি",
+      "suboffice": "সান্তাহার",
+      "postcode": "৫৮৯১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Adamdighi",
+      "suboffice": "Santahar",
+      "postcode": 5891
+    }
+  },
+  "5892": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "বগুড়া",
+      "thana": "আদমদীঘি",
+      "suboffice": "নশরতপুর",
+      "postcode": "৫৮৯২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Bogura",
+      "thana": "Adamdighi",
+      "suboffice": "Nasharatpur",
+      "postcode": 5892
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "2100": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "শেরপুর",
+      "thana": "শেরপুর সদর",
+      "suboffice": "শেরপুর সদর",
+      "postcode": "২১০০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "thana": "Sherpur Shadar",
+      "suboffice": "Sherpur Shadar",
+      "postcode": 2100
+    }
+  },
+  "2110": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "শেরপুর",
+      "thana": "নালিতাবাড়ী",
+      "suboffice": "নালিতাবাড়ী",
+      "postcode": "২১১০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "thana": "Nalitabari",
+      "suboffice": "Nalitabari",
+      "postcode": 2110
+    }
+  },
+  "2111": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "শেরপুর",
+      "thana": "নালিতাবাড়ী",
+      "suboffice": "হাতীবান্ধা",
+      "postcode": "২১১১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "thana": "Nalitabari",
+      "suboffice": "Hatibandha",
+      "postcode": 2111
+    }
+  },
+  "2120": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "শেরপুর",
+      "thana": "ঝিনাইগাতী",
+      "suboffice": "ঝিনাইগাতী",
+      "postcode": "২১২০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "thana": "Jhinaigati",
+      "suboffice": "Jhinaigati",
+      "postcode": 2120
+    }
+  },
+  "2130": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "শেরপুর",
+      "thana": "শ্রীবরদী",
+      "suboffice": "শ্রীবরদী",
+      "postcode": "২১৩০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "thana": "Shribardi",
+      "suboffice": "Shribardi",
+      "postcode": 2130
+    }
+  },
+  "2140": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "শেরপুর",
+      "thana": "বকশীগঞ্জ",
+      "suboffice": "বকশীগঞ্জ",
+      "postcode": "২১৪০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "thana": "Bakshigonj",
+      "suboffice": "Bakshigonj",
+      "postcode": 2140
+    }
+  },
+  "2150": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "শেরপুর",
+      "thana": "নকলা",
+      "suboffice": "নকলা",
+      "postcode": "২১৫০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "thana": "Nakla",
+      "suboffice": "Nakla",
+      "postcode": 2150
+    }
+  },
+  "2151": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "শেরপুর",
+      "thana": "নকলা",
+      "suboffice": "গণপাদ্দি",
+      "postcode": "২১৫১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Sherpur",
+      "thana": "Nakla",
+      "suboffice": "Gonopaddi",
+      "postcode": 2151
+    }
+  }
+}

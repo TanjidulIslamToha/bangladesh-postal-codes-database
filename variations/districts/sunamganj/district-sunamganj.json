@@ -1,0 +1,402 @@
+{
+  "3000": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "সুনামগঞ্জ সদর",
+      "suboffice": "সুনামগঞ্জ সদর",
+      "postcode": "৩০০০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Sunamganj Sadar",
+      "suboffice": "Sunamganj Sadar",
+      "postcode": 3000
+    }
+  },
+  "3001": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "সুনামগঞ্জ সদর",
+      "suboffice": "পাগলা",
+      "postcode": "৩০০১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Sunamganj Sadar",
+      "suboffice": "Pagla",
+      "postcode": 3001
+    }
+  },
+  "3002": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "সুনামগঞ্জ সদর",
+      "suboffice": "পাথারিয়া",
+      "postcode": "৩০০২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Sunamganj Sadar",
+      "suboffice": "Patharia",
+      "postcode": 3002
+    }
+  },
+  "3010": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "বিশম্ভরপুর",
+      "suboffice": "বিশম্ভরপুর",
+      "postcode": "৩০১০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Bishamsarpur",
+      "suboffice": "Bishamsapur",
+      "postcode": 3010
+    }
+  },
+  "3020": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "সাচনা",
+      "suboffice": "সাচনা",
+      "postcode": "৩০২০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Sachna",
+      "suboffice": "Sachna",
+      "postcode": 3020
+    }
+  },
+  "3030": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "তাহিরপুর",
+      "suboffice": "তাহিরপুর",
+      "postcode": "৩০৩০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Tahirpur",
+      "suboffice": "Tahirpur",
+      "postcode": 3030
+    }
+  },
+  "3040": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "দিরাই চাঁদপুর",
+      "suboffice": "দিরাই চাঁদপুর",
+      "postcode": "৩০৪০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Dhirai Chandpur",
+      "suboffice": "Dhirai Chandpur",
+      "postcode": 3040
+    }
+  },
+  "3041": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "দিরাই চাঁদপুর",
+      "suboffice": "জগদল",
+      "postcode": "৩০৪১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Dhirai Chandpur",
+      "suboffice": "Jagdal",
+      "postcode": 3041
+    }
+  },
+  "3050": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ঘুঙ্গিয়ার",
+      "suboffice": "ঘুঙ্গিয়ার",
+      "postcode": "৩০৫০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Ghungiar",
+      "suboffice": "Ghungiar",
+      "postcode": 3050
+    }
+  },
+  "3060": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "জগন্নাথপুর",
+      "suboffice": "জগন্নাথপুর",
+      "postcode": "৩০৬০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Jagnnathpur",
+      "suboffice": "Jagnnathpur",
+      "postcode": 3060
+    }
+  },
+  "3061": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "জগন্নাথপুর",
+      "suboffice": "সৈয়দপুর",
+      "postcode": "৩০৬১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Jagnnathpur",
+      "suboffice": "Saidpur",
+      "postcode": 3061
+    }
+  },
+  "3062": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "জগন্নাথপুর",
+      "suboffice": "আতুয়াজান",
+      "postcode": "৩০৬২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Jagnnathpur",
+      "suboffice": "Atuajan",
+      "postcode": 3062
+    }
+  },
+  "3063": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "জগন্নাথপুর",
+      "suboffice": "হাসান ফাতেমাপুর",
+      "postcode": "৩০৬৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Jagnnathpur",
+      "suboffice": "Hasan Fatemapur",
+      "postcode": 3063
+    }
+  },
+  "3064": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "জগন্নাথপুর",
+      "suboffice": "রাসূলগঞ্জ",
+      "postcode": "৩০৬৪"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Jagnnathpur",
+      "suboffice": "Rasulganj",
+      "postcode": 3064
+    }
+  },
+  "3065": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "জগন্নাথপুর",
+      "suboffice": "শিরামসি",
+      "postcode": "৩০৬৫"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Jagnnathpur",
+      "suboffice": "Shiramsi",
+      "postcode": 3065
+    }
+  },
+  "3070": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "দুয়ারা বাজার",
+      "suboffice": "দুয়ারা বাজার",
+      "postcode": "৩০৭০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Duara bazar",
+      "suboffice": "Duara bazar",
+      "postcode": 3070
+    }
+  },
+  "3080": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "ছাতক",
+      "postcode": "৩০৮০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Chhatak",
+      "suboffice": "Chhatak",
+      "postcode": 3080
+    }
+  },
+  "3081": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "ছাতক সিমেন্ট ফ্যাক্টরি",
+      "postcode": "৩০৮১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Chhatak",
+      "suboffice": "Chhatak Cement Facto",
+      "postcode": 3081
+    }
+  },
+  "3082": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "ছাতক পেপার মিলস",
+      "postcode": "৩০৮২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Chhatak",
+      "suboffice": "Chhatak Paper Mills",
+      "postcode": 3082
+    }
+  },
+  "3083": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "গোবিন্দগঞ্জ",
+      "postcode": "৩০৮৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Chhatak",
+      "suboffice": "Gabindaganj",
+      "postcode": 3083
+    }
+  },
+  "3084": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "গোবিন্দগঞ্জ নতুন বাজার",
+      "postcode": "৩০৮৪"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Chhatak",
+      "suboffice": "Gabindaganj Natun Ba",
+      "postcode": 3084
+    }
+  },
+  "3085": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "খুরমা",
+      "postcode": "৩০৮৫"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Chhatak",
+      "suboffice": "Khurma",
+      "postcode": 3085
+    }
+  },
+  "3086": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "মৈনপুর",
+      "postcode": "৩০৮৬"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Chhatak",
+      "suboffice": "Moinpur",
+      "postcode": 3086
+    }
+  },
+  "3087": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "জাহিদপুর",
+      "postcode": "৩০৮৭"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Chhatak",
+      "suboffice": "jahidpur",
+      "postcode": 3087
+    }
+  },
+  "3088": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "ইসলামাবাদ",
+      "postcode": "৩০৮৮"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Sunamganj",
+      "thana": "Chhatak",
+      "suboffice": "Islamabad",
+      "postcode": 3088
+    }
+  }
+}

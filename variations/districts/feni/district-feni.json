@@ -1,0 +1,322 @@
+{
+  "3900": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "ফেনী সদর",
+      "suboffice": "ফেনী সদর",
+      "postcode": "৩৯০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Feni Sadar",
+      "suboffice": "Feni Sadar",
+      "postcode": 3900
+    }
+  },
+  "3901": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "ফেনী সদর",
+      "suboffice": "ফাজিলপুর",
+      "postcode": "৩৯০১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Feni Sadar",
+      "suboffice": "Fazilpur",
+      "postcode": 3901
+    }
+  },
+  "3902": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "ফেনী সদর",
+      "suboffice": "শর্শদি",
+      "postcode": "৩৯০২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Feni Sadar",
+      "suboffice": "Sharshadie",
+      "postcode": 3902
+    }
+  },
+  "3903": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "ফেনী সদর",
+      "suboffice": "লস্করহাট",
+      "postcode": "৩৯০৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Feni Sadar",
+      "suboffice": "Laskarhat",
+      "postcode": 3903
+    }
+  },
+  "3910": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "ছাগলনাইয়া",
+      "suboffice": "ছাগলনাইয়া",
+      "postcode": "৩৯১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Chhagalnaia",
+      "suboffice": "Chhagalnaia",
+      "postcode": 3910
+    }
+  },
+  "3911": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "ছাগলনাইয়া",
+      "suboffice": "মহারাজগঞ্জ",
+      "postcode": "৩৯১১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Chhagalnaia",
+      "suboffice": "Maharajganj",
+      "postcode": 3911
+    }
+  },
+  "3912": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "ছাগলনাইয়া",
+      "suboffice": "দারোগাহাট",
+      "postcode": "৩৯১২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Chhagalnaia",
+      "suboffice": "Daraga Hat",
+      "postcode": 3912
+    }
+  },
+  "3913": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "ছাগলনাইয়া",
+      "suboffice": "পূর্ব শিমুলিয়া",
+      "postcode": "৩৯১৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Chhagalnaia",
+      "suboffice": "Puabashimulia",
+      "postcode": 3913
+    }
+  },
+  "3920": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "দাগনভূঞা",
+      "suboffice": "দাগনভূঞা",
+      "postcode": "৩৯২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Dagonbhuia",
+      "suboffice": "Dagondhuia",
+      "postcode": 3920
+    }
+  },
+  "3921": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "দাগনভূঞা",
+      "suboffice": "দুধমুখা",
+      "postcode": "৩৯২১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Dagonbhuia",
+      "suboffice": "Dudmukha",
+      "postcode": 3921
+    }
+  },
+  "3922": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "দাগনভূঞা",
+      "suboffice": "ছিলোনিয়া",
+      "postcode": "৩৯২২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Dagonbhuia",
+      "suboffice": "Silonia",
+      "postcode": 3922
+    }
+  },
+  "3923": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "দাগনভূঞা",
+      "suboffice": "রাজাপুর",
+      "postcode": "৩৯২৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Dagonbhuia",
+      "suboffice": "Rajapur",
+      "postcode": 3923
+    }
+  },
+  "3930": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "সোনাগাজী",
+      "suboffice": "সোনাগাজী",
+      "postcode": "৩৯৩০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Sonagazi",
+      "suboffice": "Sonagazi",
+      "postcode": 3930
+    }
+  },
+  "3931": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "সোনাগাজী",
+      "suboffice": "মতিগঞ্জ",
+      "postcode": "৩৯৩১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Sonagazi",
+      "suboffice": "Motiganj",
+      "postcode": 3931
+    }
+  },
+  "3932": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "সোনাগাজী",
+      "suboffice": "আহমদপুর",
+      "postcode": "৩৯৩২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Sonagazi",
+      "suboffice": "Ahmadpur",
+      "postcode": 3932
+    }
+  },
+  "3933": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "সোনাগাজী",
+      "suboffice": "কাজিরহাট",
+      "postcode": "৩৯৩৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Sonagazi",
+      "suboffice": "Kazirhat",
+      "postcode": 3933
+    }
+  },
+  "3940": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "পশুরামপুর",
+      "suboffice": "পশুরামপুর",
+      "postcode": "৩৯৪০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Pashurampur",
+      "suboffice": "Pashurampur",
+      "postcode": 3940
+    }
+  },
+  "3941": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "পশুরামপুর",
+      "suboffice": "শুড়বাজার",
+      "postcode": "৩৯৪১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Pashurampur",
+      "suboffice": "Shuarbazar",
+      "postcode": 3941
+    }
+  },
+  "3942": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "পশুরামপুর",
+      "suboffice": "ফুলগাজী",
+      "postcode": "৩৯৪২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Pashurampur",
+      "suboffice": "Fulgazi",
+      "postcode": 3942
+    }
+  },
+  "3943": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ফেনী",
+      "thana": "পশুরামপুর",
+      "suboffice": "মুন্সিরহাট",
+      "postcode": "৩৯৪৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Feni",
+      "thana": "Pashurampur",
+      "suboffice": "Munshirhat",
+      "postcode": 3943
+    }
+  }
+}

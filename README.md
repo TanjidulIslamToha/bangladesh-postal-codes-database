@@ -4,26 +4,47 @@ A comprehensive database of Bangladesh postal codes with bilingual support (Beng
 
 ## 📁 Files
 
-### Main Data Files
-- **`postcodes-pretty.json`** - Main formatted JSON file with bilingual postcode data
-- **`postcodes-english.json`** - English-only postcode data
-- **`postcodes-bengali.json`** - Bengali-only postcode data
+### Main Data File (root)
+- **`postcodes-pretty.json`** — Pretty, bilingual JSON (cleaned and validated). Keep this at the project root.
 
-### CSV Files
-- **`postcodes-english.csv`** - English postcode data in CSV format
-- **`postcodes-bengali.csv`** - Bengali postcode data in CSV format
+### Variations (generated)
+All variations are under `variations/`.
+
+- **`variations/bn/`**
+  - `postcodes-bn.json` — Bengali-only JSON
+  - `postcodes-bn.csv` — Bengali-only CSV
+- **`variations/en/`**
+  - `postcodes-en.json` — English-only JSON
+  - `postcodes-en.csv` — English-only CSV
+- **`variations/ranges/`**
+  - `district_code_ranges.csv` — District code ranges (inclusive)
+- **`variations/summary/`**
+  - `counts_by_division.csv`
+  - `counts_by_district.csv`
+  - `counts_by_thana.csv`
+ - **`variations/divisions/`** — One folder per division, each containing:
+   - `division-<slug>.json` (combined bn+en for that division)
+   - `division-<slug>.csv`
+ - **`variations/districts/`** — One folder per district, each containing:
+   - `district-<slug>.json` (combined bn+en for that district)
+   - `district-<slug>.csv`
+ - **`variations/flat/`**
+   - `postcodes-flat.csv` — Whole dataset as a single CSV (bn+en columns)
+ - **`variations/index/`**
+   - `division_index_en.json`, `district_index_en.json`
+   - `thana_index_en.json`, `suboffice_index_en.json`
+   - `thana_index_bn.json`, `suboffice_index_bn.json`
+ - **`variations/unique/`**
+   - `unique_thanas_en.csv`, `unique_thanas_bn.csv`
+   - `unique_suboffices_en.csv`, `unique_suboffices_bn.csv`
+ - **`variations/min/`**
+   - `postcodes-pretty.min.json` — Minified JSON
 
 ### Administrative Divisions
-- **`divisions-english.json`** - English division data
-- **`divisions-bengali.json`** - Bengali division data
-- **`divisions-english.csv`** - English division data in CSV format
-- **`divisions-bengali.csv`** - Bengali division data in CSV format
+- (merged into main JSON; separate division files removed)
 
 ### Districts
-- **`districts-english.json`** - English district data
-- **`districts-bengali.json`** - Bengali district data
-- **`districts-english.csv`** - English district data in CSV format
-- **`districts-bengali.csv`** - Bengali district data in CSV format
+- (merged into main JSON; separate district files removed)
 
 ## 📊 Data Structure
 
@@ -69,7 +90,7 @@ Each postcode entry follows this structure:
 
 ## 📈 Statistics
 
-- **Total Postcodes**: 1,353
+- **Total Postcodes**: 1,347
 - **Divisions**: 8
 - **Districts**: 64
 - **Format**: JSON and CSV
@@ -78,12 +99,10 @@ Each postcode entry follows this structure:
 ## 🔧 Data Quality
 
 ✅ **Verified and Cleaned**:
-- All language keys consistently ordered (`bn` before `en`)
-- No mixed-language entries
-- No missing fields or sections
-- No empty or null values
-- Proper Bengali spelling throughout
-- Accurate English transliterations
+- All `bn` fields aligned to the official Wikipedia listing (script-verified)
+- English `district` aligned to authoritative postal code ranges provided
+- Consistent key ordering (`bn` then `en`), UTF-8, no null/empty fields
+- Correct Bengali spellings and English transliterations
 
 ## 📋 Usage Examples
 
@@ -155,7 +174,20 @@ This database is regularly updated to maintain accuracy and completeness of Bang
 
 ---
 
-**Last Updated**: December 2024  
-**Total Records**: 1,353 postcodes  
-**Data Format**: JSON & CSV  
+**Last Updated**: September 2025  
+**Total Records**: 1,347 postcodes  
+**Data Format**: JSON  
 **Language Support**: Bengali & English
+
+## 📚 Sources
+- Wikipedia: Bangladesh postal codes (Bengali listing) — used to verify all bn fields
+- District code ranges (user-provided reference) — used to align en.district to ranges
+
+## 🔄 Generate Variations
+To regenerate the variations after any change to `postcodes-pretty.json`:
+
+```bash
+python generate_variations.py
+```
+
+Outputs will be placed under the `variations/` folder as documented above.

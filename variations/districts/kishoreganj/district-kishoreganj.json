@@ -1,0 +1,338 @@
+{
+  "2300": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "কিশোরগঞ্জ সদর",
+      "suboffice": "কিশোরগঞ্জ সদর",
+      "postcode": "২৩০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Kishoreganj Sadar",
+      "suboffice": "Kishoreganj Sadar",
+      "postcode": 2300
+    }
+  },
+  "2301": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "কিশোরগঞ্জ সদর",
+      "suboffice": "কিশোরগঞ্জ এস.মিলস",
+      "postcode": "২৩০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Kishoreganj Sadar",
+      "suboffice": "Kishoreganj S.Mills",
+      "postcode": 2301
+    }
+  },
+  "2302": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "পাকুন্দিয়া",
+      "suboffice": "মাইজহাটি",
+      "postcode": "২৩০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Pakundia",
+      "suboffice": "Maizhati",
+      "postcode": 2302
+    }
+  },
+  "2303": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "কিশোরগঞ্জ সদর",
+      "suboffice": "নীলগঞ্জ",
+      "postcode": "২৩০৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Kishoreganj Sadar",
+      "suboffice": "Nilganj",
+      "postcode": 2303
+    }
+  },
+  "2310": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "করিমগঞ্জ",
+      "suboffice": "করিমগঞ্জ",
+      "postcode": "২৩১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Karimganj",
+      "suboffice": "Karimganj",
+      "postcode": 2310
+    }
+  },
+  "2316": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "তাড়াইল",
+      "suboffice": "তাড়াইল",
+      "postcode": "২৩১৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Tarail",
+      "suboffice": "Tarail",
+      "postcode": 2316
+    }
+  },
+  "2320": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "হোসেনপুর",
+      "suboffice": "হোসেনপুর",
+      "postcode": "২৩২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Hossenpur",
+      "suboffice": "Hossenpur",
+      "postcode": 2320
+    }
+  },
+  "2326": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "পাকুন্দিয়া",
+      "suboffice": "পাকুন্দিয়া",
+      "postcode": "২৩২৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Pakundia",
+      "suboffice": "Pakundia",
+      "postcode": 2326
+    }
+  },
+  "2330": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "কটিয়াদি",
+      "suboffice": "কটিয়াদি",
+      "postcode": "২৩৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Katiadi",
+      "suboffice": "Katiadi",
+      "postcode": 2330
+    }
+  },
+  "2331": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "কটিয়াদি",
+      "suboffice": "গচিহাটা",
+      "postcode": "২৩৩১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Katiadi",
+      "suboffice": "Gochhihata",
+      "postcode": 2331
+    }
+  },
+  "2336": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "বাজিতপুর",
+      "suboffice": "বাজিতপুর",
+      "postcode": "২৩৩৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Bajitpur",
+      "suboffice": "Bajitpur",
+      "postcode": 2336
+    }
+  },
+  "2337": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "বাজিতপুর",
+      "suboffice": "সরারচর",
+      "postcode": "২৩৩৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Bajitpur",
+      "suboffice": "Sararchar",
+      "postcode": 2337
+    }
+  },
+  "2338": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "বাজিতপুর",
+      "suboffice": "লক্ষ্মীপুর",
+      "postcode": "২৩৩৮"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Bajitpur",
+      "suboffice": "Laksmipur",
+      "postcode": 2338
+    }
+  },
+  "2340": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "কুলিয়ারচর",
+      "suboffice": "কুলিয়ারচর",
+      "postcode": "২৩৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Kuliarchar",
+      "suboffice": "Kuliarchar",
+      "postcode": 2340
+    }
+  },
+  "2341": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "কুলিয়ারচর",
+      "suboffice": "ছয়সূতি",
+      "postcode": "২৩৪১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Kuliarchar",
+      "suboffice": "Chhoysuti",
+      "postcode": 2341
+    }
+  },
+  "2350": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "অষ্টগ্রাম",
+      "suboffice": "বাংগালপাড়া",
+      "postcode": "২৩৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Bhairob",
+      "suboffice": "Bhairab",
+      "postcode": 2350
+    }
+  },
+  "2360": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "নিকলী",
+      "suboffice": "নিকলী",
+      "postcode": "২৩৬০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Nikli",
+      "suboffice": "Nikli",
+      "postcode": 2360
+    }
+  },
+  "2370": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "মিঠামইন",
+      "suboffice": "মিঠামইন",
+      "postcode": "২৩৭০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Mithamoin",
+      "suboffice": "MIthamoin",
+      "postcode": 2370
+    }
+  },
+  "2371": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "মিঠামইন",
+      "suboffice": "আব্দুল্লাহপুর",
+      "postcode": "২৩৭১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Mithamoin",
+      "suboffice": "Abdullahpur",
+      "postcode": 2371
+    }
+  },
+  "2380": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "অষ্টগ্রাম",
+      "suboffice": "অষ্টগ্রাম",
+      "postcode": "২৩৮০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Bhairob",
+      "suboffice": "Ostagram",
+      "postcode": 2380
+    }
+  },
+  "2390": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "কিশোরগঞ্জ",
+      "thana": "ইটনা",
+      "suboffice": "ইটনা",
+      "postcode": "২৩৯০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Kishoreganj",
+      "thana": "Itna",
+      "suboffice": "Itna",
+      "postcode": 2390
+    }
+  }
+}

@@ -1,0 +1,546 @@
+{
+  "1500": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "মুন্সীগঞ্জ সদর",
+      "suboffice": "মুন্সীগঞ্জ সদর",
+      "postcode": "১৫০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Munshiganj Sadar",
+      "suboffice": "Munshiganj Sadar",
+      "postcode": 1500
+    }
+  },
+  "1501": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "মুন্সীগঞ্জ সদর",
+      "suboffice": "রিকাবিবাজার",
+      "postcode": "১৫০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Munshiganj Sadar",
+      "suboffice": "Rikabibazar",
+      "postcode": 1501
+    }
+  },
+  "1502": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "মুন্সীগঞ্জ সদর",
+      "suboffice": "মিরকাদিম",
+      "postcode": "১৫০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Munshiganj Sadar",
+      "suboffice": "Mirkadim",
+      "postcode": 1502
+    }
+  },
+  "1503": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "মুন্সীগঞ্জ সদর",
+      "suboffice": "কাঠাখালি",
+      "postcode": "১৫০৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Munshiganj Sadar",
+      "suboffice": "Kathakhali",
+      "postcode": 1503
+    }
+  },
+  "1510": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "গজারিয়া",
+      "suboffice": "গজারিয়া",
+      "postcode": "১৫১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Gajaria",
+      "suboffice": "Gajaria",
+      "postcode": 1510
+    }
+  },
+  "1511": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "গজারিয়া",
+      "suboffice": "হোসেন্দি",
+      "postcode": "১৫১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Gajaria",
+      "suboffice": "Hossendi",
+      "postcode": 1511
+    }
+  },
+  "1512": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "গজারিয়া",
+      "suboffice": "রসুলপুর",
+      "postcode": "১৫১২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Gajaria",
+      "suboffice": "Gouragonj",
+      "postcode": 1512
+    }
+  },
+  "1520": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "টাংগিবাড়ি",
+      "suboffice": "টাংগিবাড়ি",
+      "postcode": "১৫২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Tangibari",
+      "suboffice": "Tangibari",
+      "postcode": 1520
+    }
+  },
+  "1521": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "টাংগিবাড়ি",
+      "suboffice": "বেটকারহাট",
+      "postcode": "১৫২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Tangibari",
+      "suboffice": "Betkahat",
+      "postcode": 1521
+    }
+  },
+  "1522": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "টাংগিবাড়ি",
+      "suboffice": "বালিগাও",
+      "postcode": "১৫২২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Tangibari",
+      "suboffice": "Baligao",
+      "postcode": 1522
+    }
+  },
+  "1523": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "টাংগিবাড়ি",
+      "suboffice": "বিজরাজুগিনি",
+      "postcode": "১৫২৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Tangibari",
+      "suboffice": "Bajrajugini",
+      "postcode": 1523
+    }
+  },
+  "1524": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "টাংগিবাড়ি",
+      "suboffice": "হাসাইল",
+      "postcode": "১৫২৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Tangibari",
+      "suboffice": "Hasail",
+      "postcode": 1524
+    }
+  },
+  "1525": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "টাংগিবাড়ি",
+      "suboffice": "দিঘিরপাড়",
+      "postcode": "১৫২৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Tangibari",
+      "suboffice": "Dighirpar",
+      "postcode": 1525
+    }
+  },
+  "1526": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "টাংগিবাড়ি",
+      "suboffice": "পুরা EDSO",
+      "postcode": "১৫২৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Tangibari",
+      "suboffice": "Pura EDSO",
+      "postcode": 1526
+    }
+  },
+  "1527": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "টাংগিবাড়ি",
+      "suboffice": "পুরা",
+      "postcode": "১৫২৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Tangibari",
+      "suboffice": "Pura",
+      "postcode": 1527
+    }
+  },
+  "1530": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "লৌহজং",
+      "suboffice": "লৌহজং",
+      "postcode": "১৫৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Lohajong",
+      "suboffice": "Lohajang",
+      "postcode": 1530
+    }
+  },
+  "1531": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "লৌহজং",
+      "suboffice": "করহাতি",
+      "postcode": "১৫৩১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Lohajong",
+      "suboffice": "Korhati",
+      "postcode": 1531
+    }
+  },
+  "1532": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "লৌহজং",
+      "suboffice": "হলদিয়া তাই",
+      "postcode": "১৫৩২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Lohajong",
+      "suboffice": "Haldia SO",
+      "postcode": 1532
+    }
+  },
+  "1533": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "লৌহজং",
+      "suboffice": "হারিদিয়া DESO",
+      "postcode": "১৫৩৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Lohajong",
+      "suboffice": "Haridia DESO",
+      "postcode": 1533
+    }
+  },
+  "1534": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "লৌহজং",
+      "suboffice": "গৌড়গঞ্জ",
+      "postcode": "১৫৩৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Lohajong",
+      "suboffice": "Gouragonj",
+      "postcode": 1534
+    }
+  },
+  "1540": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "সিরাজদিখান",
+      "suboffice": "সিরাজদিখান",
+      "postcode": "১৫৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sirajdikhan",
+      "suboffice": "Sirajdikhan",
+      "postcode": 1540
+    }
+  },
+  "1541": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "সিরাজদিখান",
+      "suboffice": "কোলা",
+      "postcode": "১৫৪১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sirajdikhan",
+      "suboffice": "Kola",
+      "postcode": 1541
+    }
+  },
+  "1542": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "সিরাজদিখান",
+      "suboffice": "ইছাপুর",
+      "postcode": "১৫৪২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sirajdikhan",
+      "suboffice": "Ichapur",
+      "postcode": 1542
+    }
+  },
+  "1543": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "সিরাজদিখান",
+      "suboffice": "মালখানগর",
+      "postcode": "১৫৪৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sirajdikhan",
+      "suboffice": "Malkha Nagar",
+      "postcode": 1543
+    }
+  },
+  "1544": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "সিরাজদিখান",
+      "suboffice": "শেখের নগর",
+      "postcode": "১৫৪৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sirajdikhan",
+      "suboffice": "Shekher Nagar",
+      "postcode": 1544
+    }
+  },
+  "1550": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "শ্রীনগর",
+      "suboffice": "শ্রীনগর",
+      "postcode": "১৫৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sreenagar",
+      "suboffice": "Sreenagar",
+      "postcode": 1550
+    }
+  },
+  "1551": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "শ্রীনগর",
+      "suboffice": "বারিখাল",
+      "postcode": "১৫৫১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sreenagar",
+      "suboffice": "Rarikhal",
+      "postcode": 1551
+    }
+  },
+  "1552": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "শ্রীনগর",
+      "suboffice": "মাজপাড়া",
+      "postcode": "১৫৫২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sreenagar",
+      "suboffice": "Maijpara",
+      "postcode": 1552
+    }
+  },
+  "1553": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "শ্রীনগর",
+      "suboffice": "হাশারা",
+      "postcode": "১৫৫৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sreenagar",
+      "suboffice": "Hashara",
+      "postcode": 1553
+    }
+  },
+  "1554": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "শ্রীনগর",
+      "suboffice": "কলাপাড়া",
+      "postcode": "১৫৫৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sreenagar",
+      "suboffice": "Kolapara",
+      "postcode": 1554
+    }
+  },
+  "1555": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "শ্রীনগর",
+      "suboffice": "কুমারভগ",
+      "postcode": "১৫৫৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sreenagar",
+      "suboffice": "Kumarbhog",
+      "postcode": 1555
+    }
+  },
+  "1556": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "শ্রীনগর",
+      "suboffice": "ভাগ্যকুল তাই",
+      "postcode": "১৫৫৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sreenagar",
+      "suboffice": "Vaggyakul SO",
+      "postcode": 1556
+    }
+  },
+  "1557": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "শ্রীনগর",
+      "suboffice": "বাঘড়া",
+      "postcode": "১৫৫৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sreenagar",
+      "suboffice": "Baghra",
+      "postcode": 1557
+    }
+  },
+  "1558": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "শ্রীনগর",
+      "suboffice": "ভাগ্যকুল",
+      "postcode": "১৫৫৮"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Munshiganj",
+      "thana": "Sreenagar",
+      "suboffice": "Bhaggyakul",
+      "postcode": 1558
+    }
+  }
+}

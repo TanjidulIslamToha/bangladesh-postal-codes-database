@@ -1,0 +1,850 @@
+{
+  "1000": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "পল্টন",
+      "suboffice": "ঢাকা জিপিও",
+      "postcode": "১০০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Palton",
+      "suboffice": "Dhaka GPO",
+      "postcode": 1000
+    }
+  },
+  "1100": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সূত্রাপুর",
+      "suboffice": "ঢাকা সদর HO",
+      "postcode": "১১০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Sutrapur",
+      "suboffice": "Dhaka Sadar HO",
+      "postcode": 1100
+    }
+  },
+  "1203": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সূত্রাপুর",
+      "suboffice": "ওয়ারী টিএসও",
+      "postcode": "১২০৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Sutrapur",
+      "suboffice": "Wari TSO",
+      "postcode": 1203
+    }
+  },
+  "1204": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সূত্রাপুর",
+      "suboffice": "গেন্ডারিয়া টিএসও",
+      "postcode": "১২০৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Sutrapur",
+      "suboffice": "Gandaria TSO",
+      "postcode": 1204
+    }
+  },
+  "1205": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "নিউমার্কেট",
+      "suboffice": "নিউমার্কেট টিএসও",
+      "postcode": "১২০৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Kalabagan (Old New market)",
+      "suboffice": "Kalabagan",
+      "postcode": 1205
+    }
+  },
+  "1206": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "ঢাকা সেনানিবাস",
+      "suboffice": "ঢাকা সেনানিবাস টিএসও",
+      "postcode": "১২০৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Dhaka",
+      "suboffice": "Dhaka Cantonment-TSO",
+      "postcode": 1206
+    }
+  },
+  "1207": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "মোহাম্মদপুর",
+      "suboffice": "মোহাম্মদপুর হাউজিং",
+      "postcode": "১২০৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Mohammadpur",
+      "suboffice": "Mohammadpur Housing",
+      "postcode": 1207
+    }
+  },
+  "1208": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "তেজগাঁও শিল্প এলাকা",
+      "suboffice": "ঢাকা পলিটেকনিক",
+      "postcode": "১২০৮"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Tejgaon Industrial Area",
+      "suboffice": "Dhaka Politechnic",
+      "postcode": 1208
+    }
+  },
+  "1209": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "ধানমন্ডি",
+      "suboffice": "জিগাতলা টিএসও",
+      "postcode": "১২০৯"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Dhanmondi",
+      "suboffice": "Jigatala TSO",
+      "postcode": 1209
+    }
+  },
+  "1211": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "লালবাগ",
+      "suboffice": "পোস্তা টিএসও",
+      "postcode": "১২১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Lalbag",
+      "suboffice": "Posta TSO",
+      "postcode": 1211
+    }
+  },
+  "1212": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "গুলশান",
+      "suboffice": "গুলশান মডেল টাউন",
+      "postcode": "১২১২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Gulshan",
+      "suboffice": "Dhania TSO",
+      "postcode": 1212
+    }
+  },
+  "1213": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "গুলশান",
+      "suboffice": "বনানী টিএসও",
+      "postcode": "১২১৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Gulshan",
+      "suboffice": "Banani TSO",
+      "postcode": 1213
+    }
+  },
+  "1214": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সবুজবাগ",
+      "suboffice": "বাসাবো টিএসও",
+      "postcode": "১২১৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Sabujbag",
+      "suboffice": "Basabo TSO",
+      "postcode": 1214
+    }
+  },
+  "1215": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "তেজগাঁও",
+      "suboffice": "তেজগাঁও টিএসও",
+      "postcode": "১২১৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Tejgaon",
+      "suboffice": "Tejgaon TSO",
+      "postcode": 1215
+    }
+  },
+  "1216": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "মিরপুর",
+      "suboffice": "মিরপুর টিএসও",
+      "postcode": "১২১৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Mirpur",
+      "suboffice": "Mirpur TSO",
+      "postcode": 1216
+    }
+  },
+  "1217": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "রমনা",
+      "suboffice": "শান্তিনগর টিএসও",
+      "postcode": "১২১৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Ramna",
+      "suboffice": "Shantinagr TSO",
+      "postcode": 1217
+    }
+  },
+  "1219": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "খিলগাঁও",
+      "suboffice": "খিলগাঁও টিএসও",
+      "postcode": "১২১৯"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Khilgaon",
+      "suboffice": "KhilgaonTSO",
+      "postcode": 1219
+    }
+  },
+  "1222": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "মতিঝিল",
+      "suboffice": "বঙ্গভবন টিএসও",
+      "postcode": "১২২২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Motijheel",
+      "suboffice": "BangabhabanTSO",
+      "postcode": 1222
+    }
+  },
+  "1223": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "মতিঝিল",
+      "suboffice": "দিলকুশা টিএসও",
+      "postcode": "১২২৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Motijheel",
+      "suboffice": "DilkushaTSO",
+      "postcode": 1223
+    }
+  },
+  "1225": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "শের এ বাংলা নগর",
+      "suboffice": "সংসদ ভবন টিএসও",
+      "postcode": "১২২৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Mohammadpur",
+      "suboffice": "Sangsad BhabanTSO",
+      "postcode": 1225
+    }
+  },
+  "1229": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "খিলক্ষেত",
+      "suboffice": "খিলক্ষেত টিএসও",
+      "postcode": "১২২৯"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Khilkhet",
+      "suboffice": "KhilkhetTSO",
+      "postcode": 1229
+    }
+  },
+  "1230": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "উত্তরা",
+      "suboffice": "উত্তরা মডেল টাউন টিএসও",
+      "postcode": "১২৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Uttara",
+      "suboffice": "Uttara Model Town TSO",
+      "postcode": 1230
+    }
+  },
+  "1236": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "যাত্রাবাড়ী",
+      "suboffice": "দনিয়া",
+      "postcode": "১২৩৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Jatrabari",
+      "suboffice": "Dhania TSO",
+      "postcode": 1236
+    }
+  },
+  "1310": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "কেরানীগঞ্জ",
+      "suboffice": "কেরানীগঞ্জ",
+      "postcode": "১৩১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Keraniganj",
+      "suboffice": "Keraniganj",
+      "postcode": 1310
+    }
+  },
+  "1311": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "কেরানীগঞ্জ",
+      "suboffice": "ঢাকা পাট কল",
+      "postcode": "১৩১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Keraniganj",
+      "suboffice": "Dhaka Jute Mills",
+      "postcode": 1311
+    }
+  },
+  "1312": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "কেরানীগঞ্জ",
+      "suboffice": "আটি",
+      "postcode": "১৩১২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Keraniganj",
+      "suboffice": "Ati",
+      "postcode": 1312
+    }
+  },
+  "1313": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "কেরানীগঞ্জ",
+      "suboffice": "কালাটিয়া",
+      "postcode": "১৩১৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Keraniganj",
+      "suboffice": "Kalatia",
+      "postcode": 1313
+    }
+  },
+  "1320": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "নবাবগঞ্জ",
+      "postcode": "১৩২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Nawabganj",
+      "suboffice": "Nawabganj",
+      "postcode": 1320
+    }
+  },
+  "1321": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "হাসনাবাদ",
+      "postcode": "১৩২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Nawabganj",
+      "suboffice": "Hasnabad",
+      "postcode": 1321
+    }
+  },
+  "1322": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "দাউদপুর",
+      "postcode": "১৩২২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Nawabganj",
+      "suboffice": "Daudpur",
+      "postcode": 1322
+    }
+  },
+  "1323": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "আগলা",
+      "postcode": "১৩২৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Nawabganj",
+      "suboffice": "Agla",
+      "postcode": 1323
+    }
+  },
+  "1324": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "খালপাড়",
+      "postcode": "১৩২৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Nawabganj",
+      "suboffice": "Khalpar",
+      "postcode": 1324
+    }
+  },
+  "1325": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "চুরাইন",
+      "postcode": "১৩২৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Nawabganj",
+      "suboffice": "Churain",
+      "postcode": 1325
+    }
+  },
+  "1330": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "জয়পাড়া",
+      "suboffice": "জয়পাড়া",
+      "postcode": "১৩৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Joypara",
+      "suboffice": "Joypara",
+      "postcode": 1330
+    }
+  },
+  "1331": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "জয়পাড়া",
+      "suboffice": "পালামগঞ্জ",
+      "postcode": "১৩৩১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Joypara",
+      "suboffice": "Palamganj",
+      "postcode": 1331
+    }
+  },
+  "1332": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "জয়পাড়া",
+      "suboffice": "নারিশা",
+      "postcode": "১৩৩২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Joypara",
+      "suboffice": "Narisha",
+      "postcode": 1332
+    }
+  },
+  "1333": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "লৌহজং",
+      "suboffice": "হারিদিয়া",
+      "postcode": "১৩৩৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Lohajong",
+      "suboffice": "Haridia",
+      "postcode": 1333
+    }
+  },
+  "1335": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মুন্সীগঞ্জ",
+      "thana": "লৌহজং",
+      "suboffice": "মেদিনী মণ্ডল",
+      "postcode": "১৩৩৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Lohajong",
+      "suboffice": "Madini Mandal",
+      "postcode": 1335
+    }
+  },
+  "1340": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "সাভার",
+      "postcode": "১৩৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "Savar",
+      "postcode": 1340
+    }
+  },
+  "1341": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "ডেইরি ফার্ম",
+      "postcode": "১৩৪১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "Dairy Farm",
+      "postcode": 1341
+    }
+  },
+  "1342": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়",
+      "postcode": "১৩৪২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "Jahangirnagar University",
+      "postcode": 1342
+    }
+  },
+  "1343": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "সাভার পিএটিসি",
+      "postcode": "১৩৪৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "Saver P.A.T.C",
+      "postcode": 1343
+    }
+  },
+  "1344": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "সাভার সেনানিবাস",
+      "postcode": "১৩৪৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "Savar Canttonment",
+      "postcode": 1344
+    }
+  },
+  "1345": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "শিমুলিয়া",
+      "postcode": "১৩৪৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "Shimulia",
+      "postcode": 1345
+    }
+  },
+  "1346": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "কাশেম কটন মিলস",
+      "postcode": "১৩৪৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "Kashem Cotton Mills",
+      "postcode": 1346
+    }
+  },
+  "1347": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "রাজফুলবাড়ীয়া",
+      "postcode": "১৩৪৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "Rajphulbaria",
+      "postcode": 1347
+    }
+  },
+  "1348": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "আমিন বাজার",
+      "postcode": "১৩৪৮"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "Amin Bazar",
+      "postcode": 1348
+    }
+  },
+  "1349": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "সাভার",
+      "suboffice": "ইপিজেড",
+      "postcode": "১৩৪৯"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Savar",
+      "suboffice": "EPZ",
+      "postcode": 1349
+    }
+  },
+  "1350": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "ধামরাই",
+      "suboffice": "ধামরাই",
+      "postcode": "১৩৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Dhamrai",
+      "suboffice": "Dhamrai",
+      "postcode": 1350
+    }
+  },
+  "1351": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "ধামরাই",
+      "suboffice": "কমলপুর",
+      "postcode": "১৩৫১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Dhamrai",
+      "suboffice": "Kamalpur",
+      "postcode": 1351
+    }
+  },
+  "1360": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "ডেমরা",
+      "suboffice": "ডেমরা",
+      "postcode": "১৩৬০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Demra",
+      "suboffice": "Demra",
+      "postcode": 1360
+    }
+  },
+  "1361": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "ডেমরা",
+      "suboffice": "সারুলিয়া",
+      "postcode": "১৩৬১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Demra",
+      "suboffice": "Sarulia",
+      "postcode": 1361
+    }
+  },
+  "1362": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "ঢাকা",
+      "thana": "কদমতলী",
+      "suboffice": "মাতুয়াইল",
+      "postcode": "১৩৬২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Dhaka",
+      "thana": "Demra",
+      "suboffice": "Matuail",
+      "postcode": 1362
+    }
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "6700": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "সিরাজগঞ্জ সদর",
+      "suboffice": "সিরাজগঞ্জ সদর",
+      "postcode": "৬৭০০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Sirajganj Sadar",
+      "suboffice": "Sirajganj Sadar",
+      "postcode": 6700
+    }
+  },
+  "6701": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "সিরাজগঞ্জ সদর",
+      "suboffice": "রায়পুর",
+      "postcode": "৬৭০১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Sirajganj Sadar",
+      "suboffice": "Raipur",
+      "postcode": 6701
+    }
+  },
+  "6702": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "সিরাজগঞ্জ সদর",
+      "suboffice": "রাশিদাবাদ",
+      "postcode": "৬৭০২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Sirajganj Sadar",
+      "suboffice": "Rashidabad",
+      "postcode": 6702
+    }
+  },
+  "6710": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "কাজীপুর",
+      "suboffice": "কাজীপুর",
+      "postcode": "৬৭১০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Kazipur",
+      "suboffice": "Kazipur",
+      "postcode": 6710
+    }
+  },
+  "6711": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "কাজীপুর",
+      "suboffice": "শুভগাছা",
+      "postcode": "৬৭১১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Kazipur",
+      "suboffice": "Shuvgachha",
+      "postcode": 6711
+    }
+  },
+  "6712": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "কাজীপুর",
+      "suboffice": "গান্ধাইল",
+      "postcode": "৬৭১২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Kazipur",
+      "suboffice": "Gandail",
+      "postcode": 6712
+    }
+  },
+  "6720": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "ধানগড়া",
+      "suboffice": "ধানগড়া",
+      "postcode": "৬৭২০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Dhangora",
+      "suboffice": "Dhangora",
+      "postcode": 6720
+    }
+  },
+  "6721": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "ধানগড়া",
+      "suboffice": "মালঙ্গা",
+      "postcode": "৬৭২১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Dhangora",
+      "suboffice": "Malonga",
+      "postcode": 6721
+    }
+  },
+  "6730": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "বাইদ্দ্যা জামতৈল",
+      "suboffice": "বাইদ্দ্যা জামতৈল",
+      "postcode": "৬৭৩০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Baiddya Jam Toil",
+      "suboffice": "Baiddya Jam Toil",
+      "postcode": 6730
+    }
+  },
+  "6740": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "বেলকুচি",
+      "suboffice": "বেলকুচি",
+      "postcode": "৬৭৪০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Belkuchi",
+      "suboffice": "Belkuchi",
+      "postcode": 6740
+    }
+  },
+  "6741": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "বেলকুচি",
+      "suboffice": "সোহাগপুর",
+      "postcode": "৬৭৪১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Belkuchi",
+      "suboffice": "Sohagpur",
+      "postcode": 6741
+    }
+  },
+  "6742": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "বেলকুচি",
+      "suboffice": "রাজাপুর",
+      "postcode": "৬৭৪২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Belkuchi",
+      "suboffice": "Rajapur",
+      "postcode": 6742
+    }
+  },
+  "6751": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "বেলকুচি",
+      "suboffice": "এনায়েতপুর",
+      "postcode": "৬৭৫১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Belkuchi",
+      "suboffice": "Enayetpur",
+      "postcode": 6751
+    }
+  },
+  "6752": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "বেলকুচি",
+      "suboffice": "স্থল",
+      "postcode": "৬৭৫২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Belkuchi",
+      "suboffice": "Sthal",
+      "postcode": 6752
+    }
+  },
+  "6760": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "উল্লাপাড়া",
+      "suboffice": "উল্লাপাড়া",
+      "postcode": "৬৭৬০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Ullapara",
+      "suboffice": "Ullapara",
+      "postcode": 6760
+    }
+  },
+  "6761": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "উল্লাপাড়া",
+      "suboffice": "উল্লাপাড়া R.S",
+      "postcode": "৬৭৬১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Ullapara",
+      "suboffice": "Ullapara R.S",
+      "postcode": 6761
+    }
+  },
+  "6762": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "উল্লাপাড়া",
+      "suboffice": "লাহিড়ী মোহনপুর",
+      "postcode": "৬৭৬২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Ullapara",
+      "suboffice": "Lahiri Mohanpur",
+      "postcode": 6762
+    }
+  },
+  "6763": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "উল্লাপাড়া",
+      "suboffice": "সালাপ",
+      "postcode": "৬৭৬৩"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Ullapara",
+      "suboffice": "Salap",
+      "postcode": 6763
+    }
+  },
+  "6770": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "শাহজাদপুর",
+      "suboffice": "শাহজাদপুর",
+      "postcode": "৬৭৭০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Shahjadpur",
+      "suboffice": "Shahjadpur",
+      "postcode": 6770
+    }
+  },
+  "6771": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "শাহজাদপুর",
+      "suboffice": "পরজানা",
+      "postcode": "৬৭৭১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Shahjadpur",
+      "suboffice": "Porjana",
+      "postcode": 6771
+    }
+  },
+  "6772": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "শাহজাদপুর",
+      "suboffice": "জামিরটা",
+      "postcode": "৬৭৭২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Shahjadpur",
+      "suboffice": "Jamirta",
+      "postcode": 6772
+    }
+  },
+  "6773": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "শাহজাদপুর",
+      "suboffice": "কৈজুরী",
+      "postcode": "৬৭৭৩"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Shahjadpur",
+      "suboffice": "Kaijuri",
+      "postcode": 6773
+    }
+  },
+  "6780": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "সিরাজগঞ্জ",
+      "thana": "তাড়াশ",
+      "suboffice": "তাড়াশ",
+      "postcode": "৬৭৮০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Sirajganj",
+      "thana": "Tarash",
+      "suboffice": "Tarash",
+      "postcode": 6780
+    }
+  }
+}

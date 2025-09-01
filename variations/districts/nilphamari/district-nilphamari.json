@@ -1,0 +1,162 @@
+{
+  "5300": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "নীলফামারী সদর",
+      "suboffice": "নীলফামারী সদর",
+      "postcode": "৫৩০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Nilphamari Sadar",
+      "suboffice": "Nilphamari Sadar",
+      "postcode": 5300
+    }
+  },
+  "5301": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "নীলফামারী সদর",
+      "suboffice": "নীলফামারী চিনি মিল",
+      "postcode": "৫৩০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Nilphamari Sadar",
+      "suboffice": "Nilphamari Sugar Mil",
+      "postcode": 5301
+    }
+  },
+  "5310": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "সৈয়দপুর",
+      "suboffice": "সৈয়দপুর",
+      "postcode": "৫৩১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Saidpur",
+      "suboffice": "Saidpur",
+      "postcode": 5310
+    }
+  },
+  "5311": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "সৈয়দপুর",
+      "suboffice": "সৈয়দপুর উপশহর",
+      "postcode": "৫৩১১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Saidpur",
+      "suboffice": "Saidpur Upashahar",
+      "postcode": 5311
+    }
+  },
+  "5320": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "কিশোরীগঞ্জ",
+      "suboffice": "কিশোরীগঞ্জ",
+      "postcode": "৫৩২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Kishoriganj",
+      "suboffice": "Kishoriganj",
+      "postcode": 5320
+    }
+  },
+  "5330": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "জলঢাকা",
+      "suboffice": "জলঢাকা",
+      "postcode": "৫৩৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Jaldhaka",
+      "suboffice": "Jaldhaka",
+      "postcode": 5330
+    }
+  },
+  "5340": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "ডোমার",
+      "suboffice": "ডোমার",
+      "postcode": "৫৩৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Domar",
+      "suboffice": "Domar",
+      "postcode": 5340
+    }
+  },
+  "5341": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "ডোমার",
+      "suboffice": "চিলাহাটি",
+      "postcode": "৫৩৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Domar",
+      "suboffice": "Chilahati",
+      "postcode": 5341
+    }
+  },
+  "5350": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "ডিমলা",
+      "suboffice": "ডিমলা",
+      "postcode": "৫৩৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Dimla",
+      "suboffice": "Dimla",
+      "postcode": 5350
+    }
+  },
+  "5351": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "ডিমলা",
+      "suboffice": "ঘাগা খড়িবাড়ি",
+      "postcode": "৫৩৫১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Dimla",
+      "suboffice": "Ghaga Kharibari",
+      "postcode": 5351
+    }
+  }
+}

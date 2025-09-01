@@ -1,0 +1,130 @@
+{
+  "7200": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "চুয়াডাঙ্গা",
+      "thana": "চুয়াডাঙ্গা সদর",
+      "suboffice": "চুয়াডাঙ্গা সদর",
+      "postcode": "৭২০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "thana": "Chuadanga Sadar",
+      "suboffice": "Chuadanga Sadar",
+      "postcode": 7200
+    }
+  },
+  "7201": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "চুয়াডাঙ্গা",
+      "thana": "চুয়াডাঙ্গা সদর",
+      "suboffice": "মুন্সীগঞ্জ",
+      "postcode": "৭২০১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "thana": "Chuadanga Sadar",
+      "suboffice": "Munshiganj",
+      "postcode": 7201
+    }
+  },
+  "7210": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "চুয়াডাঙ্গা",
+      "thana": "আলমডাঙ্গা",
+      "suboffice": "আলমডাঙ্গা",
+      "postcode": "৭২১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "thana": "Alamdanga",
+      "suboffice": "Alamdanga",
+      "postcode": 7210
+    }
+  },
+  "7211": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "চুয়াডাঙ্গা",
+      "thana": "আলমডাঙ্গা",
+      "suboffice": "হারদী",
+      "postcode": "৭২১১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "thana": "Alamdanga",
+      "suboffice": "Hardi",
+      "postcode": 7211
+    }
+  },
+  "7220": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "চুয়াডাঙ্গা",
+      "thana": "দামুড়হুদা",
+      "suboffice": "দামুড়হুদা",
+      "postcode": "৭২২০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "thana": "Damurhuda",
+      "suboffice": "Damurhuda",
+      "postcode": 7220
+    }
+  },
+  "7221": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "চুয়াডাঙ্গা",
+      "thana": "দামুড়হুদা",
+      "suboffice": "দর্শনা",
+      "postcode": "৭২২১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "thana": "Damurhuda",
+      "suboffice": "Darshana",
+      "postcode": 7221
+    }
+  },
+  "7222": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "চুয়াডাঙ্গা",
+      "thana": "দামুড়হুদা",
+      "suboffice": "আন্দুলবাড়িয়া",
+      "postcode": "৭২২২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "thana": "Damurhuda",
+      "suboffice": "Andulbaria",
+      "postcode": 7222
+    }
+  },
+  "7230": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "চুয়াডাঙ্গা",
+      "thana": "জীবননগর",
+      "suboffice": "জীবননগর",
+      "postcode": "৭২৩০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Chuadanga",
+      "thana": "Doulatganj",
+      "suboffice": "Doulatganj",
+      "postcode": 7230
+    }
+  }
+}

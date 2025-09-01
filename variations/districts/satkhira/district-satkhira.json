@@ -1,0 +1,402 @@
+{
+  "9400": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "সাতক্ষীরা সদর",
+      "suboffice": "সাতক্ষীরা সদর",
+      "postcode": "৯৪০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Satkhira Sadar",
+      "suboffice": "Satkhira Sadar",
+      "postcode": 9400
+    }
+  },
+  "9401": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "সাতক্ষীরা সদর",
+      "suboffice": "সাতক্ষীরা ইসলামিয়া Acc",
+      "postcode": "৯৪০১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Satkhira Sadar",
+      "suboffice": "Satkhira Islamia Acc",
+      "postcode": 9401
+    }
+  },
+  "9402": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "সাতক্ষীরা সদর",
+      "suboffice": "গুণাকরকাঠি",
+      "postcode": "৯৪০২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Satkhira Sadar",
+      "suboffice": "Gunakar kati",
+      "postcode": 9402
+    }
+  },
+  "9403": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "সাতক্ষীরা সদর",
+      "suboffice": "বুধহাটা",
+      "postcode": "৯৪০৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Satkhira Sadar",
+      "suboffice": "Budhhat",
+      "postcode": 9403
+    }
+  },
+  "9410": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "কলারোয়া",
+      "suboffice": "কলারোয়া",
+      "postcode": "৯৪১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "kalaroa",
+      "suboffice": "Murarikati",
+      "postcode": 9410
+    }
+  },
+  "9411": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "কলারোয়া",
+      "suboffice": "মুরারীকাঠী",
+      "postcode": "৯৪১১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "kalaroa",
+      "suboffice": "Murarikathi",
+      "postcode": 9411
+    }
+  },
+  "9412": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "কলারোয়া",
+      "suboffice": "ঝাউডাঙ্গা",
+      "postcode": "৯৪১২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "kalaroa",
+      "suboffice": "Jhaudanga",
+      "postcode": 9412
+    }
+  },
+  "9413": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "কলারোয়া",
+      "suboffice": "হামিদপুর",
+      "postcode": "৯৪১৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "kalaroa",
+      "suboffice": "Hamidpur",
+      "postcode": 9413
+    }
+  },
+  "9414": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "কলারোয়া",
+      "suboffice": "খর্দ",
+      "postcode": "৯৪১৪"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "kalaroa",
+      "suboffice": "Khordo",
+      "postcode": 9414
+    }
+  },
+  "9415": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "কলারোয়া",
+      "suboffice": "চন্দনপুর",
+      "postcode": "৯৪১৫"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "kalaroa",
+      "suboffice": "Chandanpur",
+      "postcode": 9415
+    }
+  },
+  "9420": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "তালা",
+      "suboffice": "তালা",
+      "postcode": "৯৪২০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Taala",
+      "suboffice": "Taala",
+      "postcode": 9420
+    }
+  },
+  "9421": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "তালা",
+      "suboffice": "পাটকেলঘাটা",
+      "postcode": "৯৪২১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Taala",
+      "suboffice": "Patkelghata",
+      "postcode": 9421
+    }
+  },
+  "9430": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "দেবহাটা",
+      "suboffice": "দেবহাটা",
+      "postcode": "৯৪৩০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Debbhata",
+      "suboffice": "Debbhata",
+      "postcode": 9430
+    }
+  },
+  "9431": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "দেবহাটা",
+      "suboffice": "গুরুগ্রাম",
+      "postcode": "৯৪৩১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Debbhata",
+      "suboffice": "Gurugram",
+      "postcode": 9431
+    }
+  },
+  "9440": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "কালীগঞ্জ",
+      "suboffice": "কালীগঞ্জ",
+      "postcode": "৯৪৪০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Kaliganj",
+      "suboffice": "Kaliganj",
+      "postcode": 9440
+    }
+  },
+  "9441": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "কালীগঞ্জ",
+      "suboffice": "নলতা মোবারকনগর",
+      "postcode": "৯৪৪১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Kaliganj",
+      "suboffice": "Nalta Mubaroknagar",
+      "postcode": 9441
+    }
+  },
+  "9442": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "কালীগঞ্জ",
+      "suboffice": "রতনপুর",
+      "postcode": "৯৪৪২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Kaliganj",
+      "suboffice": "Ratanpur",
+      "postcode": 9442
+    }
+  },
+  "9450": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "শ্যামনগর",
+      "suboffice": "শ্যামনগর",
+      "postcode": "৯৪৫০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Nakipur",
+      "suboffice": "Nakipur",
+      "postcode": 9450
+    }
+  },
+  "9451": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "শ্যামনগর",
+      "suboffice": "নূরনগর",
+      "postcode": "৯৪৫১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Nakipur",
+      "suboffice": "Noornagar",
+      "postcode": 9451
+    }
+  },
+  "9452": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "শ্যামনগর",
+      "suboffice": "নোয়াবেকি",
+      "postcode": "৯৪৫২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Nakipur",
+      "suboffice": "Naobeki",
+      "postcode": 9452
+    }
+  },
+  "9453": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "শ্যামনগর",
+      "suboffice": "বুড়ি গোয়ালিনী",
+      "postcode": "৯৪৫৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Nakipur",
+      "suboffice": "Buri Goalini",
+      "postcode": 9453
+    }
+  },
+  "9454": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "শ্যামনগর",
+      "suboffice": "গাবুরা",
+      "postcode": "৯৪৫৪"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Nakipur",
+      "suboffice": "Gabura",
+      "postcode": 9454
+    }
+  },
+  "9455": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "শ্যামনগর",
+      "suboffice": "হবিনগর",
+      "postcode": "৯৪৫৫"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Nakipur",
+      "suboffice": "Habinagar",
+      "postcode": 9455
+    }
+  },
+  "9460": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "আশাশুনি",
+      "suboffice": "আশাশুনি",
+      "postcode": "৯৪৬০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Ashashuni",
+      "suboffice": "Ashashuni",
+      "postcode": 9460
+    }
+  },
+  "9461": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "সাতক্ষীরা",
+      "thana": "আশাশুনি",
+      "suboffice": "বড়দল",
+      "postcode": "৯৪৬১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Satkhira",
+      "thana": "Ashashuni",
+      "suboffice": "Baradal",
+      "postcode": 9461
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "7900": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "মাদারীপুর সদর",
+      "suboffice": "মাদারীপুর সদর",
+      "postcode": "৭৯০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Madaripur Sadar",
+      "suboffice": "Madaripur Sadar",
+      "postcode": 7900
+    }
+  },
+  "7901": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "মাদারীপুর সদর",
+      "suboffice": "চরমুগরিয়া",
+      "postcode": "৭৯০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Madaripur Sadar",
+      "suboffice": "Charmugria",
+      "postcode": 7901
+    }
+  },
+  "7902": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "মাদারীপুর সদর",
+      "suboffice": "কুলপাদ্দি",
+      "postcode": "৭৯০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Madaripur Sadar",
+      "suboffice": "Kulpaddi",
+      "postcode": 7902
+    }
+  },
+  "7903": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "মাদারীপুর সদর",
+      "suboffice": "হবিগঞ্জ",
+      "postcode": "৭৯০৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Madaripur Sadar",
+      "suboffice": "Habiganj",
+      "postcode": 7903
+    }
+  },
+  "7904": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "মাদারীপুর সদর",
+      "suboffice": "মুস্তফাপুর",
+      "postcode": "৭৯০৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Madaripur Sadar",
+      "suboffice": "Mustafapur",
+      "postcode": 7904
+    }
+  },
+  "7910": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "রাজৈর",
+      "suboffice": "রাজৈর",
+      "postcode": "৭৯১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Rajoir",
+      "suboffice": "Rajoir",
+      "postcode": 7910
+    }
+  },
+  "7911": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "রাজৈর",
+      "suboffice": "খালিয়া",
+      "postcode": "৭৯১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Rajoir",
+      "suboffice": "Khalia",
+      "postcode": 7911
+    }
+  },
+  "7920": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "কালকিনি",
+      "suboffice": "কালকিনি",
+      "postcode": "৭৯২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "kalkini",
+      "suboffice": "Kalkini",
+      "postcode": 7920
+    }
+  },
+  "7921": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "কালকিনি",
+      "suboffice": "সাহাবরামপুর",
+      "postcode": "৭৯২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "kalkini",
+      "suboffice": "Sahabrampur",
+      "postcode": 7921
+    }
+  },
+  "7930": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "বারহামগঞ্জ",
+      "suboffice": "বারহামগঞ্জ",
+      "postcode": "৭৯৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Barhamganj",
+      "suboffice": "Barhamganj",
+      "postcode": 7930
+    }
+  },
+  "7931": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "বারহামগঞ্জ",
+      "suboffice": "নিলাকসমিবান্দার",
+      "postcode": "৭৯৩১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Barhamganj",
+      "suboffice": "Nilaksmibandar",
+      "postcode": 7931
+    }
+  },
+  "7932": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "বারহামগঞ্জ",
+      "suboffice": "বাহাদুরপুর",
+      "postcode": "৭৯৩২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Barhamganj",
+      "suboffice": "Bahadurpur",
+      "postcode": 7932
+    }
+  },
+  "7933": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "মাদারীপুর",
+      "thana": "বারহামগঞ্জ",
+      "suboffice": "উমেদপুর",
+      "postcode": "৭৯৩৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Madaripur",
+      "thana": "Barhamganj",
+      "suboffice": "Umedpur",
+      "postcode": 7933
+    }
+  }
+}

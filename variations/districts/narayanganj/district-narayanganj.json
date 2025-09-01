@@ -1,0 +1,338 @@
+{
+  "1400": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "নারায়ণগঞ্জ সদর",
+      "suboffice": "নারায়ণগঞ্জ সদর",
+      "postcode": "১৪০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Narayanganj Sadar",
+      "suboffice": "Narayanganj Sadar",
+      "postcode": 1400
+    }
+  },
+  "1410": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "বন্দর",
+      "suboffice": "বন্দর",
+      "postcode": "১৪১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Bandar",
+      "suboffice": "Bandar",
+      "postcode": 1410
+    }
+  },
+  "1411": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "বন্দর",
+      "suboffice": "ডি.সি মিলস",
+      "postcode": "১৪১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Bandar",
+      "suboffice": "D.C Mills",
+      "postcode": 1411
+    }
+  },
+  "1412": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "বন্দর",
+      "suboffice": "নবীগঞ্জ",
+      "postcode": "১৪১২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Bandar",
+      "suboffice": "Nabiganj",
+      "postcode": 1412
+    }
+  },
+  "1413": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "বন্দর",
+      "suboffice": "বিআইডিএস",
+      "postcode": "১৪১৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Bandar",
+      "suboffice": "BIDS",
+      "postcode": 1413
+    }
+  },
+  "1414": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "বন্দর",
+      "suboffice": "মদনগঞ্জ",
+      "postcode": "১৪১৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Bandar",
+      "suboffice": "Madanganj",
+      "postcode": 1414
+    }
+  },
+  "1420": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "ফতুল্লা",
+      "suboffice": "ফতুল্লা",
+      "postcode": "১৪২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Fatullah",
+      "suboffice": "Fatullah",
+      "postcode": 1420
+    }
+  },
+  "1421": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "ফতুল্লা",
+      "suboffice": "ফতুল্লা বাজার",
+      "postcode": "১৪২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Fatullah",
+      "suboffice": "Fatulla Bazar",
+      "postcode": 1421
+    }
+  },
+  "1430": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "সিদ্ধিরগঞ্জ",
+      "suboffice": "সিদ্ধিরগঞ্জ",
+      "postcode": "১৪৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Siddirganj",
+      "suboffice": "Siddhirganj",
+      "postcode": 1430
+    }
+  },
+  "1431": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "সিদ্ধিরগঞ্জ",
+      "suboffice": "আদামজীনগর",
+      "postcode": "১৪৩১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Siddirganj",
+      "suboffice": "Adamjeenagar",
+      "postcode": 1431
+    }
+  },
+  "1432": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "সিদ্ধিরগঞ্জ",
+      "suboffice": "LN মিলস",
+      "postcode": "১৪৩২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Siddirganj",
+      "suboffice": "LN Mills",
+      "postcode": 1432
+    }
+  },
+  "1440": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "বাইদ্দের বাজার",
+      "suboffice": "বাইদ্দের বাজার",
+      "postcode": "১৪৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Baidder Bazar",
+      "suboffice": "Baidder Bazar",
+      "postcode": 1440
+    }
+  },
+  "1441": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "বাইদ্দের বাজার",
+      "suboffice": "বারো নগর",
+      "postcode": "১৪৪১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Baidder Bazar",
+      "suboffice": "Bara Nagar",
+      "postcode": 1441
+    }
+  },
+  "1442": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "বাইদ্দের বাজার",
+      "suboffice": "বারোদি",
+      "postcode": "১৪৪২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Baidder Bazar",
+      "suboffice": "Barodi",
+      "postcode": 1442
+    }
+  },
+  "1450": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "আড়াইহাজার",
+      "suboffice": "আড়াইহাজার",
+      "postcode": "১৪৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Araihazar",
+      "suboffice": "Araihazar",
+      "postcode": 1450
+    }
+  },
+  "1451": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "আড়াইহাজার",
+      "suboffice": "গোপালদি",
+      "postcode": "১৪৫১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Araihazar",
+      "suboffice": "Baidder Bazar",
+      "postcode": 1451
+    }
+  },
+  "1460": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "রূপগঞ্জ",
+      "suboffice": "রূপগঞ্জ",
+      "postcode": "১৪৬০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Rupganj",
+      "suboffice": "Rupganj",
+      "postcode": 1460
+    }
+  },
+  "1461": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "রূপগঞ্জ",
+      "suboffice": "কাঞ্চন",
+      "postcode": "১৪৬১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Rupganj",
+      "suboffice": "Kanchan",
+      "postcode": 1461
+    }
+  },
+  "1462": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "রূপগঞ্জ",
+      "suboffice": "ভুলতা",
+      "postcode": "১৪৬২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Rupganj",
+      "suboffice": "Bhulta",
+      "postcode": 1462
+    }
+  },
+  "1463": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "রূপগঞ্জ",
+      "suboffice": "নগরি",
+      "postcode": "১৪৬৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Rupganj",
+      "suboffice": "Nagri",
+      "postcode": 1463
+    }
+  },
+  "1464": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নারায়ণগঞ্জ",
+      "thana": "রূপগঞ্জ",
+      "suboffice": "মুরাপাড়া",
+      "postcode": "১৪৬৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narayanganj",
+      "thana": "Rupganj",
+      "suboffice": "Murapara",
+      "postcode": 1464
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "4700": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "কক্সবাজার সদর",
+      "suboffice": "কক্সবাজার সদর",
+      "postcode": "৪৭০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Coxs Bazar Sadar",
+      "suboffice": "Coxs Bazar Sadar",
+      "postcode": 4700
+    }
+  },
+  "4701": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "কক্সবাজার সদর",
+      "suboffice": "ঝিলংজা",
+      "postcode": "৪৭০১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Coxs Bazar Sadar",
+      "suboffice": "Zhilanja",
+      "postcode": 4701
+    }
+  },
+  "4702": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "কক্সবাজার সদর",
+      "suboffice": "ঈদগাঁও",
+      "postcode": "৪৭০২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Coxs Bazar Sadar",
+      "suboffice": "Eidga",
+      "postcode": 4702
+    }
+  },
+  "4710": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "গোরকঘাট",
+      "suboffice": "গোরকঘাট",
+      "postcode": "৪৭১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Gorakghat",
+      "suboffice": "Gorakghat",
+      "postcode": 4710
+    }
+  },
+  "4720": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "কুতুবদিয়া",
+      "suboffice": "কুতুবদিয়া",
+      "postcode": "৪৭২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Kutubdia",
+      "suboffice": "Kutubdia",
+      "postcode": 4720
+    }
+  },
+  "4730": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "রামু",
+      "suboffice": "রামু",
+      "postcode": "৪৭৩০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Ramu",
+      "suboffice": "Ramu",
+      "postcode": 4730
+    }
+  },
+  "4740": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "চিরিঙ্গা",
+      "suboffice": "চিরিঙ্গা",
+      "postcode": "৪৭৪০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Chiringga",
+      "suboffice": "Chiringga",
+      "postcode": 4740
+    }
+  },
+  "4741": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "চিরিঙ্গা",
+      "suboffice": "চিরিঙ্গা S.O",
+      "postcode": "৪৭৪১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Chiringga",
+      "suboffice": "Chiringga S.O",
+      "postcode": 4741
+    }
+  },
+  "4742": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "চিরিঙ্গা",
+      "suboffice": "বদরখালী",
+      "postcode": "৪৭৪২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Chiringga",
+      "suboffice": "Badarkali",
+      "postcode": 4742
+    }
+  },
+  "4743": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "চিরিঙ্গা",
+      "suboffice": "মালুমঘাট",
+      "postcode": "৪৭৪৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Chiringga",
+      "suboffice": "Malumghat",
+      "postcode": 4743
+    }
+  },
+  "4750": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "উখিয়া",
+      "suboffice": "উখিয়া",
+      "postcode": "৪৭৫০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Ukhia",
+      "suboffice": "Ukhia",
+      "postcode": 4750
+    }
+  },
+  "4760": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "টেকনাফ",
+      "suboffice": "টেকনাফ",
+      "postcode": "৪৭৬০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Teknaf",
+      "suboffice": "Teknaf",
+      "postcode": 4760
+    }
+  },
+  "4761": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "টেকনাফ",
+      "suboffice": "হ্নীলা",
+      "postcode": "৪৭৬১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Teknaf",
+      "suboffice": "Hnila",
+      "postcode": 4761
+    }
+  },
+  "4762": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কক্সবাজার",
+      "thana": "টেকনাফ",
+      "suboffice": "সেন্টমার্টিন",
+      "postcode": "৪৭৬২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cox's Bazar",
+      "thana": "Teknaf",
+      "suboffice": "St.Martin",
+      "postcode": 4762
+    }
+  }
+}

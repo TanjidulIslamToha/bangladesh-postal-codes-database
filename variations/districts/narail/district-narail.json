@@ -1,0 +1,146 @@
+{
+  "7500": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "নড়াইল",
+      "thana": "নড়াইল সদর",
+      "suboffice": "নড়াইল সদর",
+      "postcode": "৭৫০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Narail",
+      "thana": "Narail Sadar",
+      "suboffice": "Narail Sadar",
+      "postcode": 7500
+    }
+  },
+  "7501": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "নড়াইল",
+      "thana": "নড়াইল সদর",
+      "suboffice": "রতনগঞ্জ",
+      "postcode": "৭৫০১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Narail",
+      "thana": "Narail Sadar",
+      "suboffice": "Ratanganj",
+      "postcode": 7501
+    }
+  },
+  "7510": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "নড়াইল",
+      "thana": "লোহাগড়া",
+      "suboffice": "লক্ষ্মীপাশা",
+      "postcode": "৭৫১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Narail",
+      "thana": "Laxmipasha",
+      "suboffice": "Laxmipasha",
+      "postcode": 7510
+    }
+  },
+  "7511": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "নড়াইল",
+      "thana": "লোহাগড়া",
+      "suboffice": "লোহাগড়া",
+      "postcode": "৭৫১১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Narail",
+      "thana": "Laxmipasha",
+      "suboffice": "Lohagora",
+      "postcode": 7511
+    }
+  },
+  "7512": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "নড়াইল",
+      "thana": "লোহাগড়া",
+      "suboffice": "ইটনা",
+      "postcode": "৭৫১২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Narail",
+      "thana": "Laxmipasha",
+      "suboffice": "Itna",
+      "postcode": 7512
+    }
+  },
+  "7513": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "নড়াইল",
+      "thana": "লোহাগড়া",
+      "suboffice": "নলদী",
+      "postcode": "৭৫১৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Narail",
+      "thana": "Laxmipasha",
+      "suboffice": "Naldi",
+      "postcode": 7513
+    }
+  },
+  "7514": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "নড়াইল",
+      "thana": "লোহাগড়া",
+      "suboffice": "বড়দিয়া",
+      "postcode": "৭৫১৪"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Narail",
+      "thana": "Laxmipasha",
+      "suboffice": "Baradia",
+      "postcode": 7514
+    }
+  },
+  "7520": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "নড়াইল",
+      "thana": "কালিয়া",
+      "suboffice": "কালিয়া",
+      "postcode": "৭৫২০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Narail",
+      "thana": "Kalia",
+      "suboffice": "Kalia",
+      "postcode": 7520
+    }
+  },
+  "7521": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "নড়াইল",
+      "thana": "কালিয়া",
+      "suboffice": "মহাজন",
+      "postcode": "৭৫২১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Narail",
+      "thana": "Kalia",
+      "suboffice": "Mohajan",
+      "postcode": 7521
+    }
+  }
+}

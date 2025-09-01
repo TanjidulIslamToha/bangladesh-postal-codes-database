@@ -1,0 +1,1842 @@
+{
+  "8200": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বরিশাল সদর",
+      "suboffice": "বরিশাল সদর",
+      "postcode": "৮২০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Barishal Sadar",
+      "suboffice": "Chandramohon",
+      "postcode": 8200
+    }
+  },
+  "8201": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বরিশাল সদর",
+      "suboffice": "বুখায়নগর",
+      "postcode": "৮২০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Barishal Sadar",
+      "suboffice": "Bukhainagar",
+      "postcode": 8201
+    }
+  },
+  "8202": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বরিশাল সদর",
+      "suboffice": "সাহেবেরহাট",
+      "postcode": "৮২০২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Barishal Sadar",
+      "suboffice": "Saheberhat",
+      "postcode": 8202
+    }
+  },
+  "8203": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বরিশাল সদর",
+      "suboffice": "সুগন্দিয়া",
+      "postcode": "৮২০৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Barishal Sadar",
+      "suboffice": "Sugandia",
+      "postcode": 8203
+    }
+  },
+  "8204": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বরিশাল সদর",
+      "suboffice": "পাতাং",
+      "postcode": "৮২০৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Barishal Sadar",
+      "suboffice": "Patang",
+      "postcode": 8204
+    }
+  },
+  "8205": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বরিশাল সদর",
+      "suboffice": "কাশীপুর",
+      "postcode": "৮২০৫"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Barishal Sadar",
+      "suboffice": "Kashipur",
+      "postcode": 8205
+    }
+  },
+  "8206": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বরিশাল সদর",
+      "suboffice": "জাগুয়ারহাট",
+      "postcode": "৮২০৬"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Barishal Sadar",
+      "suboffice": "Jaguarhat",
+      "postcode": 8206
+    }
+  },
+  "8210": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বাবুগঞ্জ",
+      "suboffice": "বাবুগঞ্জ",
+      "postcode": "৮২১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Babuganj",
+      "suboffice": "Babuganj",
+      "postcode": 8210
+    }
+  },
+  "8211": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বাবুগঞ্জ",
+      "suboffice": "রহমতপুর",
+      "postcode": "৮২১১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Babuganj",
+      "suboffice": "Rahamatpur",
+      "postcode": 8211
+    }
+  },
+  "8212": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বাবুগঞ্জ",
+      "suboffice": "চাঁদপাশা",
+      "postcode": "৮২১২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Babuganj",
+      "suboffice": "Chandpasha",
+      "postcode": 8212
+    }
+  },
+  "8213": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বাবুগঞ্জ",
+      "suboffice": "মাধবপাশা",
+      "postcode": "৮২১৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Babuganj",
+      "suboffice": "Madhabpasha",
+      "postcode": 8213
+    }
+  },
+  "8214": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বাবুগঞ্জ",
+      "suboffice": "ঠাকুর মল্লিক",
+      "postcode": "৮২১৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Babuganj",
+      "suboffice": "Thakur Mallik",
+      "postcode": 8214
+    }
+  },
+  "8215": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বাবুগঞ্জ",
+      "suboffice": "নিজামউদ্দিন কলেজ",
+      "postcode": "৮২১৫"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Babuganj",
+      "suboffice": "Nizamuddin College",
+      "postcode": 8215
+    }
+  },
+  "8216": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বাবুগঞ্জ",
+      "suboffice": "বরিশাল ক্যাডেট",
+      "postcode": "৮২১৬"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Babuganj",
+      "suboffice": "Barishal Cadet",
+      "postcode": 8216
+    }
+  },
+  "8220": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "উজিরপুর",
+      "suboffice": "উজিরপুর",
+      "postcode": "৮২২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Uzirpur",
+      "suboffice": "Uzirpur",
+      "postcode": 8220
+    }
+  },
+  "8221": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "উজিরপুর",
+      "suboffice": "ধামুরা",
+      "postcode": "৮২২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Uzirpur",
+      "suboffice": "Dhamura",
+      "postcode": 8221
+    }
+  },
+  "8222": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "উজিরপুর",
+      "suboffice": "জুগিরকান্দা",
+      "postcode": "৮২২২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Uzirpur",
+      "suboffice": "Jugirkanda",
+      "postcode": 8222
+    }
+  },
+  "8223": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "উজিরপুর",
+      "suboffice": "ডাকুয়ারহাট",
+      "postcode": "৮২২৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Uzirpur",
+      "suboffice": "Dakuarhat",
+      "postcode": 8223
+    }
+  },
+  "8224": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "উজিরপুর",
+      "suboffice": "শিকারপুর",
+      "postcode": "৮২২৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Uzirpur",
+      "suboffice": "Shikarpur",
+      "postcode": 8224
+    }
+  },
+  "8230": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "গৌরনদী",
+      "suboffice": "গৌরনদী",
+      "postcode": "৮২৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Gouranadi",
+      "suboffice": "Gouranadi",
+      "postcode": 8230
+    }
+  },
+  "8231": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "গৌরনদী",
+      "suboffice": "তার্কি বন্দর",
+      "postcode": "৮২৩১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Gouranadi",
+      "suboffice": "Tarki Bandar",
+      "postcode": 8231
+    }
+  },
+  "8232": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "গৌরনদী",
+      "suboffice": "কাসেমাবাদ",
+      "postcode": "৮২৩২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Gouranadi",
+      "suboffice": "Kashemabad",
+      "postcode": 8232
+    }
+  },
+  "8233": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "গৌরনদী",
+      "suboffice": "বাটাজোর",
+      "postcode": "৮২৩৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Gouranadi",
+      "suboffice": "Batajor",
+      "postcode": 8233
+    }
+  },
+  "8240": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "আগাইলঝড়া",
+      "suboffice": "আগাইলঝড়া",
+      "postcode": "৮২৪০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Agailzhara",
+      "suboffice": "Agailzhara",
+      "postcode": 8240
+    }
+  },
+  "8241": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "আগাইলঝড়া",
+      "suboffice": "গাইলা",
+      "postcode": "৮২৪১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Agailzhara",
+      "suboffice": "Gaila",
+      "postcode": 8241
+    }
+  },
+  "8242": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "আগাইলঝড়া",
+      "suboffice": "পয়সারহাট",
+      "postcode": "৮২৪২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Agailzhara",
+      "suboffice": "Paisarhat",
+      "postcode": 8242
+    }
+  },
+  "8250": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "মুলাদী",
+      "suboffice": "মুলাদী",
+      "postcode": "৮২৫০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Muladi",
+      "suboffice": "Muladi",
+      "postcode": 8250
+    }
+  },
+  "8251": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "মুলাদী",
+      "suboffice": "কাজিরচর",
+      "postcode": "৮২৫১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Muladi",
+      "suboffice": "Kazirchar",
+      "postcode": 8251
+    }
+  },
+  "8252": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "মুলাদী",
+      "suboffice": "চরকালেখাঁ",
+      "postcode": "৮২৫২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Muladi",
+      "suboffice": "Charkalekhan",
+      "postcode": 8252
+    }
+  },
+  "8260": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বড়জালিয়া",
+      "suboffice": "বড়জালিয়া",
+      "postcode": "৮২৬০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Barajalia",
+      "suboffice": "Barajalia",
+      "postcode": 8260
+    }
+  },
+  "8261": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "বড়জালিয়া",
+      "suboffice": "ওসমান মঞ্জিল",
+      "postcode": "৮২৬১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Barajalia",
+      "suboffice": "Osman Manjil",
+      "postcode": 8261
+    }
+  },
+  "8270": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "মেহেন্দিগঞ্জ",
+      "suboffice": "মেহেন্দিগঞ্জ",
+      "postcode": "৮২৭০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Mahendiganj",
+      "suboffice": "Mahendiganj",
+      "postcode": 8270
+    }
+  },
+  "8271": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "মেহেন্দিগঞ্জ",
+      "suboffice": "লস্করপুর",
+      "postcode": "৮২৭১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Mahendiganj",
+      "suboffice": "Laskarpur",
+      "postcode": 8271
+    }
+  },
+  "8272": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "মেহেন্দিগঞ্জ",
+      "suboffice": "উলানিয়া",
+      "postcode": "৮২৭২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Mahendiganj",
+      "suboffice": "Ulania",
+      "postcode": 8272
+    }
+  },
+  "8273": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "মেহেন্দিগঞ্জ",
+      "suboffice": "নালগোরা",
+      "postcode": "৮২৭৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Mahendiganj",
+      "suboffice": "Nalgora",
+      "postcode": 8273
+    }
+  },
+  "8274": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "মেহেন্দিগঞ্জ",
+      "suboffice": "লেঙ্গুটিয়া",
+      "postcode": "৮২৭৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Mahendiganj",
+      "suboffice": "Langutia",
+      "postcode": 8274
+    }
+  },
+  "8280": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "সাহেবগঞ্জ",
+      "suboffice": "সাহেবগঞ্জ",
+      "postcode": "৮২৮০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Bakerganj",
+      "suboffice": "Luxmibardhan",
+      "postcode": 8280
+    }
+  },
+  "8281": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "সাহেবগঞ্জ",
+      "suboffice": "চরামন্ডি",
+      "postcode": "৮২৮১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Bakerganj",
+      "suboffice": "Charamandi",
+      "postcode": 8281
+    }
+  },
+  "8282": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "সাহেবগঞ্জ",
+      "suboffice": "পাদ্রি শিবপুর",
+      "postcode": "৮২৮২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Bakerganj",
+      "suboffice": "Padri Shibpur",
+      "postcode": 8282
+    }
+  },
+  "8283": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "সাহেবগঞ্জ",
+      "suboffice": "শিয়ালগুনী",
+      "postcode": "৮২৮৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Bakerganj",
+      "suboffice": "Shialguni",
+      "postcode": 8283
+    }
+  },
+  "8284": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরিশাল",
+      "thana": "সাহেবগঞ্জ",
+      "suboffice": "কলসকাঠী",
+      "postcode": "৮২৮৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barisal",
+      "thana": "Bakerganj",
+      "suboffice": "kalaskati",
+      "postcode": 8284
+    }
+  },
+  "8300": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "ভোলা সদর",
+      "suboffice": "ভোলা সদর",
+      "postcode": "৮৩০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Bhola Sadar",
+      "suboffice": "Bhola Sadar",
+      "postcode": 8300
+    }
+  },
+  "8301": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "ভোলা সদর",
+      "suboffice": "জয়নগর",
+      "postcode": "৮৩০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Bhola Sadar",
+      "suboffice": "Joynagar",
+      "postcode": 8301
+    }
+  },
+  "8310": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "দৌলতখান",
+      "suboffice": "দৌলতখান",
+      "postcode": "৮৩১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Doulatkhan",
+      "suboffice": "Doulatkhan",
+      "postcode": 8310
+    }
+  },
+  "8311": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "দৌলতখান",
+      "suboffice": "হাজীপুর",
+      "postcode": "৮৩১১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Doulatkhan",
+      "suboffice": "Hajipur",
+      "postcode": 8311
+    }
+  },
+  "8320": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "বোরহানউদ্দিন Upo",
+      "suboffice": "বোরহানউদ্দিন Upo",
+      "postcode": "৮৩২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Borhanuddin UPO",
+      "suboffice": "Borhanuddin UPO",
+      "postcode": 8320
+    }
+  },
+  "8321": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "বোরহানউদ্দিন Upo",
+      "suboffice": "মির্জাকালু",
+      "postcode": "৮৩২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Borhanuddin UPO",
+      "suboffice": "Mirzakalu",
+      "postcode": 8321
+    }
+  },
+  "8330": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "লালমোহন Upo",
+      "suboffice": "লালমোহন Upo",
+      "postcode": "৮৩৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Lalmohan UPO",
+      "suboffice": "Lalmohan UPO",
+      "postcode": 8330
+    }
+  },
+  "8331": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "লালমোহন Upo",
+      "suboffice": "দৌড়ীহাট",
+      "postcode": "৮৩৩১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Lalmohan UPO",
+      "suboffice": "Daurihat",
+      "postcode": 8331
+    }
+  },
+  "8332": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "লালমোহন Upo",
+      "suboffice": "গজারিয়া",
+      "postcode": "৮৩৩২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Lalmohan UPO",
+      "suboffice": "Gajaria",
+      "postcode": 8332
+    }
+  },
+  "8340": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "চরফ্যাশন",
+      "suboffice": "চরফ্যাশন",
+      "postcode": "৮৩৪০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Charfashion",
+      "suboffice": "Charfashion",
+      "postcode": 8340
+    }
+  },
+  "8341": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "চরফ্যাশন",
+      "suboffice": "দুলারহাট",
+      "postcode": "৮৩৪১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Charfashion",
+      "suboffice": "Dularhat",
+      "postcode": 8341
+    }
+  },
+  "8342": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "চরফ্যাশন",
+      "suboffice": "কেরামতগঞ্জ",
+      "postcode": "৮৩৪২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Charfashion",
+      "suboffice": "Keramatganj",
+      "postcode": 8342
+    }
+  },
+  "8350": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "হাটশশীগঞ্জ",
+      "suboffice": "হাটশশীগঞ্জ",
+      "postcode": "৮৩৫০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Hatshoshiganj",
+      "suboffice": "Hatshoshiganj",
+      "postcode": 8350
+    }
+  },
+  "8360": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "হাজিরহাট",
+      "suboffice": "হাজিরহাট",
+      "postcode": "৮৩৬০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Hajirhat",
+      "suboffice": "Hajirhat",
+      "postcode": 8360
+    }
+  },
+  "8400": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "ঝালকাঠি সদর",
+      "postcode": "৮৪০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Jhalokati Sadar",
+      "postcode": 8400
+    }
+  },
+  "8401": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "নবগ্রাম",
+      "postcode": "৮৪০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Nabagram",
+      "postcode": 8401
+    }
+  },
+  "8402": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "বাউকাঠি",
+      "postcode": "৮৪০২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Baukathi",
+      "postcode": 8402
+    }
+  },
+  "8403": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "গাভা",
+      "postcode": "৮৪০৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Gabha",
+      "postcode": 8403
+    }
+  },
+  "8404": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "শেখেরহাট",
+      "postcode": "৮৪০৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Shekherhat",
+      "postcode": 8404
+    }
+  },
+  "8410": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "রাজাপুর",
+      "suboffice": "রাজাপুর",
+      "postcode": "৮৪১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Rajapur",
+      "suboffice": "Rajapur",
+      "postcode": 8410
+    }
+  },
+  "8420": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "নলছিটি",
+      "suboffice": "নলছিটি",
+      "postcode": "৮৪২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Nalchhiti",
+      "suboffice": "Nalchhiti",
+      "postcode": 8420
+    }
+  },
+  "8421": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "নলছিটি",
+      "suboffice": "বীরকাঠি",
+      "postcode": "৮৪২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Nalchhiti",
+      "suboffice": "Beerkathi",
+      "postcode": 8421
+    }
+  },
+  "8430": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "কাঁঠালিয়া",
+      "suboffice": "কাঁঠালিয়া",
+      "postcode": "৮৪৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Kathalia",
+      "suboffice": "Kathalia",
+      "postcode": 8430
+    }
+  },
+  "8431": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "কাঁঠালিয়া",
+      "suboffice": "আমুয়া",
+      "postcode": "৮৪৩১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Kathalia",
+      "suboffice": "Amua",
+      "postcode": 8431
+    }
+  },
+  "8432": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "কাঁঠালিয়া",
+      "suboffice": "নিয়ামাতেই",
+      "postcode": "৮৪৩২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Kathalia",
+      "suboffice": "Niamatee",
+      "postcode": 8432
+    }
+  },
+  "8433": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "কাঁঠালিয়া",
+      "suboffice": "শৌলজালিয়া",
+      "postcode": "৮৪৩৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Kathalia",
+      "suboffice": "Shoulajalia",
+      "postcode": 8433
+    }
+  },
+  "8500": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "পিরোজপুর সদর",
+      "suboffice": "পিরোজপুর সদর",
+      "postcode": "৮৫০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Pirojpur Sadar",
+      "suboffice": "Pirojpur Sadar",
+      "postcode": 8500
+    }
+  },
+  "8501": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "পিরোজপুর সদর",
+      "suboffice": "হুলারহাট",
+      "postcode": "৮৫০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Pirojpur Sadar",
+      "suboffice": "Hularhat",
+      "postcode": 8501
+    }
+  },
+  "8502": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "পিরোজপুর সদর",
+      "suboffice": "পারেরহাট",
+      "postcode": "৮৫০২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Pirojpur Sadar",
+      "suboffice": "Parerhat",
+      "postcode": 8502
+    }
+  },
+  "8510": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "কাউখালী",
+      "suboffice": "কাউখালী",
+      "postcode": "৮৫১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "kaukhali",
+      "suboffice": "Kaukhali",
+      "postcode": 8510
+    }
+  },
+  "8511": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "কাউখালী",
+      "suboffice": "কেউন্দিয়া",
+      "postcode": "৮৫১১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "kaukhali",
+      "suboffice": "Keundia",
+      "postcode": 8511
+    }
+  },
+  "8512": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "কাউখালী",
+      "suboffice": "জয়কুল",
+      "postcode": "৮৫১২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "kaukhali",
+      "suboffice": "Joykul",
+      "postcode": 8512
+    }
+  },
+  "8513": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "কাউখালী",
+      "suboffice": "জোলাগাতি",
+      "postcode": "৮৫১৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "kaukhali",
+      "suboffice": "Jolagati",
+      "postcode": 8513
+    }
+  },
+  "8520": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "স্বরূপকাঠি",
+      "suboffice": "স্বরূপকাঠি",
+      "postcode": "৮৫২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Swarupkathi",
+      "suboffice": "Swarupkathi",
+      "postcode": 8520
+    }
+  },
+  "8521": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "স্বরূপকাঠি",
+      "suboffice": "দারুস সুন্নাত",
+      "postcode": "৮৫২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Swarupkathi",
+      "suboffice": "Darus Sunnat",
+      "postcode": 8521
+    }
+  },
+  "8522": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "স্বরূপকাঠি",
+      "suboffice": "কৌরিখাড়া",
+      "postcode": "৮৫২২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Swarupkathi",
+      "suboffice": "Kaurikhara",
+      "postcode": 8522
+    }
+  },
+  "8523": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "স্বরূপকাঠি",
+      "suboffice": "জালাবাড়ি",
+      "postcode": "৮৫২৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Swarupkathi",
+      "suboffice": "Jalabari",
+      "postcode": 8523
+    }
+  },
+  "8530": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "বানারীপাড়া",
+      "suboffice": "বানারীপাড়া",
+      "postcode": "৮৫৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Banaripara",
+      "suboffice": "Banaripara",
+      "postcode": 8530
+    }
+  },
+  "8531": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "বানারীপাড়া",
+      "suboffice": "চাখার",
+      "postcode": "৮৫৩১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Banaripara",
+      "suboffice": "Chakhar",
+      "postcode": 8531
+    }
+  },
+  "8540": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "নাজিরপুর",
+      "suboffice": "নাজিরপুর",
+      "postcode": "৮৫৪০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Nazirpur",
+      "suboffice": "Nazirpur",
+      "postcode": 8540
+    }
+  },
+  "8541": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "নাজিরপুর",
+      "suboffice": "শ্রীরামকাঠি",
+      "postcode": "৮৫৪১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Nazirpur",
+      "suboffice": "Sriramkathi",
+      "postcode": 8541
+    }
+  },
+  "8550": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "ভান্ডারিয়া",
+      "suboffice": "ভান্ডারিয়া",
+      "postcode": "৮৫৫০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Bhandaria",
+      "suboffice": "Bhandaria",
+      "postcode": 8550
+    }
+  },
+  "8551": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "ভান্ডারিয়া",
+      "suboffice": "কানুদাসকাঠি",
+      "postcode": "৮৫৫১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Bhandaria",
+      "suboffice": "Kanudashkathi",
+      "postcode": 8551
+    }
+  },
+  "8552": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "ভান্ডারিয়া",
+      "suboffice": "ধাওয়া",
+      "postcode": "৮৫৫২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Bhandaria",
+      "suboffice": "Dhaoa",
+      "postcode": 8552
+    }
+  },
+  "8560": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "মঠবাড়িয়া",
+      "suboffice": "মঠবাড়িয়া",
+      "postcode": "৮৫৬০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Mathbaria",
+      "suboffice": "Mathbaria",
+      "postcode": 8560
+    }
+  },
+  "8561": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "মঠবাড়িয়া",
+      "suboffice": "তুষখালি",
+      "postcode": "৮৫৬১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Mathbaria",
+      "suboffice": "Tushkhali",
+      "postcode": 8561
+    }
+  },
+  "8562": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "মঠবাড়িয়া",
+      "suboffice": "হাল্টা",
+      "postcode": "৮৫৬২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Mathbaria",
+      "suboffice": "Halta",
+      "postcode": 8562
+    }
+  },
+  "8563": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "মঠবাড়িয়া",
+      "suboffice": "গুলিশাখালী",
+      "postcode": "৮৫৬৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Mathbaria",
+      "suboffice": "Gulishakhali",
+      "postcode": 8563
+    }
+  },
+  "8564": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "মঠবাড়িয়া",
+      "suboffice": "টিয়ারখালী",
+      "postcode": "৮৫৬৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Mathbaria",
+      "suboffice": "Tiarkhali",
+      "postcode": 8564
+    }
+  },
+  "8565": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "মঠবাড়িয়া",
+      "suboffice": "বেতমোর নতুন হাট",
+      "postcode": "৮৫৬৫"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Mathbaria",
+      "suboffice": "Betmor Natun Hat",
+      "postcode": 8565
+    }
+  },
+  "8566": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পিরোজপুর",
+      "thana": "মঠবাড়িয়া",
+      "suboffice": "শিলারগঞ্জ",
+      "postcode": "৮৫৬৬"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Pirojpur",
+      "thana": "Mathbaria",
+      "suboffice": "Shilarganj",
+      "postcode": 8566
+    }
+  },
+  "8600": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "পটুয়াখালী সদর",
+      "suboffice": "পটুয়াখালী সদর",
+      "postcode": "৮৬০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Patuakhali Sadar",
+      "suboffice": "Patuakhali Sadar",
+      "postcode": 8600
+    }
+  },
+  "8601": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "পটুয়াখালী সদর",
+      "suboffice": "মৌকরণ",
+      "postcode": "৮৬০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Patuakhali Sadar",
+      "suboffice": "Moukaran",
+      "postcode": 8601
+    }
+  },
+  "8602": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "পটুয়াখালী সদর",
+      "suboffice": "দুমকী",
+      "postcode": "৮৬০২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Patuakhali Sadar",
+      "suboffice": "Dumkee",
+      "postcode": 8602
+    }
+  },
+  "8603": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "পটুয়াখালী সদর",
+      "suboffice": "রহিমাবাদ",
+      "postcode": "৮৬০৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Patuakhali Sadar",
+      "suboffice": "Rahimabad",
+      "postcode": 8603
+    }
+  },
+  "8610": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "সুবিদখালী",
+      "suboffice": "সুবিদখালী",
+      "postcode": "৮৬১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Subidkhali",
+      "suboffice": "Subidkhali",
+      "postcode": 8610
+    }
+  },
+  "8620": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "বাউফল",
+      "postcode": "৮৬২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Bauphal",
+      "postcode": 8620
+    }
+  },
+  "8621": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "বাগাবন্দর",
+      "postcode": "৮৬২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Bagabandar",
+      "postcode": 8621
+    }
+  },
+  "8622": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "বীরপাশা",
+      "postcode": "৮৬২২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Birpasha",
+      "postcode": 8622
+    }
+  },
+  "8623": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "কালীশুরী",
+      "postcode": "৮৬২৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Kalishari",
+      "postcode": 8623
+    }
+  },
+  "8624": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "কালাইয়া",
+      "postcode": "৮৬২৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Kalaia",
+      "postcode": 8624
+    }
+  },
+  "8630": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "দশমিনা",
+      "suboffice": "দশমিনা",
+      "postcode": "৮৬৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Dashmina",
+      "suboffice": "Dashmina",
+      "postcode": 8630
+    }
+  },
+  "8640": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "গলাচিপা",
+      "suboffice": "গলাচিপা",
+      "postcode": "৮৬৪০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Galachipa",
+      "suboffice": "Galachipa",
+      "postcode": 8640
+    }
+  },
+  "8641": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "গলাচিপা",
+      "suboffice": "গাজীপুর বন্দর",
+      "postcode": "৮৬৪১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Galachipa",
+      "suboffice": "Gazipur Bandar",
+      "postcode": 8641
+    }
+  },
+  "8650": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "খেপুপাড়া",
+      "suboffice": "খেপুপাড়া",
+      "postcode": "৮৬৫০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Khepupara",
+      "suboffice": "Khepupara",
+      "postcode": 8650
+    }
+  },
+  "8651": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "খেপুপাড়া",
+      "suboffice": "মহীপুর",
+      "postcode": "৮৬৫১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Khepupara",
+      "suboffice": "Mahipur",
+      "postcode": 8651
+    }
+  },
+  "8700": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বরগুনা সদর",
+      "suboffice": "বরগুনা সদর",
+      "postcode": "৮৭০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Barguna Sadar",
+      "suboffice": "Barguna Sadar",
+      "postcode": 8700
+    }
+  },
+  "8701": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বরগুনা সদর",
+      "suboffice": "নালি বন্দর",
+      "postcode": "৮৭০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Barguna Sadar",
+      "suboffice": "Nali Bandar",
+      "postcode": 8701
+    }
+  },
+  "8710": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "আমতলী",
+      "suboffice": "আমতলী",
+      "postcode": "৮৭১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Amtali",
+      "suboffice": "Amtali",
+      "postcode": 8710
+    }
+  },
+  "8720": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "পাথরঘাটা",
+      "suboffice": "পাথরঘাটা",
+      "postcode": "৮৭২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Patharghata",
+      "suboffice": "Patharghata",
+      "postcode": 8720
+    }
+  },
+  "8721": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "পাথরঘাটা",
+      "suboffice": "কাকচিড়া",
+      "postcode": "৮৭২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Patharghata",
+      "suboffice": "Kakchira",
+      "postcode": 8721
+    }
+  },
+  "8730": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বামনা",
+      "suboffice": "বামনা",
+      "postcode": "৮৭৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Bamna",
+      "suboffice": "Bamna",
+      "postcode": 8730
+    }
+  },
+  "8740": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বেতাগী",
+      "suboffice": "বেতাগী",
+      "postcode": "৮৭৪০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Betagi",
+      "suboffice": "Betagi",
+      "postcode": 8740
+    }
+  },
+  "8741": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বেতাগী",
+      "suboffice": "দারুল ঊলম",
+      "postcode": "৮৭৪১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Betagi",
+      "suboffice": "Darul Ulam",
+      "postcode": 8741
+    }
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "7000": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "কুষ্টিয়া সদর",
+      "suboffice": "কুষ্টিয়া সদর",
+      "postcode": "৭০০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Kushtia Sadar",
+      "suboffice": "Kushtia Sadar",
+      "postcode": 7000
+    }
+  },
+  "7001": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "কুষ্টিয়া সদর",
+      "suboffice": "কুষ্টিয়া মোহিনী",
+      "postcode": "৭০০১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Kushtia Sadar",
+      "suboffice": "Kushtia Mohini",
+      "postcode": 7001
+    }
+  },
+  "7002": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "কুষ্টিয়া সদর",
+      "suboffice": "জগতি",
+      "postcode": "৭০০২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Kushtia Sadar",
+      "suboffice": "Jagati",
+      "postcode": 7002
+    }
+  },
+  "7003": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "কুষ্টিয়া সদর",
+      "suboffice": "ইসলামী বিশ্ববিদ্যালয়",
+      "postcode": "৭০০৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Kushtia Sadar",
+      "suboffice": "Islami University",
+      "postcode": 7003
+    }
+  },
+  "7010": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "কুমারখালী",
+      "suboffice": "কুমারখালী",
+      "postcode": "৭০১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Kumarkhali",
+      "suboffice": "Kumarkhali",
+      "postcode": 7010
+    }
+  },
+  "7011": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "কুমারখালী",
+      "suboffice": "পান্টি",
+      "postcode": "৭০১১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Kumarkhali",
+      "suboffice": "Panti",
+      "postcode": 7011
+    }
+  },
+  "7020": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "খোকসা",
+      "suboffice": "জানিপুর",
+      "postcode": "৭০২০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Janipur",
+      "suboffice": "Janipur",
+      "postcode": 7020
+    }
+  },
+  "7021": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "খোকসা",
+      "suboffice": "খোকসা",
+      "postcode": "৭০২১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Janipur",
+      "suboffice": "Khoksa",
+      "postcode": 7021
+    }
+  },
+  "7030": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "মিরপুর",
+      "suboffice": "মিরপুর",
+      "postcode": "৭০৩০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Mirpur",
+      "suboffice": "Mirpur",
+      "postcode": 7030
+    }
+  },
+  "7031": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "মিরপুর",
+      "suboffice": "পোড়াদহ",
+      "postcode": "৭০৩১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Mirpur",
+      "suboffice": "Poradaha",
+      "postcode": 7031
+    }
+  },
+  "7032": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "মিরপুর",
+      "suboffice": "আমলা সদরপুর",
+      "postcode": "৭০৩২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Mirpur",
+      "suboffice": "Amla Sadarpur",
+      "postcode": 7032
+    }
+  },
+  "7040": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "ভেড়ামারা",
+      "suboffice": "ভেড়ামারা",
+      "postcode": "৭০৪০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Bheramara",
+      "suboffice": "Bheramara",
+      "postcode": 7040
+    }
+  },
+  "7041": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "ভেড়ামারা",
+      "suboffice": "গঙ্গা ভেড়ামারা",
+      "postcode": "৭০৪১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Bheramara",
+      "suboffice": "Ganges Bheramara",
+      "postcode": 7041
+    }
+  },
+  "7042": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "ভেড়ামারা",
+      "suboffice": "আল্লারদর্গা",
+      "postcode": "৭০৪২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Bheramara",
+      "suboffice": "Allardarga",
+      "postcode": 7042
+    }
+  },
+  "7050": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "দৌলতপুর",
+      "suboffice": "দৌলতপুর",
+      "postcode": "৭০৫০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Rafayetpur",
+      "suboffice": "Doulatpur",
+      "postcode": 7050
+    }
+  },
+  "7051": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "দৌলতপুর",
+      "suboffice": "তারাগুনিয়া",
+      "postcode": "৭০৫১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Rafayetpur",
+      "suboffice": "Taragunia",
+      "postcode": 7051
+    }
+  },
+  "7052": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "কুষ্টিয়া",
+      "thana": "দৌলতপুর",
+      "suboffice": "খাসমথুরাপুর",
+      "postcode": "৭০৫২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Kushtia",
+      "thana": "Rafayetpur",
+      "suboffice": "Khasmathurapur",
+      "postcode": 7052
+    }
+  }
+}

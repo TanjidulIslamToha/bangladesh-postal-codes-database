@@ -1,0 +1,194 @@
+{
+  "6300": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "চাঁপাইনবাবগঞ্জ সদর",
+      "suboffice": "চাঁপাইনবাবগঞ্জ সদর",
+      "postcode": "৬৩০০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Chapai Nawabganj Sadar",
+      "suboffice": "Chapai Nawabganj Sadar",
+      "postcode": 6300
+    }
+  },
+  "6301": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "চাঁপাইনবাবগঞ্জ সদর",
+      "suboffice": "রাজারামপুর",
+      "postcode": "৬৩০১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Chapai Nawabganj Sadar",
+      "suboffice": "Rajarampur",
+      "postcode": 6301
+    }
+  },
+  "6302": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "চাঁপাইনবাবগঞ্জ সদর",
+      "suboffice": "রামচন্দ্রপুর",
+      "postcode": "৬৩০২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Chapai Nawabganj Sadar",
+      "suboffice": "Ramchandarpur",
+      "postcode": 6302
+    }
+  },
+  "6303": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "চাঁপাইনবাবগঞ্জ সদর",
+      "suboffice": "আমনুরা",
+      "postcode": "৬৩০৩"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Chapai Nawabganj Sadar",
+      "suboffice": "Amnura",
+      "postcode": 6303
+    }
+  },
+  "6310": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "নাচোল",
+      "suboffice": "নাচোল",
+      "postcode": "৬৩১০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Nachol",
+      "suboffice": "Nachol",
+      "postcode": 6310
+    }
+  },
+  "6311": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "নাচোল",
+      "suboffice": "মন্ডুমালা",
+      "postcode": "৬৩১১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Nachol",
+      "suboffice": "Mandumala",
+      "postcode": 6311
+    }
+  },
+  "6320": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "রোহনপুর",
+      "suboffice": "রোহনপুর",
+      "postcode": "৬৩২০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Rohanpur",
+      "suboffice": "Rohanpur",
+      "postcode": 6320
+    }
+  },
+  "6321": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "রোহনপুর",
+      "suboffice": "গোমস্তাপুর",
+      "postcode": "৬৩২১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Rohanpur",
+      "suboffice": "Gomashtapur",
+      "postcode": 6321
+    }
+  },
+  "6330": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "ভোলাহাট",
+      "suboffice": "ভোলাহাট",
+      "postcode": "৬৩৩০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Bholahat",
+      "suboffice": "Bholahat",
+      "postcode": 6330
+    }
+  },
+  "6340": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "শিবগঞ্জ U.P.O",
+      "suboffice": "শিবগঞ্জ U.P.O",
+      "postcode": "৬৩৪০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Shibganj U.P.O",
+      "suboffice": "Shibganj U.P.O",
+      "postcode": 6340
+    }
+  },
+  "6341": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "শিবগঞ্জ U.P.O",
+      "suboffice": "কনসার্ট",
+      "postcode": "৬৩৪১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Shibganj U.P.O",
+      "suboffice": "Kansart",
+      "postcode": 6341
+    }
+  },
+  "6342": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "চাঁপাইনবাবগঞ্জ",
+      "thana": "শিবগঞ্জ U.P.O",
+      "suboffice": "মনাকষা",
+      "postcode": "৬৩৪২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Chapai Nawabganj",
+      "thana": "Shibganj U.P.O",
+      "suboffice": "Manaksha",
+      "postcode": 6342
+    }
+  }
+}

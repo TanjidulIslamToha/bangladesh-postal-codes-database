@@ -1,0 +1,194 @@
+{
+  "8000": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "শরীয়তপুর সদর",
+      "suboffice": "শরীয়তপুর সদর",
+      "postcode": "৮০০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Shariatpur Sadar",
+      "suboffice": "Shariatpur Sadar",
+      "postcode": 8000
+    }
+  },
+  "8001": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "শরীয়তপুর সদর",
+      "suboffice": "আঙ্গারিয়া",
+      "postcode": "৮০০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Shariatpur Sadar",
+      "suboffice": "Angaria",
+      "postcode": 8001
+    }
+  },
+  "8002": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "শরীয়তপুর সদর",
+      "suboffice": "চিকান্দি",
+      "postcode": "৮০০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Shariatpur Sadar",
+      "suboffice": "Chikandi",
+      "postcode": 8002
+    }
+  },
+  "8010": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "জাজিরা",
+      "suboffice": "জাজিরা",
+      "postcode": "৮০১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Jajira",
+      "suboffice": "Jajira",
+      "postcode": 8010
+    }
+  },
+  "8020": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "নড়িয়া",
+      "suboffice": "নড়িয়া",
+      "postcode": "৮০২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Naria",
+      "suboffice": "Naria",
+      "postcode": 8020
+    }
+  },
+  "8021": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "নড়িয়া",
+      "suboffice": "ভোজেশ্বর",
+      "postcode": "৮০২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Naria",
+      "suboffice": "Bhozeshwar",
+      "postcode": 8021
+    }
+  },
+  "8022": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "নড়িয়া",
+      "suboffice": "ঘারিসার",
+      "postcode": "৮০২২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Naria",
+      "suboffice": "Gharisar",
+      "postcode": 8022
+    }
+  },
+  "8023": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "নড়িয়া",
+      "suboffice": "উপশি",
+      "postcode": "৮০২৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Naria",
+      "suboffice": "Upshi",
+      "postcode": 8023
+    }
+  },
+  "8024": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "নড়িয়া",
+      "suboffice": "কার্তিকপুর",
+      "postcode": "৮০২৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Naria",
+      "suboffice": "Kartikpur",
+      "postcode": 8024
+    }
+  },
+  "8030": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "ভেদোরগঞ্জ",
+      "suboffice": "ভেদোরগঞ্জ",
+      "postcode": "৮০৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Bhedorganj",
+      "suboffice": "Bhedorganj",
+      "postcode": 8030
+    }
+  },
+  "8040": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "দামুধ্যা",
+      "suboffice": "দামুধ্যা",
+      "postcode": "৮০৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Damudhya",
+      "suboffice": "Damudhya",
+      "postcode": 8040
+    }
+  },
+  "8050": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "শরীয়তপুর",
+      "thana": "গোসাইরহাট",
+      "suboffice": "গোসাইরহাট",
+      "postcode": "৮০৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Shariatpur",
+      "thana": "Gosairhat",
+      "suboffice": "Gosairhat",
+      "postcode": 8050
+    }
+  }
+}

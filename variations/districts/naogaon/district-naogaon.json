@@ -1,0 +1,290 @@
+{
+  "6500": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "নওগাঁ সদর",
+      "suboffice": "নওগাঁ সদর",
+      "postcode": "৬৫০০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Naogaon Sadar",
+      "suboffice": "Naogaon Sadar",
+      "postcode": 6500
+    }
+  },
+  "6510": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "প্রসাদপুর",
+      "suboffice": "প্রসাদপুর",
+      "postcode": "৬৫১০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Prasadpur",
+      "suboffice": "Prasadpur",
+      "postcode": 6510
+    }
+  },
+  "6511": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "প্রসাদপুর",
+      "suboffice": "মান্দা",
+      "postcode": "৬৫১১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Prasadpur",
+      "suboffice": "Manda",
+      "postcode": 6511
+    }
+  },
+  "6512": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "প্রসাদপুর",
+      "suboffice": "বলিহার",
+      "postcode": "৬৫১২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Prasadpur",
+      "suboffice": "Balihar",
+      "postcode": 6512
+    }
+  },
+  "6520": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "নিয়ামতপুর",
+      "suboffice": "নিয়ামতপুর",
+      "postcode": "৬৫২০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Niamatpur",
+      "suboffice": "Niamatpur",
+      "postcode": 6520
+    }
+  },
+  "6530": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "মহাদেবপুর",
+      "suboffice": "মহাদেবপুর",
+      "postcode": "৬৫৩০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Mahadebpur",
+      "suboffice": "Mahadebpur",
+      "postcode": 6530
+    }
+  },
+  "6540": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "পত্নীতলা",
+      "suboffice": "পত্নীতলা",
+      "postcode": "৬৫৪০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Sapahar",
+      "suboffice": "Patnitala",
+      "postcode": 6540
+    }
+  },
+  "6550": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "নিতপুর",
+      "suboffice": "নিতপুর",
+      "postcode": "৬৫৫০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Nitpur",
+      "suboffice": "Nitpur",
+      "postcode": 6550
+    }
+  },
+  "6551": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "নিতপুর",
+      "suboffice": "পোরশা",
+      "postcode": "৬৫৫১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Nitpur",
+      "suboffice": "Porsa",
+      "postcode": 6551
+    }
+  },
+  "6552": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "নিতপুর",
+      "suboffice": "গাঙ্গুরিয়া",
+      "postcode": "৬৫৫২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Nitpur",
+      "suboffice": "Panguria",
+      "postcode": 6552
+    }
+  },
+  "6560": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "সাপাহার",
+      "suboffice": "সাপাহার",
+      "postcode": "৬৫৬০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Sapahar",
+      "suboffice": "Sapahar",
+      "postcode": 6560
+    }
+  },
+  "6561": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "পত্নীতলা",
+      "suboffice": "মধুইল",
+      "postcode": "৬৫৬১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Sapahar",
+      "suboffice": "Moduhil",
+      "postcode": 6561
+    }
+  },
+  "6570": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "বদলগাছী",
+      "suboffice": "বদলগাছী",
+      "postcode": "৬৫৭০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Badalgachhi",
+      "suboffice": "Badalgachhi",
+      "postcode": 6570
+    }
+  },
+  "6580": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "ধামুইরহাট",
+      "suboffice": "ধামুইরহাট",
+      "postcode": "৬৫৮০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Dhamuirhat",
+      "suboffice": "Dhamuirhat",
+      "postcode": 6580
+    }
+  },
+  "6590": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "রানীনগর",
+      "suboffice": "রানীনগর",
+      "postcode": "৬৫৯০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Raninagar",
+      "suboffice": "Raninagar",
+      "postcode": 6590
+    }
+  },
+  "6591": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "রানীনগর",
+      "suboffice": "কাশিমপুর",
+      "postcode": "৬৫৯১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Raninagar",
+      "suboffice": "Kashimpur",
+      "postcode": 6591
+    }
+  },
+  "6596": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "আহসানগঞ্জ",
+      "suboffice": "আহসানগঞ্জ",
+      "postcode": "৬৫৯৬"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Ahsanganj",
+      "suboffice": "Ahsanganj",
+      "postcode": 6596
+    }
+  },
+  "6597": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "নওগাঁ",
+      "thana": "আহসানগঞ্জ",
+      "suboffice": "বান্দাই",
+      "postcode": "৬৫৯৭"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Naogaon",
+      "thana": "Ahsanganj",
+      "suboffice": "Bandai",
+      "postcode": 6597
+    }
+  }
+}

@@ -1,0 +1,610 @@
+{
+  "3500": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "কুমিল্লা সদর",
+      "suboffice": "কুমিল্লা সদর",
+      "postcode": "৩৫০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Comilla Sadar",
+      "suboffice": "Comilla Sadar",
+      "postcode": 3500
+    }
+  },
+  "3501": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "কুমিল্লা সদর",
+      "suboffice": "কুমিল্লা সেনানিবাস",
+      "postcode": "৩৫০১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Comilla Sadar",
+      "suboffice": "Comilla Contoment",
+      "postcode": 3501
+    }
+  },
+  "3502": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "কুমিল্লা সদর",
+      "suboffice": "হালিমানগর",
+      "postcode": "৩৫০২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Comilla Sadar",
+      "suboffice": "Halimanagar",
+      "postcode": 3502
+    }
+  },
+  "3503": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "কুমিল্লা সদর",
+      "suboffice": "কোটবাড়ী",
+      "postcode": "৩৫০৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Comilla Sadar",
+      "suboffice": "Courtbari",
+      "postcode": 3503
+    }
+  },
+  "3504": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "কুমিল্লা সদর",
+      "suboffice": "সুয়াগঞ্জ",
+      "postcode": "৩৫০৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Comilla Sadar",
+      "suboffice": "Suaganj",
+      "postcode": 3504
+    }
+  },
+  "3510": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "চান্দিনা",
+      "suboffice": "চান্দিনা",
+      "postcode": "৩৫১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Chandina",
+      "suboffice": "Mohichail",
+      "postcode": 3510
+    }
+  },
+  "3511": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "চান্দিনা",
+      "suboffice": "মাধাইয়া বাজার",
+      "postcode": "৩৫১১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Chandina",
+      "suboffice": "Madhaiabazar",
+      "postcode": 3511
+    }
+  },
+  "3516": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "দাউদকান্দি",
+      "suboffice": "দাউদকান্দি",
+      "postcode": "৩৫১৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Daudkandi",
+      "suboffice": "Daudkandi",
+      "postcode": 3516
+    }
+  },
+  "3517": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "দাউদকান্দি",
+      "suboffice": "গৌরীপুর",
+      "postcode": "৩৫১৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Daudkandi",
+      "suboffice": "Gouripur",
+      "postcode": 3517
+    }
+  },
+  "3518": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "দাউদকান্দি",
+      "suboffice": "দাশপাড়া",
+      "postcode": "৩৫১৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Daudkandi",
+      "suboffice": "Dashpara",
+      "postcode": 3518
+    }
+  },
+  "3519": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "দাউদকান্দি",
+      "suboffice": "ইলিয়টগঞ্জ",
+      "postcode": "৩৫১৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Daudkandi",
+      "suboffice": "Eliotganj",
+      "postcode": 3519
+    }
+  },
+  "3520": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "বুড়িচং",
+      "suboffice": "বুড়িচং",
+      "postcode": "৩৫২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Burichang",
+      "suboffice": "Burichang",
+      "postcode": 3520
+    }
+  },
+  "3521": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "বুড়িচং",
+      "suboffice": "ময়নামতি বাজার",
+      "postcode": "৩৫২১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Burichang",
+      "suboffice": "Maynamoti bazar",
+      "postcode": 3521
+    }
+  },
+  "3526": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "ব্রাহ্মণপাড়া",
+      "suboffice": "ব্রাহ্মণপাড়া",
+      "postcode": "৩৫২৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Brahmanpara",
+      "suboffice": "Brahmanpara",
+      "postcode": 3526
+    }
+  },
+  "3530": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "দেবিদ্বার",
+      "suboffice": "দেবিদ্বার",
+      "postcode": "৩৫৩০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Davidhar",
+      "suboffice": "Davidhar",
+      "postcode": 3530
+    }
+  },
+  "3531": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "দেবিদ্বার",
+      "suboffice": "গঙ্গামন্ডল",
+      "postcode": "৩৫৩১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Davidhar",
+      "suboffice": "Gangamandal",
+      "postcode": 3531
+    }
+  },
+  "3532": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "দেবিদ্বার",
+      "suboffice": "বড়শালঘর",
+      "postcode": "৩৫৩২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Davidhar",
+      "suboffice": "Barashalghar",
+      "postcode": 3532
+    }
+  },
+  "3533": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "দেবিদ্বার",
+      "suboffice": "ধামতী",
+      "postcode": "৩৫৩৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Davidhar",
+      "suboffice": "Dhamtee",
+      "postcode": 3533
+    }
+  },
+  "3540": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "মুরাদনগর",
+      "suboffice": "মুরাদনগর",
+      "postcode": "৩৫৪০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Muradnagar",
+      "suboffice": "Muradnagar",
+      "postcode": 3540
+    }
+  },
+  "3541": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "মুরাদনগর",
+      "suboffice": "রামচন্দ্রপুর",
+      "postcode": "৩৫৪১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Muradnagar",
+      "suboffice": "Ramchandarpur",
+      "postcode": 3541
+    }
+  },
+  "3542": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "মুরাদনগর",
+      "suboffice": "কোম্পানীগঞ্জ",
+      "postcode": "৩৫৪২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Muradnagar",
+      "suboffice": "Companyganj",
+      "postcode": 3542
+    }
+  },
+  "3543": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "মুরাদনগর",
+      "suboffice": "বাঙ্গরা",
+      "postcode": "৩৫৪৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Muradnagar",
+      "suboffice": "Bangra",
+      "postcode": 3543
+    }
+  },
+  "3544": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "মুরাদনগর",
+      "suboffice": "সোনাকান্দা",
+      "postcode": "৩৫৪৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Muradnagar",
+      "suboffice": "Sonakanda",
+      "postcode": 3544
+    }
+  },
+  "3545": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "মুরাদনগর",
+      "suboffice": "পান্তি বাজার",
+      "postcode": "৩৫৪৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Muradnagar",
+      "suboffice": "Pantibazar",
+      "postcode": 3545
+    }
+  },
+  "3546": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "হোমনা",
+      "suboffice": "হোমনা",
+      "postcode": "৩৫৪৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Homna",
+      "suboffice": "Homna",
+      "postcode": 3546
+    }
+  },
+  "3550": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "চৌদ্দগ্রাম",
+      "suboffice": "চৌদ্দগ্রাম",
+      "postcode": "৩৫৫০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Chouddagram",
+      "suboffice": "Chouddagram",
+      "postcode": 3550
+    }
+  },
+  "3551": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "চৌদ্দগ্রাম",
+      "suboffice": "বাতিসা",
+      "postcode": "৩৫৫১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Chouddagram",
+      "suboffice": "Batisa",
+      "postcode": 3551
+    }
+  },
+  "3552": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "চৌদ্দগ্রাম",
+      "suboffice": "চিওড়া",
+      "postcode": "৩৫৫২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Chouddagram",
+      "suboffice": "Chiora",
+      "postcode": 3552
+    }
+  },
+  "3560": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "বরুড়া",
+      "suboffice": "বরুড়া",
+      "postcode": "৩৫৬০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Barura",
+      "suboffice": "Barura",
+      "postcode": 3560
+    }
+  },
+  "3561": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "বরুড়া",
+      "suboffice": "পয়ালগাছা",
+      "postcode": "৩৫৬১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Barura",
+      "suboffice": "Poyalgachha",
+      "postcode": 3561
+    }
+  },
+  "3562": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "বরুড়া",
+      "suboffice": "মুদাফরগঞ্জ",
+      "postcode": "৩৫৬২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Barura",
+      "suboffice": "Murdafarganj",
+      "postcode": 3562
+    }
+  },
+  "3570": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "লাকসাম",
+      "suboffice": "লাকসাম",
+      "postcode": "৩৫৭০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Laksam",
+      "suboffice": "Laksam",
+      "postcode": 3570
+    }
+  },
+  "3571": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "লাকসাম",
+      "suboffice": "লাকসাম",
+      "postcode": "৩৫৭১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Laksam",
+      "suboffice": "Laksam",
+      "postcode": 3571
+    }
+  },
+  "3572": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "লাকসাম",
+      "suboffice": "বিপুলাসার",
+      "postcode": "৩৫৭২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Laksam",
+      "suboffice": "Bipulasar",
+      "postcode": 3572
+    }
+  },
+  "3580": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "নাঙ্গলকোট",
+      "suboffice": "নাঙ্গলকোট",
+      "postcode": "৩৫৮০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Langalkot",
+      "suboffice": "Langalkot",
+      "postcode": 3580
+    }
+  },
+  "3581": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "নাঙ্গলকোট",
+      "suboffice": "ঢালুয়া",
+      "postcode": "৩৫৮১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Langalkot",
+      "suboffice": "Dhalua",
+      "postcode": 3581
+    }
+  },
+  "3582": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "নাঙ্গলকোট",
+      "suboffice": "বটতলী বাজার",
+      "postcode": "৩৫৮২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Langalkot",
+      "suboffice": "Chhariabazar",
+      "postcode": 3582
+    }
+  },
+  "3583": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "কুমিল্লা",
+      "thana": "নাঙ্গলকোট",
+      "suboffice": "গুণবতী",
+      "postcode": "৩৫৮৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Cumilla",
+      "thana": "Langalkot",
+      "suboffice": "Gunabati",
+      "postcode": 3583
+    }
+  }
+}

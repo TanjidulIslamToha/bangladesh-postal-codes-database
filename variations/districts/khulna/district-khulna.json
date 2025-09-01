@@ -1,0 +1,626 @@
+{
+  "9000": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "খুলনা জিপিও",
+      "postcode": "৯০০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "Khulna G.P.O",
+      "postcode": 9000
+    }
+  },
+  "9100": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "খুলনা সদর",
+      "postcode": "৯১০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "Khula Sadar",
+      "postcode": 9100
+    }
+  },
+  "9201": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "খুলনা শিপইয়ার্ড",
+      "postcode": "৯২০১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "Khulna Shipyard",
+      "postcode": 9201
+    }
+  },
+  "9202": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "দৌলতপুর",
+      "postcode": "৯২০২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "Doulatpur",
+      "postcode": 9202
+    }
+  },
+  "9203": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "কুয়েট",
+      "postcode": "৯২০৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "BIT Khulna",
+      "postcode": 9203
+    }
+  },
+  "9204": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "শিরোমনি",
+      "postcode": "৯২০৪"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "Siramani",
+      "postcode": 9204
+    }
+  },
+  "9205": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "জাহানাবাদ ক্যান্টনমেন্ট",
+      "postcode": "৯২০৫"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "Jahanabad Canttonmen",
+      "postcode": 9205
+    }
+  },
+  "9206": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "সোনালী জুট মিলস",
+      "postcode": "৯২০৬"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "Sonali Jute Mills",
+      "postcode": 9206
+    }
+  },
+  "9207": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "আটরা শিল্প এলাকা",
+      "postcode": "৯২০৭"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "Atra Shilpa Area",
+      "postcode": 9207
+    }
+  },
+  "9208": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "খুলনা মেট্রো",
+      "suboffice": "খুলনা বিশ্ববিদ্যালয়",
+      "postcode": "৯২০৮"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Khulna Sadar",
+      "suboffice": "Khulna University",
+      "postcode": 9208
+    }
+  },
+  "9210": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "ফুলতলা",
+      "suboffice": "ফুলতলা",
+      "postcode": "৯২১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Phultala",
+      "suboffice": "Phultala",
+      "postcode": 9210
+    }
+  },
+  "9220": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "দিঘলিয়া",
+      "suboffice": "দিঘলিয়া",
+      "postcode": "৯২২০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Digalia",
+      "suboffice": "Digalia",
+      "postcode": 9220
+    }
+  },
+  "9221": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "দিঘলিয়া",
+      "suboffice": "চন্দনী মহল",
+      "postcode": "৯২২১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Digalia",
+      "suboffice": "Chandni Mahal",
+      "postcode": 9221
+    }
+  },
+  "9222": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "দিঘলিয়া",
+      "suboffice": "সেনহাটি",
+      "postcode": "৯২২২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Digalia",
+      "suboffice": "Senhati",
+      "postcode": 9222
+    }
+  },
+  "9223": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "দিঘলিয়া",
+      "suboffice": "জি-বারাকপুর",
+      "postcode": "৯২২৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Digalia",
+      "suboffice": "Ghoshghati",
+      "postcode": 9223
+    }
+  },
+  "9224": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "দিঘলিয়া",
+      "suboffice": "গাজীরহাট",
+      "postcode": "৯২২৪"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Digalia",
+      "suboffice": "Gazirhat",
+      "postcode": 9224
+    }
+  },
+  "9230": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "তেরখাদা",
+      "suboffice": "তেরখাদা",
+      "postcode": "৯২৩০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Terakhada",
+      "suboffice": "Terakhada",
+      "postcode": 9230
+    }
+  },
+  "9231": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "তেরখাদা",
+      "suboffice": "পাক বারাসত",
+      "postcode": "৯২৩১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Terakhada",
+      "suboffice": "Pak Barasat",
+      "postcode": 9231
+    }
+  },
+  "9240": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "রূপসা",
+      "suboffice": "রূপসা",
+      "postcode": "৯২৪০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Alaipur",
+      "suboffice": "Rupsha",
+      "postcode": 9240
+    }
+  },
+  "9241": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "রূপসা",
+      "suboffice": "পূর্ব রূপসা",
+      "postcode": "৯২৪১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Alaipur",
+      "suboffice": "Rupsha",
+      "postcode": 9241
+    }
+  },
+  "9242": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "রূপসা",
+      "suboffice": "বেলফুলিয়া",
+      "postcode": "৯২৪২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Alaipur",
+      "suboffice": "Belphulia",
+      "postcode": 9242
+    }
+  },
+  "9250": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "ডুমুরিয়া",
+      "suboffice": "ডুমুরিয়া",
+      "postcode": "৯২৫০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Sajiara",
+      "suboffice": "Sajiara",
+      "postcode": 9250
+    }
+  },
+  "9251": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "ডুমুরিয়া",
+      "suboffice": "ঘোনাবন্দ",
+      "postcode": "৯২৫১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Sajiara",
+      "suboffice": "Ghonabanda",
+      "postcode": 9251
+    }
+  },
+  "9252": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "ডুমুরিয়া",
+      "suboffice": "চুকনগর",
+      "postcode": "৯২৫২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Sajiara",
+      "suboffice": "Chuknagar",
+      "postcode": 9252
+    }
+  },
+  "9253": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "ডুমুরিয়া",
+      "suboffice": "শাহাপুর",
+      "postcode": "৯২৫৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Sajiara",
+      "suboffice": "Shahapur",
+      "postcode": 9253
+    }
+  },
+  "9260": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "বটিয়াঘাটা",
+      "suboffice": "বটিয়াঘাটা",
+      "postcode": "৯২৬০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Batiaghat",
+      "suboffice": "Batiaghat",
+      "postcode": 9260
+    }
+  },
+  "9261": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "বটিয়াঘাটা",
+      "suboffice": "সুরখালী",
+      "postcode": "৯২৬১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Batiaghat",
+      "suboffice": "Surkalee",
+      "postcode": 9261
+    }
+  },
+  "9270": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "দাকোপ",
+      "suboffice": "চালনা বাজার",
+      "postcode": "৯২৭০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Chalna Bazar",
+      "suboffice": "Chalna Bazar",
+      "postcode": 9270
+    }
+  },
+  "9271": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "দাকোপ",
+      "suboffice": "দাকোপ",
+      "postcode": "৯২৭১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Chalna Bazar",
+      "suboffice": "Dakup",
+      "postcode": 9271
+    }
+  },
+  "9272": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "চালনা",
+      "suboffice": "বাজুয়া",
+      "postcode": "৯২৭২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Chalna Bazar",
+      "suboffice": "Bajua",
+      "postcode": 9272
+    }
+  },
+  "9273": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "দাকোপ",
+      "suboffice": "নলিয়ান",
+      "postcode": "৯২৭৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Chalna Bazar",
+      "suboffice": "Nalian",
+      "postcode": 9273
+    }
+  },
+  "9280": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "পাইকগাছা",
+      "suboffice": "পাইকগাছা",
+      "postcode": "৯২৮০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Paikgachha",
+      "suboffice": "Paikgachha",
+      "postcode": 9280
+    }
+  },
+  "9281": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "পাইকগাছা",
+      "suboffice": "গদাইপুর",
+      "postcode": "৯২৮১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Paikgachha",
+      "suboffice": "Godaipur",
+      "postcode": 9281
+    }
+  },
+  "9282": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "পাইকগাছা",
+      "suboffice": "কপিলমুনি",
+      "postcode": "৯২৮২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Paikgachha",
+      "suboffice": "Kapilmoni",
+      "postcode": 9282
+    }
+  },
+  "9283": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "পাইকগাছা",
+      "suboffice": "কাটিপাড়া",
+      "postcode": "৯২৮৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Paikgachha",
+      "suboffice": "Katipara",
+      "postcode": 9283
+    }
+  },
+  "9284": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "পাইকগাছা",
+      "suboffice": "চাঁদখালী",
+      "postcode": "৯২৮৪"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Paikgachha",
+      "suboffice": "Chandkhali",
+      "postcode": 9284
+    }
+  },
+  "9285": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "পাইকগাছা",
+      "suboffice": "গড়ইখালী",
+      "postcode": "৯২৮৫"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Paikgachha",
+      "suboffice": "Garaikhali",
+      "postcode": 9285
+    }
+  },
+  "9290": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "কয়রা",
+      "suboffice": "কয়রা",
+      "postcode": "৯২৯০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Koyra",
+      "suboffice": "Koyra",
+      "postcode": 9290
+    }
+  },
+  "9291": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "খুলনা",
+      "thana": "কয়রা",
+      "suboffice": "আমাদী",
+      "postcode": "৯২৯১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Khulna",
+      "thana": "Koyra",
+      "suboffice": "Amadee",
+      "postcode": 9291
+    }
+  }
+}

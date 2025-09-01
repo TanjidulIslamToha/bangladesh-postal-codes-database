@@ -1,0 +1,242 @@
+{
+  "5400": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "রংপুর সদর",
+      "postcode": "৫৪০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Rangpur Sadar",
+      "postcode": 5400
+    }
+  },
+  "5401": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "রংপুর উপশহর",
+      "postcode": "৫৪০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Rangpur Upa-Shahar",
+      "postcode": 5401
+    }
+  },
+  "5402": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "আলমনগর",
+      "postcode": "৫৪০২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Alamnagar",
+      "postcode": 5402
+    }
+  },
+  "5403": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "মাহিগঞ্জ",
+      "postcode": "৫৪০৩"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Mahiganj",
+      "postcode": 5403
+    }
+  },
+  "5404": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "রংপুর ক্যাডেট কলেজ",
+      "postcode": "৫৪০৪"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Rangpur Cadet Colleg",
+      "postcode": 5404
+    }
+  },
+  "5405": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "রংপুর কারমাইকেল কলেজ",
+      "postcode": "৫৪০৫"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Rangpur Carmiecal Col",
+      "postcode": 5405
+    }
+  },
+  "5410": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "গঙ্গাচড়া",
+      "suboffice": "গঙ্গাচড়া",
+      "postcode": "৫৪১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Gangachara",
+      "suboffice": "Gangachara",
+      "postcode": 5410
+    }
+  },
+  "5420": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "তারাগঞ্জ",
+      "suboffice": "তারাগঞ্জ",
+      "postcode": "৫৪২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Taraganj",
+      "suboffice": "Taraganj",
+      "postcode": 5420
+    }
+  },
+  "5430": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "বদরগঞ্জ",
+      "suboffice": "বদরগঞ্জ",
+      "postcode": "৫৪৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Badarganj",
+      "suboffice": "Badarganj",
+      "postcode": 5430
+    }
+  },
+  "5431": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "বদরগঞ্জ",
+      "suboffice": "শ্যামপুর",
+      "postcode": "৫৪৩১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Badarganj",
+      "suboffice": "Shyampur",
+      "postcode": 5431
+    }
+  },
+  "5440": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "কাউনিয়া",
+      "suboffice": "কাউনিয়া",
+      "postcode": "৫৪৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Kaunia",
+      "suboffice": "Kaunia",
+      "postcode": 5440
+    }
+  },
+  "5441": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "কাউনিয়া",
+      "suboffice": "হারাগাছ",
+      "postcode": "৫৪৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Kaunia",
+      "suboffice": "Haragachh",
+      "postcode": 5441
+    }
+  },
+  "5450": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "পীরগাছা",
+      "suboffice": "পীরগাছা",
+      "postcode": "৫৪৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Pirgachha",
+      "suboffice": "Pirgachha",
+      "postcode": 5450
+    }
+  },
+  "5460": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "মিঠাপুকুর",
+      "suboffice": "মিঠাপুকুর",
+      "postcode": "৫৪৬০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Mithapukur",
+      "suboffice": "Mithapukur",
+      "postcode": 5460
+    }
+  },
+  "5470": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "পীরগঞ্জ",
+      "suboffice": "পীরগঞ্জ",
+      "postcode": "৫৪৭০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Pirganj",
+      "suboffice": "Pirganj",
+      "postcode": 5470
+    }
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "3200": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "মৌলভীবাজার সদর",
+      "suboffice": "মৌলভীবাজার সদর",
+      "postcode": "৩২০০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Moulvibazar Sadar",
+      "suboffice": "Moulvibazar Sadar",
+      "postcode": 3200
+    }
+  },
+  "3201": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "মৌলভীবাজার সদর",
+      "suboffice": "বারাকাপান",
+      "postcode": "৩২০১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Moulvibazar Sadar",
+      "suboffice": "Barakapan",
+      "postcode": 3201
+    }
+  },
+  "3202": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "মৌলভীবাজার সদর",
+      "suboffice": "মনুমুখ",
+      "postcode": "৩২০২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Moulvibazar Sadar",
+      "suboffice": "Monumukh",
+      "postcode": 3202
+    }
+  },
+  "3203": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "মৌলভীবাজার সদর",
+      "suboffice": "আফরোজগঞ্জ",
+      "postcode": "৩২০৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Moulvibazar Sadar",
+      "suboffice": "Afrozganj",
+      "postcode": 3203
+    }
+  },
+  "3210": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "শ্রীমঙ্গল",
+      "suboffice": "শ্রীমঙ্গল",
+      "postcode": "৩২১০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Srimangal",
+      "suboffice": "Srimangal",
+      "postcode": 3210
+    }
+  },
+  "3211": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "শ্রীমঙ্গল",
+      "suboffice": "নারায়ন ছড়া",
+      "postcode": "৩২১১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Srimangal",
+      "suboffice": "Narain Chora",
+      "postcode": 3211
+    }
+  },
+  "3212": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "শ্রীমঙ্গল",
+      "suboffice": "কালীঘাট",
+      "postcode": "৩২১২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Srimangal",
+      "suboffice": "Kalighat",
+      "postcode": 3212
+    }
+  },
+  "3213": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "শ্রীমঙ্গল",
+      "suboffice": "খেজুরীছড়া",
+      "postcode": "৩২১৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Srimangal",
+      "suboffice": "Khejurichhara",
+      "postcode": 3213
+    }
+  },
+  "3214": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "শ্রীমঙ্গল",
+      "suboffice": "সাতগাঁও",
+      "postcode": "৩২১৪"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Srimangal",
+      "suboffice": "Satgaon",
+      "postcode": 3214
+    }
+  },
+  "3220": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কমলগঞ্জ",
+      "suboffice": "কমলগঞ্জ",
+      "postcode": "৩২২০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kamalganj",
+      "suboffice": "Kamalganj",
+      "postcode": 3220
+    }
+  },
+  "3221": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কমলগঞ্জ",
+      "suboffice": "কেরামত নগর",
+      "postcode": "৩২২১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kamalganj",
+      "suboffice": "Keramatnaga",
+      "postcode": 3221
+    }
+  },
+  "3222": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কমলগঞ্জ",
+      "suboffice": "পাত্রখোলা",
+      "postcode": "৩২২২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kamalganj",
+      "suboffice": "Patrakhola",
+      "postcode": 3222
+    }
+  },
+  "3223": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কমলগঞ্জ",
+      "suboffice": "শমসের নগর",
+      "postcode": "৩২২৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kamalganj",
+      "suboffice": "Shamsher Nagar",
+      "postcode": 3223
+    }
+  },
+  "3224": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কমলগঞ্জ",
+      "suboffice": "মুন্সীবাজার",
+      "postcode": "৩২২৪"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kamalganj",
+      "suboffice": "Munshibazar",
+      "postcode": 3224
+    }
+  },
+  "3230": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কুলাউড়া",
+      "suboffice": "কুলাউড়া",
+      "postcode": "৩২৩০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kulaura",
+      "suboffice": "Kulaura",
+      "postcode": 3230
+    }
+  },
+  "3231": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কুলাউড়া",
+      "suboffice": "টিলাগাও",
+      "postcode": "৩২৩১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kulaura",
+      "suboffice": "Tillagaon",
+      "postcode": 3231
+    }
+  },
+  "3232": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কুলাউড়া",
+      "suboffice": "লংলা",
+      "postcode": "৩২৩২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kulaura",
+      "suboffice": "Langla",
+      "postcode": 3232
+    }
+  },
+  "3233": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কুলাউড়া",
+      "suboffice": "পৃথিমপাশা",
+      "postcode": "৩২৩৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kulaura",
+      "suboffice": "Prithimpasha",
+      "postcode": 3233
+    }
+  },
+  "3234": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কুলাউড়া",
+      "suboffice": "কাজলধারা",
+      "postcode": "৩২৩৪"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kulaura",
+      "suboffice": "Kajaldhara",
+      "postcode": 3234
+    }
+  },
+  "3235": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কুলাউড়া",
+      "suboffice": "করিমপুর",
+      "postcode": "৩২৩৫"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kulaura",
+      "suboffice": "Karimpur",
+      "postcode": 3235
+    }
+  },
+  "3237": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "কুলাউড়া",
+      "suboffice": "বরমচাল",
+      "postcode": "৩২৩৭"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Kulaura",
+      "suboffice": "Baramchal",
+      "postcode": 3237
+    }
+  },
+  "3240": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "রাজনগর",
+      "suboffice": "রাজনগর",
+      "postcode": "৩২৪০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Rajnagar",
+      "suboffice": "Rajnagar",
+      "postcode": 3240
+    }
+  },
+  "3250": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "বড়লেখা",
+      "suboffice": "বড়লেখা",
+      "postcode": "৩২৫০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Baralekha",
+      "suboffice": "Baralekha",
+      "postcode": 3250
+    }
+  },
+  "3251": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "বড়লেখা",
+      "suboffice": "জুড়ী",
+      "postcode": "৩২৫১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Baralekha",
+      "suboffice": "Juri",
+      "postcode": 3251
+    }
+  },
+  "3252": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "বড়লেখা",
+      "suboffice": "দক্ষিণবাগ",
+      "postcode": "৩২৫২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Baralekha",
+      "suboffice": "Dhakkhinbag",
+      "postcode": 3252
+    }
+  },
+  "3253": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "মৌলভীবাজার",
+      "thana": "বড়লেখা",
+      "suboffice": "পূর্বাশাহাবাজপুর",
+      "postcode": "৩২৫৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Moulvibazar",
+      "thana": "Baralekha",
+      "suboffice": "Purbashahabajpur",
+      "postcode": 3253
+    }
+  }
+}

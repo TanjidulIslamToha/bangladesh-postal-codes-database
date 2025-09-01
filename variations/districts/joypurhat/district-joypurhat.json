@@ -1,0 +1,114 @@
+{
+  "5900": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "জয়পুরহাট",
+      "thana": "জয়পুরহাট সদর",
+      "suboffice": "জয়পুরহাট সদর",
+      "postcode": "৫৯০০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "thana": "Joypurhat Sadar",
+      "suboffice": "Joypurhat Sadar",
+      "postcode": 5900
+    }
+  },
+  "5910": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "জয়পুরহাট",
+      "thana": "পাঁচবিবি",
+      "suboffice": "পাঁচবিবি",
+      "postcode": "৫৯১০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "thana": "panchbibi",
+      "suboffice": "Panchbibi",
+      "postcode": 5910
+    }
+  },
+  "5920": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "জয়পুরহাট",
+      "thana": "ক্ষেতলাল",
+      "suboffice": "ক্ষেতলাল",
+      "postcode": "৫৯২০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "thana": "Khetlal",
+      "suboffice": "Khetlal",
+      "postcode": 5920
+    }
+  },
+  "5930": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "জয়পুরহাট",
+      "thana": "কালাই",
+      "suboffice": "কালাই",
+      "postcode": "৫৯৩০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "thana": "kalai",
+      "suboffice": "kalai",
+      "postcode": 5930
+    }
+  },
+  "5940": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "জয়পুরহাট",
+      "thana": "আক্কেলপুর",
+      "suboffice": "আক্কেলপুর",
+      "postcode": "৫৯৪০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "thana": "Akkelpur",
+      "suboffice": "Akklepur",
+      "postcode": 5940
+    }
+  },
+  "5941": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "জয়পুরহাট",
+      "thana": "আক্কেলপুর",
+      "suboffice": "জামালগঞ্জ",
+      "postcode": "৫৯৪১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "thana": "Akkelpur",
+      "suboffice": "jamalganj",
+      "postcode": 5941
+    }
+  },
+  "5942": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "জয়পুরহাট",
+      "thana": "আক্কেলপুর",
+      "suboffice": "তিলকপুর",
+      "postcode": "৫৯৪২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Joypurhat",
+      "thana": "Akkelpur",
+      "suboffice": "Tilakpur",
+      "postcode": 5942
+    }
+  }
+}

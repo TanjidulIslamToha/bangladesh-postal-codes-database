@@ -1,0 +1,354 @@
+{
+  "3300": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "হবিগঞ্জ সদর",
+      "suboffice": "হবিগঞ্জ সদর",
+      "postcode": "৩৩০০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Habiganj Sadar",
+      "suboffice": "Habiganj Sadar",
+      "postcode": 3300
+    }
+  },
+  "3301": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "হবিগঞ্জ সদর",
+      "suboffice": "শায়েস্তাগঞ্জ",
+      "postcode": "৩৩০১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Habiganj Sadar",
+      "suboffice": "Shaestaganj",
+      "postcode": 3301
+    }
+  },
+  "3302": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "হবিগঞ্জ সদর",
+      "suboffice": "গোপায়া",
+      "postcode": "৩৩০২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Habiganj Sadar",
+      "suboffice": "Gopaya",
+      "postcode": 3302
+    }
+  },
+  "3310": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "বাহুবল",
+      "suboffice": "মানিকা বাজার",
+      "postcode": "৩৩১০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Bahubal",
+      "suboffice": "Bahubal",
+      "postcode": 3310
+    }
+  },
+  "3320": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "চুনারুঘাট",
+      "suboffice": "চুনারুঘাট",
+      "postcode": "৩৩২০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Chunarughat",
+      "suboffice": "Chunarughat",
+      "postcode": 3320
+    }
+  },
+  "3321": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "চুনারুঘাট",
+      "suboffice": "চাঁদপুরবাগান",
+      "postcode": "৩৩২১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Chunarughat",
+      "suboffice": "Chandpurbagan",
+      "postcode": 3321
+    }
+  },
+  "3322": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "চুনারুঘাট",
+      "suboffice": "নরপাটি",
+      "postcode": "৩৩২২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Chunarughat",
+      "suboffice": "Narapati",
+      "postcode": 3322
+    }
+  },
+  "3330": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "মাধবপুর",
+      "suboffice": "মাধবপুর",
+      "postcode": "৩৩৩০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Madhabpur",
+      "suboffice": "Madhabpur",
+      "postcode": 3330
+    }
+  },
+  "3331": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "মাধবপুর",
+      "suboffice": "ইটাখোলা",
+      "postcode": "৩৩৩১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Madhabpur",
+      "suboffice": "Itakhola",
+      "postcode": 3331
+    }
+  },
+  "3332": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "মাধবপুর",
+      "suboffice": "শাহজিবাজার",
+      "postcode": "৩৩৩২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Madhabpur",
+      "suboffice": "Shahajibazar",
+      "postcode": 3332
+    }
+  },
+  "3333": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "মাধবপুর",
+      "suboffice": "সাইহাম নগর",
+      "postcode": "৩৩৩৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Madhabpur",
+      "suboffice": "Saihamnagar",
+      "postcode": 3333
+    }
+  },
+  "3340": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "কালাউক",
+      "suboffice": "কালাউক",
+      "postcode": "৩৩৪০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Kalauk",
+      "suboffice": "Kalauk",
+      "postcode": 3340
+    }
+  },
+  "3341": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "কালাউক",
+      "suboffice": "লাখাই",
+      "postcode": "৩৩৪১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Kalauk",
+      "suboffice": "Lakhai",
+      "postcode": 3341
+    }
+  },
+  "3350": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "বানিয়াচং",
+      "suboffice": "বানিয়াচং",
+      "postcode": "৩৩৫০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Baniachang",
+      "suboffice": "Baniachang",
+      "postcode": 3350
+    }
+  },
+  "3351": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "বানিয়াচং",
+      "suboffice": "যাত্রাপাশা",
+      "postcode": "৩৩৫১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Baniachang",
+      "suboffice": "Jatrapasha",
+      "postcode": 3351
+    }
+  },
+  "3352": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "বানিয়াচং",
+      "suboffice": "কাদিরগঞ্জ",
+      "postcode": "৩৩৫২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Baniachang",
+      "suboffice": "Kadirganj",
+      "postcode": 3352
+    }
+  },
+  "3360": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "আজমিরীগঞ্জ",
+      "suboffice": "আজমিরীগঞ্জ",
+      "postcode": "৩৩৬০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Azmireeganj",
+      "suboffice": "Azmireeganj",
+      "postcode": 3360
+    }
+  },
+  "3370": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "নবীগঞ্জ",
+      "suboffice": "নবীগঞ্জ",
+      "postcode": "৩৩৭০"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Nabiganj",
+      "suboffice": "Nabiganj",
+      "postcode": 3370
+    }
+  },
+  "3371": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "নবীগঞ্জ",
+      "suboffice": "গোপলারবাজার",
+      "postcode": "৩৩৭১"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Nabiganj",
+      "suboffice": "Goplarbazar",
+      "postcode": 3371
+    }
+  },
+  "3372": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "নবীগঞ্জ",
+      "suboffice": "গোলডুবা",
+      "postcode": "৩৩৭২"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Nabiganj",
+      "suboffice": "Golduba",
+      "postcode": 3372
+    }
+  },
+  "3373": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "নবীগঞ্জ",
+      "suboffice": "দিগলবাক",
+      "postcode": "৩৩৭৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Nabiganj",
+      "suboffice": "Digalbak",
+      "postcode": 3373
+    }
+  },
+  "3374": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "হবিগঞ্জ",
+      "thana": "নবীগঞ্জ",
+      "suboffice": "ইনাতগঞ্জ",
+      "postcode": "৩৩৭৪"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Habiganj",
+      "thana": "Nabiganj",
+      "suboffice": "Inathganj",
+      "postcode": 3374
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "5100": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "ঠাকুরগাঁও সদর",
+      "suboffice": "ঠাকুরগাঁও সদর",
+      "postcode": "৫১০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Thakurgaon Sadar",
+      "suboffice": "Thakurgaon Sadar",
+      "postcode": 5100
+    }
+  },
+  "5101": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "ঠাকুরগাঁও সদর",
+      "suboffice": "ঠাকুরগাঁও রোড",
+      "postcode": "৫১০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Thakurgaon Sadar",
+      "suboffice": "Thakurgaon Road",
+      "postcode": 5101
+    }
+  },
+  "5102": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "ঠাকুরগাঁও সদর",
+      "suboffice": "শিবগঞ্জ",
+      "postcode": "৫১০২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Thakurgaon Sadar",
+      "suboffice": "Shibganj",
+      "postcode": 5102
+    }
+  },
+  "5103": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "ঠাকুরগাঁও সদর",
+      "suboffice": "রুহিয়া",
+      "postcode": "৫১০৩"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Thakurgaon Sadar",
+      "suboffice": "Ruhia",
+      "postcode": 5103
+    }
+  },
+  "5110": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "পীরগঞ্জ",
+      "suboffice": "পীরগঞ্জ",
+      "postcode": "৫১১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Pirganj",
+      "suboffice": "Pirganj",
+      "postcode": 5110
+    }
+  },
+  "5120": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "রাণীশংকৈল",
+      "suboffice": "রাণীশংকৈল",
+      "postcode": "৫১২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Rani Sankail",
+      "suboffice": "Rani Sankail",
+      "postcode": 5120
+    }
+  },
+  "5121": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "রাণীশংকৈল",
+      "suboffice": "নেকমরদ",
+      "postcode": "৫১২১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Rani Sankail",
+      "suboffice": "Nekmarad",
+      "postcode": 5121
+    }
+  },
+  "5130": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "জীবনপুর",
+      "suboffice": "জীবনপুর",
+      "postcode": "৫১৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Jibanpur",
+      "suboffice": "Jibanpur",
+      "postcode": 5130
+    }
+  },
+  "5140": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "বালিয়াডাঙ্গী",
+      "suboffice": "বালিয়াডাঙ্গী",
+      "postcode": "৫১৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Baliadangi",
+      "suboffice": "Baliadangi",
+      "postcode": 5140
+    }
+  },
+  "5141": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "বালিয়াডাঙ্গী",
+      "suboffice": "লাহিড়ি",
+      "postcode": "৫১৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Baliadangi",
+      "suboffice": "Lahiri",
+      "postcode": 5141
+    }
+  }
+}

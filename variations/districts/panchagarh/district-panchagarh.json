@@ -1,0 +1,98 @@
+{
+  "5000": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "পঞ্চগড় সদর",
+      "suboffice": "পঞ্চগড় সদর",
+      "postcode": "৫০০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Panchagra Sadar",
+      "suboffice": "Panchagar Sadar",
+      "postcode": 5000
+    }
+  },
+  "5010": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "বোদা",
+      "suboffice": "বোদা",
+      "postcode": "৫০১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Chotto Dab",
+      "suboffice": "Chotto Dab",
+      "postcode": 5010
+    }
+  },
+  "5020": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "দেবীগঞ্জ",
+      "suboffice": "দেবীগঞ্জ",
+      "postcode": "৫০২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Dabiganj",
+      "suboffice": "Dabiganj",
+      "postcode": 5020
+    }
+  },
+  "5030": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "তেঁতুলিয়া",
+      "suboffice": "তেঁতুলিয়া",
+      "postcode": "৫০৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Tetulia",
+      "suboffice": "Tetulia",
+      "postcode": 5030
+    }
+  },
+  "5040": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "ছোট্ট ডাবের",
+      "suboffice": "ছোট্ট ডাবের",
+      "postcode": "৫০৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Chotto Dab",
+      "suboffice": "Chotto Dab",
+      "postcode": 5040
+    }
+  },
+  "5041": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "ছোট্ট ডাবের",
+      "suboffice": "মির্জাপুর",
+      "postcode": "৫০৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Chotto Dab",
+      "suboffice": "Mirzapur",
+      "postcode": 5041
+    }
+  }
+}

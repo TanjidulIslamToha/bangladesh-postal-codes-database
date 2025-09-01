@@ -1,0 +1,226 @@
+{
+  "8013": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "গোপালগঞ্জ সদর",
+      "suboffice": "চন্দ্রাদিঘীনালা",
+      "postcode": "৮০১৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Gopalganj Sadar",
+      "suboffice": "Chandradighalia",
+      "postcode": 8013
+    }
+  },
+  "8100": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "গোপালগঞ্জ সদর",
+      "suboffice": "বলাকইড়",
+      "postcode": "৮১০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Gopalganj Sadar",
+      "suboffice": "Gopalganj Sadar",
+      "postcode": 8100
+    }
+  },
+  "8101": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "গোপালগঞ্জ সদর",
+      "suboffice": "উলপুর",
+      "postcode": "৮১০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Gopalganj Sadar",
+      "suboffice": "Ulpur",
+      "postcode": 8101
+    }
+  },
+  "8102": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "গোপালগঞ্জ সদর",
+      "suboffice": "বারফা",
+      "postcode": "৮১০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Gopalganj Sadar",
+      "suboffice": "Barfa",
+      "postcode": 8102
+    }
+  },
+  "8110": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "কোটালীপাড়া",
+      "suboffice": "কোটালীপাড়া",
+      "postcode": "৮১১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Kotalipara",
+      "suboffice": "Kotalipara",
+      "postcode": 8110
+    }
+  },
+  "8120": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "টুঙ্গিপাড়া",
+      "suboffice": "টুঙ্গিপাড়া",
+      "postcode": "৮১২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Tungipara",
+      "suboffice": "Tungipara",
+      "postcode": 8120
+    }
+  },
+  "8121": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "টুঙ্গিপাড়া",
+      "suboffice": "পাটগাটি",
+      "postcode": "৮১২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Tungipara",
+      "suboffice": "Patgati",
+      "postcode": 8121
+    }
+  },
+  "8130": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "কাশিয়ানী",
+      "suboffice": "কাশিয়ানী",
+      "postcode": "৮১৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Kashiani",
+      "suboffice": "Kashiani",
+      "postcode": 8130
+    }
+  },
+  "8131": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "কাশিয়ানী",
+      "suboffice": "রামদিয়া কলেজ",
+      "postcode": "৮১৩১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Kashiani",
+      "suboffice": "Ramdia College",
+      "postcode": 8131
+    }
+  },
+  "8132": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "কাশিয়ানী",
+      "suboffice": "রাতইল",
+      "postcode": "৮১৩২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Kashiani",
+      "suboffice": "Ratoil",
+      "postcode": 8132
+    }
+  },
+  "8133": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "কাশিয়ানী",
+      "suboffice": "জনাপুর",
+      "postcode": "৮১৩৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Kashiani",
+      "suboffice": "Jonapur",
+      "postcode": 8133
+    }
+  },
+  "8140": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "মাকসুদপুর",
+      "suboffice": "মাকসুদপুর",
+      "postcode": "৮১৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Maksudpur",
+      "suboffice": "Muksudpur",
+      "postcode": 8140
+    }
+  },
+  "8141": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "মাকসুদপুর",
+      "suboffice": "বাটিকামারী",
+      "postcode": "৮১৪১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Maksudpur",
+      "suboffice": "Batkiamari",
+      "postcode": 8141
+    }
+  },
+  "8142": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গোপালগঞ্জ",
+      "thana": "মাকসুদপুর",
+      "suboffice": "খানদারপাড়া",
+      "postcode": "৮১৪২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gopalganj",
+      "thana": "Maksudpur",
+      "suboffice": "Khandarpara",
+      "postcode": 8142
+    }
+  }
+}

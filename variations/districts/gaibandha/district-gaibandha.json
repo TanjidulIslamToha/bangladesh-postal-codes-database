@@ -1,0 +1,194 @@
+{
+  "5700": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "গাইবান্ধা সদর",
+      "suboffice": "গাইবান্ধা সদর",
+      "postcode": "৫৭০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Gaibandha Sadar",
+      "suboffice": "Gaibandha Sadar",
+      "postcode": 5700
+    }
+  },
+  "5710": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "সাদুল্লাপুর",
+      "suboffice": "সাদুল্লাপুর",
+      "postcode": "৫৭১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Saadullapur",
+      "suboffice": "Saadullapur",
+      "postcode": 5710
+    }
+  },
+  "5711": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "সাদুল্লাপুর",
+      "suboffice": "নলডাঙ্গা",
+      "postcode": "৫৭১১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Saadullapur",
+      "suboffice": "Naldanga",
+      "postcode": 5711
+    }
+  },
+  "5720": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "সুন্দরগঞ্জ",
+      "suboffice": "সুন্দরগঞ্জ",
+      "postcode": "৫৭২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Sundarganj",
+      "suboffice": "Sundarganj",
+      "postcode": 5720
+    }
+  },
+  "5721": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "সুন্দরগঞ্জ",
+      "suboffice": "বামনডাঙ্গা",
+      "postcode": "৫৭২১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Sundarganj",
+      "suboffice": "Bamandanga",
+      "postcode": 5721
+    }
+  },
+  "5730": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "পলাশবাড়ী",
+      "suboffice": "পলাশবাড়ী",
+      "postcode": "৫৭৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Palashbari",
+      "suboffice": "Palashbari",
+      "postcode": 5730
+    }
+  },
+  "5740": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "গোবিন্দগঞ্জ",
+      "suboffice": "গোবিন্দগঞ্জ",
+      "postcode": "৫৭৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Gobindaganj",
+      "suboffice": "Gabindaganj",
+      "postcode": 5740
+    }
+  },
+  "5741": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "গোবিন্দগঞ্জ",
+      "suboffice": "মহিমাগঞ্জ",
+      "postcode": "৫৭৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Gobindaganj",
+      "suboffice": "Mahimaganj",
+      "postcode": 5741
+    }
+  },
+  "5750": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "বোনারপাড়া",
+      "suboffice": "বোনারপাড়া",
+      "postcode": "৫৭৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Bonarpara",
+      "suboffice": "Bonarpara",
+      "postcode": 5750
+    }
+  },
+  "5751": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "বোনারপাড়া",
+      "suboffice": "সাঘাটা",
+      "postcode": "৫৭৫১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Bonarpara",
+      "suboffice": "saghata",
+      "postcode": 5751
+    }
+  },
+  "5760": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "ফুলছড়ি",
+      "suboffice": "ফুলছড়ি",
+      "postcode": "৫৭৬০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Phulchhari",
+      "suboffice": "Phulchhari",
+      "postcode": 5760
+    }
+  },
+  "5761": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "ফুলছড়ি",
+      "suboffice": "ভরতখালী",
+      "postcode": "৫৭৬১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Phulchhari",
+      "suboffice": "Bharatkhali",
+      "postcode": 5761
+    }
+  }
+}

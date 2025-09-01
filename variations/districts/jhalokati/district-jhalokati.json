@@ -1,0 +1,194 @@
+{
+  "8400": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "ঝালকাঠি সদর",
+      "postcode": "৮৪০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Jhalokati Sadar",
+      "postcode": 8400
+    }
+  },
+  "8401": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "নবগ্রাম",
+      "postcode": "৮৪০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Nabagram",
+      "postcode": 8401
+    }
+  },
+  "8402": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "বাউকাঠি",
+      "postcode": "৮৪০২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Baukathi",
+      "postcode": 8402
+    }
+  },
+  "8403": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "গাভা",
+      "postcode": "৮৪০৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Gabha",
+      "postcode": 8403
+    }
+  },
+  "8404": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "ঝালকাঠি সদর",
+      "suboffice": "শেখেরহাট",
+      "postcode": "৮৪০৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Jhalokati Sadar",
+      "suboffice": "Shekherhat",
+      "postcode": 8404
+    }
+  },
+  "8410": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "রাজাপুর",
+      "suboffice": "রাজাপুর",
+      "postcode": "৮৪১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Rajapur",
+      "suboffice": "Rajapur",
+      "postcode": 8410
+    }
+  },
+  "8420": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "নলছিটি",
+      "suboffice": "নলছিটি",
+      "postcode": "৮৪২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Nalchhiti",
+      "suboffice": "Nalchhiti",
+      "postcode": 8420
+    }
+  },
+  "8421": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "নলছিটি",
+      "suboffice": "বীরকাঠি",
+      "postcode": "৮৪২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Nalchhiti",
+      "suboffice": "Beerkathi",
+      "postcode": 8421
+    }
+  },
+  "8430": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "কাঁঠালিয়া",
+      "suboffice": "কাঁঠালিয়া",
+      "postcode": "৮৪৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Kathalia",
+      "suboffice": "Kathalia",
+      "postcode": 8430
+    }
+  },
+  "8431": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "কাঁঠালিয়া",
+      "suboffice": "আমুয়া",
+      "postcode": "৮৪৩১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Kathalia",
+      "suboffice": "Amua",
+      "postcode": 8431
+    }
+  },
+  "8432": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "কাঁঠালিয়া",
+      "suboffice": "নিয়ামাতেই",
+      "postcode": "৮৪৩২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Kathalia",
+      "suboffice": "Niamatee",
+      "postcode": 8432
+    }
+  },
+  "8433": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ঝালকাঠি",
+      "thana": "কাঁঠালিয়া",
+      "suboffice": "শৌলজালিয়া",
+      "postcode": "৮৪৩৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Jhalokati",
+      "thana": "Kathalia",
+      "suboffice": "Shoulajalia",
+      "postcode": 8433
+    }
+  }
+}

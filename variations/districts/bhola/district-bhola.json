@@ -1,0 +1,226 @@
+{
+  "8300": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "ভোলা সদর",
+      "suboffice": "ভোলা সদর",
+      "postcode": "৮৩০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Bhola Sadar",
+      "suboffice": "Bhola Sadar",
+      "postcode": 8300
+    }
+  },
+  "8301": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "ভোলা সদর",
+      "suboffice": "জয়নগর",
+      "postcode": "৮৩০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Bhola Sadar",
+      "suboffice": "Joynagar",
+      "postcode": 8301
+    }
+  },
+  "8310": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "দৌলতখান",
+      "suboffice": "দৌলতখান",
+      "postcode": "৮৩১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Doulatkhan",
+      "suboffice": "Doulatkhan",
+      "postcode": 8310
+    }
+  },
+  "8311": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "দৌলতখান",
+      "suboffice": "হাজীপুর",
+      "postcode": "৮৩১১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Doulatkhan",
+      "suboffice": "Hajipur",
+      "postcode": 8311
+    }
+  },
+  "8320": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "বোরহানউদ্দিন Upo",
+      "suboffice": "বোরহানউদ্দিন Upo",
+      "postcode": "৮৩২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Borhanuddin UPO",
+      "suboffice": "Borhanuddin UPO",
+      "postcode": 8320
+    }
+  },
+  "8321": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "বোরহানউদ্দিন Upo",
+      "suboffice": "মির্জাকালু",
+      "postcode": "৮৩২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Borhanuddin UPO",
+      "suboffice": "Mirzakalu",
+      "postcode": 8321
+    }
+  },
+  "8330": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "লালমোহন Upo",
+      "suboffice": "লালমোহন Upo",
+      "postcode": "৮৩৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Lalmohan UPO",
+      "suboffice": "Lalmohan UPO",
+      "postcode": 8330
+    }
+  },
+  "8331": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "লালমোহন Upo",
+      "suboffice": "দৌড়ীহাট",
+      "postcode": "৮৩৩১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Lalmohan UPO",
+      "suboffice": "Daurihat",
+      "postcode": 8331
+    }
+  },
+  "8332": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "লালমোহন Upo",
+      "suboffice": "গজারিয়া",
+      "postcode": "৮৩৩২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Lalmohan UPO",
+      "suboffice": "Gajaria",
+      "postcode": 8332
+    }
+  },
+  "8340": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "চরফ্যাশন",
+      "suboffice": "চরফ্যাশন",
+      "postcode": "৮৩৪০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Charfashion",
+      "suboffice": "Charfashion",
+      "postcode": 8340
+    }
+  },
+  "8341": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "চরফ্যাশন",
+      "suboffice": "দুলারহাট",
+      "postcode": "৮৩৪১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Charfashion",
+      "suboffice": "Dularhat",
+      "postcode": 8341
+    }
+  },
+  "8342": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "চরফ্যাশন",
+      "suboffice": "কেরামতগঞ্জ",
+      "postcode": "৮৩৪২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Charfashion",
+      "suboffice": "Keramatganj",
+      "postcode": 8342
+    }
+  },
+  "8350": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "হাটশশীগঞ্জ",
+      "suboffice": "হাটশশীগঞ্জ",
+      "postcode": "৮৩৫০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Hatshoshiganj",
+      "suboffice": "Hatshoshiganj",
+      "postcode": 8350
+    }
+  },
+  "8360": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "ভোলা",
+      "thana": "হাজিরহাট",
+      "suboffice": "হাজিরহাট",
+      "postcode": "৮৩৬০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Bhola",
+      "thana": "Hajirhat",
+      "suboffice": "Hajirhat",
+      "postcode": 8360
+    }
+  }
+}

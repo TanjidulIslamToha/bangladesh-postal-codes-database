@@ -1,0 +1,146 @@
+{
+  "7300": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "ঝিনাইদহ",
+      "thana": "ঝিনাইদহ সদর",
+      "suboffice": "ঝিনাইদহ সদর",
+      "postcode": "৭৩০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "thana": "Jhenaidah Sadar",
+      "suboffice": "Jhenaidah Sadar",
+      "postcode": 7300
+    }
+  },
+  "7301": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "ঝিনাইদহ",
+      "thana": "ঝিনাইদহ সদর",
+      "suboffice": "ঝিনাইদহ ক্যাডেট কলেজ",
+      "postcode": "৭৩০১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "thana": "Jhenaidah Sadar",
+      "suboffice": "Jhenaidah Cadet College",
+      "postcode": 7301
+    }
+  },
+  "7310": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "ঝিনাইদহ",
+      "thana": "হরিনাকুন্ডু",
+      "suboffice": "হরিনাকুন্ডু",
+      "postcode": "৭৩১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "thana": "Harinakundu",
+      "suboffice": "Harinakundu",
+      "postcode": 7310
+    }
+  },
+  "7320": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "ঝিনাইদহ",
+      "thana": "শৈলকুপা",
+      "suboffice": "শৈলকুপা",
+      "postcode": "৭৩২০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "thana": "Shailakupa",
+      "suboffice": "Shailakupa",
+      "postcode": 7320
+    }
+  },
+  "7321": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "ঝিনাইদহ",
+      "thana": "শৈলকুপা",
+      "suboffice": "কুমিরাদহ",
+      "postcode": "৭৩২১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "thana": "Shailakupa",
+      "suboffice": "Kumiradaha",
+      "postcode": 7321
+    }
+  },
+  "7330": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "ঝিনাইদহ",
+      "thana": "কোটচাঁদপুর",
+      "suboffice": "কোটচাঁদপুর",
+      "postcode": "৭৩৩০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "thana": "Kotchandpur",
+      "suboffice": "Kotchandpur",
+      "postcode": 7330
+    }
+  },
+  "7340": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "ঝিনাইদহ",
+      "thana": "মহেশপুর",
+      "suboffice": "মহেশপুর",
+      "postcode": "৭৩৪০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "thana": "Maheshpur",
+      "suboffice": "Maheshpur",
+      "postcode": 7340
+    }
+  },
+  "7350": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "ঝিনাইদহ",
+      "thana": "কালিগঞ্জ",
+      "suboffice": "কালিগঞ্জ",
+      "postcode": "৭৩৫০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "thana": "Naldanga",
+      "suboffice": "Naldanga",
+      "postcode": 7350
+    }
+  },
+  "7351": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "ঝিনাইদহ",
+      "thana": "কালিগঞ্জ",
+      "suboffice": "হাট বারোবাজার",
+      "postcode": "৭৩৫১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Jhenaidah",
+      "thana": "Naldanga",
+      "suboffice": "Hatbar Bazar",
+      "postcode": 7351
+    }
+  }
+}

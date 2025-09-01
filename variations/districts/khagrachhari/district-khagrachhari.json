@@ -1,0 +1,130 @@
+{
+  "4400": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "খাগড়াছড়ি",
+      "thana": "খাগড়াছড়ি সদর",
+      "suboffice": "খাগড়াছড়ি সদর",
+      "postcode": "৪৪০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Khagrachhari",
+      "thana": "Khagrachari Sadar",
+      "suboffice": "Khagrachari Sadar",
+      "postcode": 4400
+    }
+  },
+  "4410": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "খাগড়াছড়ি",
+      "thana": "পানছড়ি",
+      "suboffice": "পানছড়ি",
+      "postcode": "৪৪১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Khagrachhari",
+      "thana": "Panchhari",
+      "suboffice": "Panchhari",
+      "postcode": 4410
+    }
+  },
+  "4420": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "খাগড়াছড়ি",
+      "thana": "দীঘিনালা",
+      "suboffice": "দীঘিনালা",
+      "postcode": "৪৪২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Khagrachhari",
+      "thana": "Diginala",
+      "suboffice": "Diginala",
+      "postcode": 4420
+    }
+  },
+  "4430": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "খাগড়াছড়ি",
+      "thana": "মহালছড়ি",
+      "suboffice": "মহালছড়ি",
+      "postcode": "৪৪৩০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Khagrachhari",
+      "thana": "Mahalchhari",
+      "suboffice": "Mahalchhari",
+      "postcode": 4430
+    }
+  },
+  "4440": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "খাগড়াছড়ি",
+      "thana": "রামগড় প্রধান কার্যালয়",
+      "suboffice": "রামগড় প্রধান কার্যালয়",
+      "postcode": "৪৪৪০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Khagrachhari",
+      "thana": "Ramghar Head Office",
+      "suboffice": "Ramghar Head Office",
+      "postcode": 4440
+    }
+  },
+  "4450": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "খাগড়াছড়ি",
+      "thana": "মাটিরাঙ্গা",
+      "suboffice": "মাটিরাঙ্গা",
+      "postcode": "৪৪৫০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Khagrachhari",
+      "thana": "Matiranga",
+      "suboffice": "Matiranga",
+      "postcode": 4450
+    }
+  },
+  "4460": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "খাগড়াছড়ি",
+      "thana": "মানিকছড়ি",
+      "suboffice": "মানিকছড়ি",
+      "postcode": "৪৪৬০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Khagrachhari",
+      "thana": "Manikchhari",
+      "suboffice": "Manikchhari",
+      "postcode": 4460
+    }
+  },
+  "4470": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "খাগড়াছড়ি",
+      "thana": "লক্ষ্মীছড়ি",
+      "suboffice": "লক্ষ্মীছড়ি",
+      "postcode": "৪৪৭০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Khagrachhari",
+      "thana": "Laxmichhari",
+      "suboffice": "Laxmichhari",
+      "postcode": 4470
+    }
+  }
+}

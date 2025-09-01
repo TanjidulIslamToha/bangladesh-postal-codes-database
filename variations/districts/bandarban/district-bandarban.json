@@ -1,0 +1,114 @@
+{
+  "4600": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "বান্দরবান",
+      "thana": "বান্দরবান সদর",
+      "suboffice": "বান্দরবান সদর",
+      "postcode": "৪৬০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Bandarban",
+      "thana": "Bandarban Sadar",
+      "suboffice": "Bandarban Sadar",
+      "postcode": 4600
+    }
+  },
+  "4610": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "বান্দরবান",
+      "thana": "রংছড়ি",
+      "suboffice": "রংছড়ি",
+      "postcode": "৪৬১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Bandarban",
+      "thana": "Roanchhari",
+      "suboffice": "Roanchhari",
+      "postcode": 4610
+    }
+  },
+  "4620": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "বান্দরবান",
+      "thana": "রুমা",
+      "suboffice": "রুমা",
+      "postcode": "৪৬২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Bandarban",
+      "thana": "Ruma",
+      "suboffice": "Ruma",
+      "postcode": 4620
+    }
+  },
+  "4630": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "বান্দরবান",
+      "thana": "থানচি",
+      "suboffice": "থানচি",
+      "postcode": "৪৬৩০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Bandarban",
+      "thana": "Thanchi",
+      "suboffice": "Thanchi",
+      "postcode": 4630
+    }
+  },
+  "4641": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "বান্দরবান",
+      "thana": "থানচি",
+      "suboffice": "লামা",
+      "postcode": "৪৬৪১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Bandarban",
+      "thana": "Thanchi",
+      "suboffice": "Lama",
+      "postcode": 4641
+    }
+  },
+  "4650": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "বান্দরবান",
+      "thana": "আলিকদম",
+      "suboffice": "আলিকদম",
+      "postcode": "৪৬৫০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Bandarban",
+      "thana": "Alikadam",
+      "suboffice": "Alikadam",
+      "postcode": 4650
+    }
+  },
+  "4660": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "বান্দরবান",
+      "thana": "নাইখং",
+      "suboffice": "নাইখং",
+      "postcode": "৪৬৬০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Bandarban",
+      "thana": "Naikhong",
+      "suboffice": "Naikhong",
+      "postcode": 4660
+    }
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "2200": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ময়মনসিংহ সদর",
+      "suboffice": "ময়মনসিংহ সদর",
+      "postcode": "২২০০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Mymensingh Sadar",
+      "suboffice": "Mymensingh Sadar",
+      "postcode": 2200
+    }
+  },
+  "2201": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ময়মনসিংহ সদর",
+      "suboffice": "কেওয়াটখালি",
+      "postcode": "২২০১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Mymensingh Sadar",
+      "suboffice": "Kawatkhali",
+      "postcode": 2201
+    }
+  },
+  "2202": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ময়মনসিংহ সদর",
+      "suboffice": "কৃষি বিশ্ববিদ্যালয়",
+      "postcode": "২২০২"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Mymensingh Sadar",
+      "suboffice": "Agriculture Universi",
+      "postcode": 2202
+    }
+  },
+  "2203": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ময়মনসিংহ সদর",
+      "suboffice": "শম্ভুগঞ্জ",
+      "postcode": "২২০৩"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Mymensingh Sadar",
+      "suboffice": "Shombhuganj",
+      "postcode": 2203
+    }
+  },
+  "2204": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ময়মনসিংহ সদর",
+      "suboffice": "বিদ্যাগঞ্জ",
+      "postcode": "২২০৪"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Mymensingh Sadar",
+      "suboffice": "Biddyaganj",
+      "postcode": 2204
+    }
+  },
+  "2205": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ময়মনসিংহ সদর",
+      "suboffice": "পিয়ারপুর",
+      "postcode": "২২০৫"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Mymensingh Sadar",
+      "suboffice": "Pearpur",
+      "postcode": 2205
+    }
+  },
+  "2210": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "মুক্তাগাছা",
+      "suboffice": "মুক্তাগাছা",
+      "postcode": "২২১০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Muktagachha",
+      "suboffice": "Muktagachha",
+      "postcode": 2210
+    }
+  },
+  "2216": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ফুলবাড়িয়া",
+      "suboffice": "ফুলবাড়িয়া",
+      "postcode": "২২১৬"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Fulbaria",
+      "suboffice": "Fulbaria",
+      "postcode": 2216
+    }
+  },
+  "2220": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ত্রিশাল",
+      "suboffice": "ত্রিশাল",
+      "postcode": "২২২০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Trishal",
+      "suboffice": "Trishal",
+      "postcode": 2220
+    }
+  },
+  "2221": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ত্রিশাল",
+      "suboffice": "আহমাদবাদ",
+      "postcode": "২২২১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Trishal",
+      "suboffice": "Ahmadbad",
+      "postcode": 2221
+    }
+  },
+  "2222": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ত্রিশাল",
+      "suboffice": "রাম অমৃতগঞ্জ",
+      "postcode": "২২২২"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Trishal",
+      "suboffice": "Ram Amritaganj",
+      "postcode": 2222
+    }
+  },
+  "2223": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ত্রিশাল",
+      "suboffice": "ধলা",
+      "postcode": "২২২৩"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Trishal",
+      "suboffice": "Dhala",
+      "postcode": 2223
+    }
+  },
+  "2230": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "গফরগাঁও",
+      "suboffice": "গফরগাঁও",
+      "postcode": "২২৩০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Gaforgaon",
+      "suboffice": "Gaforgaon",
+      "postcode": 2230
+    }
+  },
+  "2231": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "গফরগাঁও",
+      "suboffice": "শিবগঞ্জ",
+      "postcode": "২২৩১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Gaforgaon",
+      "suboffice": "Shibganj",
+      "postcode": 2231
+    }
+  },
+  "2232": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "গফরগাঁও",
+      "suboffice": "উস্তি",
+      "postcode": "২২৩২"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Gaforgaon",
+      "suboffice": "Usti",
+      "postcode": 2232
+    }
+  },
+  "2233": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "গফরগাঁও",
+      "suboffice": "কান্দিপাড়া",
+      "postcode": "২২৩৩"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Gaforgaon",
+      "suboffice": "Kandipara",
+      "postcode": 2233
+    }
+  },
+  "2234": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "গফরগাঁও",
+      "suboffice": "দুট্টারবাজার",
+      "postcode": "২২৩৪"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Gaforgaon",
+      "suboffice": "Dobasia",
+      "postcode": 2234
+    }
+  },
+  "2240": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ভালুকা",
+      "suboffice": "ভালুকা",
+      "postcode": "২২৪০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Bhaluka",
+      "suboffice": "Bhaluka",
+      "postcode": 2240
+    }
+  },
+  "2250": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ফুলপুর",
+      "suboffice": "ফুলপুর",
+      "postcode": "২২৫০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Phulpur",
+      "suboffice": "Phulpur",
+      "postcode": 2250
+    }
+  },
+  "2251": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ফুলপুর",
+      "suboffice": "বেলতিয়া",
+      "postcode": "২২৫১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Phulpur",
+      "suboffice": "Beltia",
+      "postcode": 2251
+    }
+  },
+  "2252": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ফুলপুর",
+      "suboffice": "তারাকান্দা",
+      "postcode": "২২৫২"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Phulpur",
+      "suboffice": "Tarakanda",
+      "postcode": 2252
+    }
+  },
+  "2260": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "হালুয়াঘাট",
+      "suboffice": "হালুয়াঘাট",
+      "postcode": "২২৬০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Haluaghat",
+      "suboffice": "Haluaghat",
+      "postcode": 2260
+    }
+  },
+  "2261": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "হালুয়াঘাট",
+      "suboffice": "ধারা",
+      "postcode": "২২৬১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Haluaghat",
+      "suboffice": "Dhara",
+      "postcode": 2261
+    }
+  },
+  "2262": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "হালুয়াঘাট",
+      "suboffice": "মুনশিরহাট",
+      "postcode": "২২৬২"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Haluaghat",
+      "suboffice": "Munshirhat",
+      "postcode": 2262
+    }
+  },
+  "2270": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "গৌরীপুর",
+      "suboffice": "গৌরীপুর",
+      "postcode": "২২৭০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Gouripur",
+      "suboffice": "Gouripur",
+      "postcode": 2270
+    }
+  },
+  "2271": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "গৌরীপুর",
+      "suboffice": "রামগোপালপুর",
+      "postcode": "২২৭১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Gouripur",
+      "suboffice": "Ramgopalpur",
+      "postcode": 2271
+    }
+  },
+  "2280": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ঈশ্বরগঞ্জ",
+      "suboffice": "ঈশ্বরগঞ্জ",
+      "postcode": "২২৮০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Isshwargonj",
+      "suboffice": "Isshwargonj",
+      "postcode": 2280
+    }
+  },
+  "2281": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ঈশ্বরগঞ্জ",
+      "suboffice": "সোহাগি",
+      "postcode": "২২৮১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Isshwargonj",
+      "suboffice": "Sohagi",
+      "postcode": 2281
+    }
+  },
+  "2282": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "ঈশ্বরগঞ্জ",
+      "suboffice": "আঠারবাড়ি",
+      "postcode": "২২৮২"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Isshwargonj",
+      "suboffice": "Atharabari",
+      "postcode": 2282
+    }
+  },
+  "2290": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "নান্দাইল",
+      "suboffice": "নান্দাইল",
+      "postcode": "২২৯০"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Nandail",
+      "suboffice": "Nandail",
+      "postcode": 2290
+    }
+  },
+  "2291": {
+    "bn": {
+      "division": "ময়মনসিংহ",
+      "district": "ময়মনসিংহ",
+      "thana": "নান্দাইল",
+      "suboffice": "গাংগাইল",
+      "postcode": "২২৯১"
+    },
+    "en": {
+      "division": "Mymensingh",
+      "district": "Mymensingh",
+      "thana": "Nandail",
+      "suboffice": "Gangail",
+      "postcode": 2291
+    }
+  }
+}

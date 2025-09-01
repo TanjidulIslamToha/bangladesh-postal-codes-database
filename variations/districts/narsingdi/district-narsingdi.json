@@ -1,0 +1,290 @@
+{
+  "1600": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "নরসিংদী সদর",
+      "suboffice": "নরসিংদী সদর",
+      "postcode": "১৬০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Narsingdi Sadar",
+      "suboffice": "Narsingdi Sadar",
+      "postcode": 1600
+    }
+  },
+  "1601": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "নরসিংদী সদর",
+      "suboffice": "UMC জুট মিলস",
+      "postcode": "১৬০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Narsingdi Sadar",
+      "suboffice": "UMC Jute Mills",
+      "postcode": 1601
+    }
+  },
+  "1602": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "নরসিংদী সদর",
+      "suboffice": "নরসিংদী কলেজ",
+      "postcode": "১৬০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Narsingdi Sadar",
+      "suboffice": "Narsingdi College",
+      "postcode": 1602
+    }
+  },
+  "1603": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "নরসিংদী সদর",
+      "suboffice": "পাঁচদোনা",
+      "postcode": "১৬০৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Narsingdi Sadar",
+      "suboffice": "Panchdona",
+      "postcode": 1603
+    }
+  },
+  "1604": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "নরসিংদী সদর",
+      "suboffice": "মাধবদী",
+      "postcode": "১৬০৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Narsingdi Sadar",
+      "suboffice": "Madhabdi",
+      "postcode": 1604
+    }
+  },
+  "1605": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "নরসিংদী সদর",
+      "suboffice": "করিমপুর",
+      "postcode": "১৬০৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Narsingdi Sadar",
+      "suboffice": "Karimpur",
+      "postcode": 1605
+    }
+  },
+  "1610": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "পলাশ",
+      "suboffice": "পলাশ",
+      "postcode": "১৬১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Palash",
+      "suboffice": "Palash",
+      "postcode": 1610
+    }
+  },
+  "1611": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "পলাশ",
+      "suboffice": "ঘোড়াশাল ইউরিয়া ফ্যাক্টুরি",
+      "postcode": "১৬১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Palash",
+      "suboffice": "Sarkarkhana",
+      "postcode": 1611
+    }
+  },
+  "1612": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "পলাশ",
+      "suboffice": "চরসিন্ধুর",
+      "postcode": "১৬১২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Palash",
+      "suboffice": "Char Sindhur",
+      "postcode": 1612
+    }
+  },
+  "1613": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "পলাশ",
+      "suboffice": "ঘোড়াশাল",
+      "postcode": "১৬১৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Palash",
+      "suboffice": "Ghorashal",
+      "postcode": 1613
+    }
+  },
+  "1620": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "শিবপুর",
+      "suboffice": "শিবপুর",
+      "postcode": "১৬২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Shibpur",
+      "suboffice": "Shibpur",
+      "postcode": 1620
+    }
+  },
+  "1630": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "রায়পুর",
+      "suboffice": "রায়পুর",
+      "postcode": "১৬৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Raypur",
+      "suboffice": "Raipur",
+      "postcode": 1630
+    }
+  },
+  "1631": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "রায়পুর",
+      "suboffice": "বাজার হাসনাবাদ",
+      "postcode": "১৬৩১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Raypur",
+      "suboffice": "Bazar Hasnabad",
+      "postcode": 1631
+    }
+  },
+  "1632": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "রায়পুর",
+      "suboffice": "রাধাগঞ্জ বাজার",
+      "postcode": "১৬৩২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Raypur",
+      "suboffice": "Radhaganj bazar",
+      "postcode": 1632
+    }
+  },
+  "1640": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "বেলাব",
+      "suboffice": "বেলাব",
+      "postcode": "১৬৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Belabo",
+      "suboffice": "Belabo",
+      "postcode": 1640
+    }
+  },
+  "1650": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "মনোহরদি",
+      "suboffice": "মনোহরদি",
+      "postcode": "১৬৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Monohordi",
+      "suboffice": "Monohordi",
+      "postcode": 1650
+    }
+  },
+  "1651": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "মনোহরদি",
+      "suboffice": "হাতিরদিয়া",
+      "postcode": "১৬৫১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Monohordi",
+      "suboffice": "Hatirdia",
+      "postcode": 1651
+    }
+  },
+  "1652": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "নরসিংদী",
+      "thana": "মনোহরদি",
+      "suboffice": "কাটাবাড়িয়া",
+      "postcode": "১৬৫২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Narsingdi",
+      "thana": "Monohordi",
+      "suboffice": "Katabaria",
+      "postcode": 1652
+    }
+  }
+}

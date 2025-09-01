@@ -1,0 +1,146 @@
+{
+  "7700": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "রাজবাড়ী",
+      "thana": "রাজবাড়ী সদর",
+      "suboffice": "রাজবাড়ী সদর",
+      "postcode": "৭৭০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "thana": "Rajbari Sadar",
+      "suboffice": "Rajbari Sadar",
+      "postcode": 7700
+    }
+  },
+  "7710": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "রাজবাড়ী",
+      "thana": "রাজবাড়ী সদর",
+      "suboffice": "গোয়ালন্দ",
+      "postcode": "৭৭১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "thana": "Rajbari Sadar",
+      "suboffice": "Goalanda",
+      "postcode": 7710
+    }
+  },
+  "7711": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "রাজবাড়ী",
+      "thana": "রাজবাড়ী সদর",
+      "suboffice": "খানখানাপুর",
+      "postcode": "৭৭১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "thana": "Rajbari Sadar",
+      "suboffice": "Khankhanapur",
+      "postcode": 7711
+    }
+  },
+  "7720": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "রাজবাড়ী",
+      "thana": "পাংশা",
+      "suboffice": "পাংশা",
+      "postcode": "৭৭২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "thana": "Pangsha",
+      "suboffice": "Pangsha",
+      "postcode": 7720
+    }
+  },
+  "7721": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "রাজবাড়ী",
+      "thana": "পাংশা",
+      "suboffice": "রামকোল",
+      "postcode": "৭৭২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "thana": "Pangsha",
+      "suboffice": "Ramkol",
+      "postcode": 7721
+    }
+  },
+  "7722": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "রাজবাড়ী",
+      "thana": "পাংশা",
+      "suboffice": "রতনদিয়া",
+      "postcode": "৭৭২২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "thana": "Pangsha",
+      "suboffice": "Ratandia",
+      "postcode": 7722
+    }
+  },
+  "7723": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "রাজবাড়ী",
+      "thana": "পাংশা",
+      "suboffice": "মৃগিবাজার",
+      "postcode": "৭৭২৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "thana": "Pangsha",
+      "suboffice": "Mrigibazar",
+      "postcode": 7723
+    }
+  },
+  "7730": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "রাজবাড়ী",
+      "thana": "বালিয়াকান্দি",
+      "suboffice": "বালিয়াকান্দি",
+      "postcode": "৭৭৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "thana": "Baliakandi",
+      "suboffice": "Baliakandi",
+      "postcode": 7730
+    }
+  },
+  "7731": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "রাজবাড়ী",
+      "thana": "বালিয়াকান্দি",
+      "suboffice": "নালিয়াগ্রাম",
+      "postcode": "৭৭৩১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Rajbari",
+      "thana": "Baliakandi",
+      "suboffice": "Nalia",
+      "postcode": 7731
+    }
+  }
+}

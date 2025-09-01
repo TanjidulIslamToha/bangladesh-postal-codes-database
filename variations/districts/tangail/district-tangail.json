@@ -1,0 +1,690 @@
+{
+  "1900": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "টাঙ্গাইল সদর",
+      "suboffice": "টাঙ্গাইল সদর",
+      "postcode": "১৯০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Tangail Sadar",
+      "suboffice": "Tangail Sadar",
+      "postcode": 1900
+    }
+  },
+  "1901": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "টাঙ্গাইল সদর",
+      "suboffice": "কাগমারি",
+      "postcode": "১৯০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Tangail Sadar",
+      "suboffice": "Kagmari",
+      "postcode": 1901
+    }
+  },
+  "1902": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "টাঙ্গাইল সদর",
+      "suboffice": "সন্তোষ",
+      "postcode": "১৯০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Tangail Sadar",
+      "suboffice": "Santosh",
+      "postcode": 1902
+    }
+  },
+  "1903": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "টাঙ্গাইল সদর",
+      "suboffice": "করোতিয়া",
+      "postcode": "১৯০৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Tangail Sadar",
+      "suboffice": "Korotia",
+      "postcode": 1903
+    }
+  },
+  "1904": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "টাঙ্গাইল সদর",
+      "suboffice": "পুড়াবাড়ি",
+      "postcode": "১৯০৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Tangail Sadar",
+      "suboffice": "Purabari",
+      "postcode": 1904
+    }
+  },
+  "1910": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "দেলদুয়ার",
+      "suboffice": "দেলদুয়ার",
+      "postcode": "১৯১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Delduar",
+      "suboffice": "Delduar",
+      "postcode": 1910
+    }
+  },
+  "1911": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "দেলদুয়ার",
+      "suboffice": "জাঙ্গালিয়া",
+      "postcode": "১৯১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Delduar",
+      "suboffice": "Jangalia",
+      "postcode": 1911
+    }
+  },
+  "1912": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "দেলদুয়ার",
+      "suboffice": "পাঠারাইল",
+      "postcode": "১৯১২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Delduar",
+      "suboffice": "Patharail",
+      "postcode": 1912
+    }
+  },
+  "1913": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "দেলদুয়ার",
+      "suboffice": "ইলাসিন",
+      "postcode": "১৯১৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Delduar",
+      "suboffice": "Elasin",
+      "postcode": 1913
+    }
+  },
+  "1914": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "দেলদুয়ার",
+      "suboffice": "হিংগা নগর",
+      "postcode": "১৯১৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Delduar",
+      "suboffice": "Hinga Nagar",
+      "postcode": 1914
+    }
+  },
+  "1915": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "দেলদুয়ার",
+      "suboffice": "লউহাটি",
+      "postcode": "১৯১৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Delduar",
+      "suboffice": "Lowhati",
+      "postcode": 1915
+    }
+  },
+  "1920": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "বাসাইল",
+      "suboffice": "বাসাইল",
+      "postcode": "১৯২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Basail",
+      "suboffice": "Basail",
+      "postcode": 1920
+    }
+  },
+  "1930": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "কাশকাওলিয়া",
+      "suboffice": "কাশকাওলিয়া",
+      "postcode": "১৯৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Kashkaolia",
+      "suboffice": "Kashkawlia",
+      "postcode": 1930
+    }
+  },
+  "1936": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "নাগরপুর",
+      "suboffice": "নাগরপুর",
+      "postcode": "১৯৩৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Nagarpur",
+      "suboffice": "Nagarpur",
+      "postcode": 1936
+    }
+  },
+  "1937": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "নাগরপুর",
+      "suboffice": "ধুবুরিয়া",
+      "postcode": "১৯৩৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Nagarpur",
+      "suboffice": "Dhuburia",
+      "postcode": 1937
+    }
+  },
+  "1938": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "নাগরপুর",
+      "suboffice": "সলিমাবাদ",
+      "postcode": "১৯৩৮"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Nagarpur",
+      "suboffice": "Salimabad",
+      "postcode": 1938
+    }
+  },
+  "1940": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "মির্জাপুর",
+      "suboffice": "মির্জাপুর",
+      "postcode": "১৯৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Mirzapur",
+      "suboffice": "Mirzapur",
+      "postcode": 1940
+    }
+  },
+  "1941": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "মির্জাপুর",
+      "suboffice": "গড়াই",
+      "postcode": "১৯৪১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Mirzapur",
+      "suboffice": "Gorai",
+      "postcode": 1941
+    }
+  },
+  "1942": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "মির্জাপুর",
+      "suboffice": "এম.সি. কলেজ",
+      "postcode": "১৯৪২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Mirzapur",
+      "suboffice": "M.C. College",
+      "postcode": 1942
+    }
+  },
+  "1943": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "মির্জাপুর",
+      "suboffice": "ওয়ারী পাইকপাড়া",
+      "postcode": "১৯৪৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Mirzapur",
+      "suboffice": "Warri paikpara",
+      "postcode": 1943
+    }
+  },
+  "1944": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "মির্জাপুর",
+      "suboffice": "জারমুকি",
+      "postcode": "১৯৪৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Mirzapur",
+      "suboffice": "Jarmuki",
+      "postcode": 1944
+    }
+  },
+  "1945": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "মির্জাপুর",
+      "suboffice": "মহেরা",
+      "postcode": "১৯৪৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Mirzapur",
+      "suboffice": "Mohera",
+      "postcode": 1945
+    }
+  },
+  "1950": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "সখীপুর",
+      "suboffice": "সখীপুর",
+      "postcode": "১৯৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Sakhipur",
+      "suboffice": "Sakhipur",
+      "postcode": 1950
+    }
+  },
+  "1951": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "সখীপুর",
+      "suboffice": "কচুয়া",
+      "postcode": "১৯৫১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Sakhipur",
+      "suboffice": "Kachua",
+      "postcode": 1951
+    }
+  },
+  "1960": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "ভূঞাপুর",
+      "suboffice": "ভূঞাপুর",
+      "postcode": "১৯৬০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Bhuapur",
+      "suboffice": "Bhuapur",
+      "postcode": 1960
+    }
+  },
+  "1970": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "কালিহাতী",
+      "suboffice": "কালিহাতী",
+      "postcode": "১৯৭০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Kalihati",
+      "suboffice": "Kalihati",
+      "postcode": 1970
+    }
+  },
+  "1971": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "কালিহাতী",
+      "suboffice": "রাজাফাইর",
+      "postcode": "১৯৭১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Kalihati",
+      "suboffice": "Rajafair",
+      "postcode": 1971
+    }
+  },
+  "1972": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "কালিহাতী",
+      "suboffice": "নাগবাড়ি",
+      "postcode": "১৯৭২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Kalihati",
+      "suboffice": "Nagbari",
+      "postcode": 1972
+    }
+  },
+  "1973": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "কালিহাতী",
+      "suboffice": "বাল্লাবাজার",
+      "postcode": "১৯৭৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Kalihati",
+      "suboffice": "Ballabazar",
+      "postcode": 1973
+    }
+  },
+  "1974": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "কালিহাতী",
+      "suboffice": "ইলিংগা",
+      "postcode": "১৯৭৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Kalihati",
+      "suboffice": "Elinga",
+      "postcode": 1974
+    }
+  },
+  "1975": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "কালিহাতী",
+      "suboffice": "পালিশা",
+      "postcode": "১৯৭৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Kalihati",
+      "suboffice": "Palisha",
+      "postcode": 1975
+    }
+  },
+  "1976": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "কালিহাতী",
+      "suboffice": "নগরবাড়ী তাই",
+      "postcode": "১৯৭৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Kalihati",
+      "suboffice": "Nagarbari SO",
+      "postcode": 1976
+    }
+  },
+  "1977": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "কালিহাতী",
+      "suboffice": "নগরবাড়ী",
+      "postcode": "১৯৭৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Kalihati",
+      "suboffice": "Nagarbari",
+      "postcode": 1977
+    }
+  },
+  "1980": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "ঘাটাইল",
+      "suboffice": "ঘাটাইল",
+      "postcode": "১৯৮০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Ghatail",
+      "suboffice": "Ghatial",
+      "postcode": 1980
+    }
+  },
+  "1981": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "ঘাটাইল",
+      "suboffice": "জাহিদগঞ্জ",
+      "postcode": "১৯৮১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Ghatail",
+      "suboffice": "Zahidganj",
+      "postcode": 1981
+    }
+  },
+  "1982": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "ঘাটাইল",
+      "suboffice": "ডি পাকুটিয়া",
+      "postcode": "১৯৮২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Ghatail",
+      "suboffice": "D. Pakutia",
+      "postcode": 1982
+    }
+  },
+  "1983": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "ঘাটাইল",
+      "suboffice": "ধলাপাড়া",
+      "postcode": "১৯৮৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Ghatail",
+      "suboffice": "Dhalapara",
+      "postcode": 1983
+    }
+  },
+  "1984": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "ঘাটাইল",
+      "suboffice": "লোহানী",
+      "postcode": "১৯৮৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Ghatail",
+      "suboffice": "Lohani",
+      "postcode": 1984
+    }
+  },
+  "1990": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "গোপালপুর",
+      "suboffice": "গোপালপুর",
+      "postcode": "১৯৯০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Gopalpur",
+      "suboffice": "Gopalpur",
+      "postcode": 1990
+    }
+  },
+  "1991": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "গোপালপুর",
+      "suboffice": "চাতুতিয়া",
+      "postcode": "১৯৯১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Gopalpur",
+      "suboffice": "Chatutia",
+      "postcode": 1991
+    }
+  },
+  "1992": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "গোপালপুর",
+      "suboffice": "হেমনগর",
+      "postcode": "১৯৯২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Gopalpur",
+      "suboffice": "Hemnagar",
+      "postcode": 1992
+    }
+  },
+  "1996": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "মধুপুর",
+      "suboffice": "মধুপুর",
+      "postcode": "১৯৯৬"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Madhupur",
+      "suboffice": "Madhupur",
+      "postcode": 1996
+    }
+  },
+  "1997": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "টাঙ্গাইল",
+      "thana": "মধুপুর",
+      "suboffice": "ধবাড়ি",
+      "postcode": "১৯৯৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Tangail",
+      "thana": "Madhupur",
+      "suboffice": "Dhonbari",
+      "postcode": 1997
+    }
+  }
+}

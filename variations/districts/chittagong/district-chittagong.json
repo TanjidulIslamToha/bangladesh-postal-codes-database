@@ -1,0 +1,1586 @@
+{
+  "4000": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "চট্টগ্রাম জিপিও",
+      "postcode": "৪০০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Chattogram GPO",
+      "postcode": 4000
+    }
+  },
+  "4100": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "চট্টগ্রাম বন্দর",
+      "postcode": "৪১০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Chattogram Bandar",
+      "postcode": 4100
+    }
+  },
+  "4202": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "পাহাড়তলী",
+      "postcode": "৪২০২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Pahartoli",
+      "postcode": 4202
+    }
+  },
+  "4203": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "চকবাজার",
+      "postcode": "৪২০৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Chawkbazar",
+      "postcode": 4203
+    }
+  },
+  "4204": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "পতেঙ্গা",
+      "postcode": "৪২০৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Patenga",
+      "postcode": 4204
+    }
+  },
+  "4205": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "চট্টগ্রাম বিমানবন্দর",
+      "postcode": "৪২০৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Chattogram Airport",
+      "postcode": 4205
+    }
+  },
+  "4206": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "জলদিয়া মেরিন একাডেমি",
+      "postcode": "৪২০৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Jaldia Merine Accade",
+      "postcode": 4206
+    }
+  },
+  "4207": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "ফিরোজশাহ কলোনী",
+      "postcode": "৪২০৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Firozshah",
+      "postcode": 4207
+    }
+  },
+  "4208": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "মোহার্ড",
+      "postcode": "৪২০৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Mohard",
+      "postcode": 4208
+    }
+  },
+  "4209": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "চট্টগ্রাম পলিটেকনিক",
+      "postcode": "৪২০৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Chitt. Politechnic In",
+      "postcode": 4209
+    }
+  },
+  "4210": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "বায়েজিদ বোস্তামী",
+      "postcode": "৪২১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Bayezid Bostami",
+      "postcode": 4210
+    }
+  },
+  "4211": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "আমিন জুট মিলস",
+      "postcode": "৪২১১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Amin Jute Mills",
+      "postcode": 4211
+    }
+  },
+  "4212": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "চাঁদগাও",
+      "postcode": "৪২১২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Chandgaon",
+      "postcode": 4212
+    }
+  },
+  "4213": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "ওয়াজেদিয়া",
+      "postcode": "৪২১৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Wazedia",
+      "postcode": 4213
+    }
+  },
+  "4214": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "জালালাবাদ",
+      "postcode": "৪২১৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Jalalabad",
+      "postcode": 4214
+    }
+  },
+  "4215": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "আনন্দবাজার",
+      "postcode": "৪২১৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Anandabazar",
+      "postcode": 4215
+    }
+  },
+  "4216": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "হালিশহর",
+      "postcode": "৪২১৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Halishahar",
+      "postcode": 4216
+    }
+  },
+  "4217": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "উত্তর কাট্টলী",
+      "postcode": "৪২১৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "North Katuli",
+      "postcode": 4217
+    }
+  },
+  "4218": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "চট্টগ্রাম সেইলার্স কলোনী",
+      "postcode": "৪২১৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Chitt. Sailers Colon",
+      "postcode": 4218
+    }
+  },
+  "4219": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "চট্টগ্রাম কাস্টমস",
+      "postcode": "৪২১৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Chitt. Customs Acca",
+      "postcode": 4219
+    }
+  },
+  "4220": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "চট্টগ্রাম সেনানিবাস",
+      "postcode": "৪২২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Chitt. Cantonment",
+      "postcode": 4220
+    }
+  },
+  "4221": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "আল আমিন বাড়ীয়া মাদ্রাসা",
+      "postcode": "৪২২১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Al- Amin Baria Madra",
+      "postcode": 4221
+    }
+  },
+  "4222": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "মধ্য পতেঙ্গা",
+      "postcode": "৪২২২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Middle Patenga",
+      "postcode": 4222
+    }
+  },
+  "4223": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "রপ্তানি প্রক্রিয়াকরণ",
+      "postcode": "৪২২৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Export Processing",
+      "postcode": 4223
+    }
+  },
+  "4224": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "রামপুরা TSO",
+      "postcode": "৪২২৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Rampur TSO",
+      "postcode": 4224
+    }
+  },
+  "4225": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "খুলশী",
+      "postcode": "৪২২৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "Khulshi",
+      "postcode": 4225
+    }
+  },
+  "4226": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "চট্টগ্রাম সদর",
+      "suboffice": "উত্তর হালিশহর",
+      "postcode": "৪২২৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Chattogram Sadar",
+      "suboffice": "North Halishahar",
+      "postcode": 4226
+    }
+  },
+  "4300": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সন্দ্বীপ",
+      "suboffice": "সন্দ্বীপ",
+      "postcode": "৪৩০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sandwip",
+      "suboffice": "Sandwip",
+      "postcode": 4300
+    }
+  },
+  "4301": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সন্দ্বীপ",
+      "suboffice": "শিবেরহাট",
+      "postcode": "৪৩০১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sandwip",
+      "suboffice": "Shiberhat",
+      "postcode": 4301
+    }
+  },
+  "4302": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সন্দ্বীপ",
+      "suboffice": "সন্দ্বীপ",
+      "postcode": "৪৩০২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sandwip",
+      "suboffice": "Sandwip",
+      "postcode": 4302
+    }
+  },
+  "4310": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সীতাকুন্ড",
+      "suboffice": "সীতাকুন্ড",
+      "postcode": "৪৩১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sitakunda",
+      "suboffice": "Sitakunda",
+      "postcode": 4310
+    }
+  },
+  "4311": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সীতাকুন্ড",
+      "suboffice": "বারৈয়াঢালা",
+      "postcode": "৪৩১১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sitakunda",
+      "suboffice": "Baroidhala",
+      "postcode": 4311
+    }
+  },
+  "4312": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সীতাকুন্ড",
+      "suboffice": "বরফকুণ্ড",
+      "postcode": "৪৩১২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sitakunda",
+      "suboffice": "Barabkunda",
+      "postcode": 4312
+    }
+  },
+  "4313": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সীতাকুন্ড",
+      "suboffice": "বাঁশবাড়িয়া",
+      "postcode": "৪৩১৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sitakunda",
+      "suboffice": "Bawashbaria",
+      "postcode": 4313
+    }
+  },
+  "4314": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সীতাকুন্ড",
+      "suboffice": "কুমিরা",
+      "postcode": "৪৩১৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sitakunda",
+      "suboffice": "Kumira",
+      "postcode": 4314
+    }
+  },
+  "4315": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সীতাকুন্ড",
+      "suboffice": "ভাটিয়ারী",
+      "postcode": "৪৩১৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sitakunda",
+      "suboffice": "Bhatiari",
+      "postcode": 4315
+    }
+  },
+  "4316": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সীতাকুন্ড",
+      "suboffice": "ফৌজদারহাট",
+      "postcode": "৪৩১৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sitakunda",
+      "suboffice": "Fouzdarhat",
+      "postcode": 4316
+    }
+  },
+  "4317": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সীতাকুন্ড",
+      "suboffice": "জাফরাবাদ",
+      "postcode": "৪৩১৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Sitakunda",
+      "suboffice": "Jafrabad",
+      "postcode": 4317
+    }
+  },
+  "4320": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "মীরসরাই",
+      "suboffice": "মীরসরাই",
+      "postcode": "৪৩২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Mirsharai",
+      "suboffice": "Mirsharai",
+      "postcode": 4320
+    }
+  },
+  "4321": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "মীরসরাই",
+      "suboffice": "আবু তোরাব",
+      "postcode": "৪৩২১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Mirsharai",
+      "suboffice": "Abutorab",
+      "postcode": 4321
+    }
+  },
+  "4322": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "মীরসরাই",
+      "suboffice": "দারোগাহাট",
+      "postcode": "৪৩২২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Mirsharai",
+      "suboffice": "Daraga Hat",
+      "postcode": 4322
+    }
+  },
+  "4323": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "মীরসরাই",
+      "suboffice": "বারইয়ারহাট",
+      "postcode": "৪৩২৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Mirsharai",
+      "suboffice": "Bharawazhat",
+      "postcode": 4323
+    }
+  },
+  "4324": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "মীরসরাই",
+      "suboffice": "জোরগঞ্জ",
+      "postcode": "৪৩২৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Mirsharai",
+      "suboffice": "Joarganj",
+      "postcode": 4324
+    }
+  },
+  "4325": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "মীরসরাই",
+      "suboffice": "আজমপুর",
+      "postcode": "৪৩২৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Mirsharai",
+      "suboffice": "Azampur",
+      "postcode": 4325
+    }
+  },
+  "4327": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "মীরসরাই",
+      "suboffice": "করেরহাট",
+      "postcode": "৪৩২৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Mirsharai",
+      "suboffice": "Korerhat",
+      "postcode": 4327
+    }
+  },
+  "4328": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "মীরসরাই",
+      "suboffice": "মহাজনহাট",
+      "postcode": "৪৩২৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Mirsharai",
+      "suboffice": "Mohazanhat",
+      "postcode": 4328
+    }
+  },
+  "4330": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "হাটহাজারী",
+      "suboffice": "হাটহাজারী",
+      "postcode": "৪৩৩০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Hathazari",
+      "suboffice": "Hathazari",
+      "postcode": 4330
+    }
+  },
+  "4331": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "হাটহাজারী",
+      "suboffice": "চট্টগ্রাম বিশ্ববিদ্যালয়",
+      "postcode": "৪৩৩১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Hathazari",
+      "suboffice": "Chitt.University",
+      "postcode": 4331
+    }
+  },
+  "4332": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "হাটহাজারী",
+      "suboffice": "গড়দুয়ারা",
+      "postcode": "৪৩৩২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Hathazari",
+      "suboffice": "Gorduara",
+      "postcode": 4332
+    }
+  },
+  "4333": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "হাটহাজারী",
+      "suboffice": "কাটিরহাট",
+      "postcode": "৪৩৩৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Hathazari",
+      "suboffice": "Katirhat",
+      "postcode": 4333
+    }
+  },
+  "4334": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "হাটহাজারী",
+      "suboffice": "মির্জাপুর",
+      "postcode": "৪৩৩৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Hathazari",
+      "suboffice": "Mirzapur",
+      "postcode": 4334
+    }
+  },
+  "4335": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "হাটহাজারী",
+      "suboffice": "ফাতেয়াবাদ",
+      "postcode": "৪৩৩৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Hathazari",
+      "suboffice": "Fatahabad",
+      "postcode": 4335
+    }
+  },
+  "4337": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "হাটহাজারী",
+      "suboffice": "নূরালীবাড়ী",
+      "postcode": "৪৩৩৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Hathazari",
+      "suboffice": "Nuralibari",
+      "postcode": 4337
+    }
+  },
+  "4338": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "হাটহাজারী",
+      "suboffice": "ইউনূস নগর",
+      "postcode": "৪৩৩৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Hathazari",
+      "suboffice": "Yunus Nagar",
+      "postcode": 4338
+    }
+  },
+  "4339": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "হাটহাজারী",
+      "suboffice": "মাদ্রাসা",
+      "postcode": "৪৩৩৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Hathazari",
+      "suboffice": "Madrasa",
+      "postcode": 4339
+    }
+  },
+  "4340": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "রাউজান",
+      "postcode": "৪৩৪০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "Rouzan",
+      "postcode": 4340
+    }
+  },
+  "4341": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "বিনাজুরী",
+      "postcode": "৪৩৪১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "Beenajuri",
+      "postcode": 4341
+    }
+  },
+  "4342": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "কুন্ডেশ্বরী",
+      "postcode": "৪৩৪২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "Kundeshwari",
+      "postcode": 4342
+    }
+  },
+  "4343": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "গহীরা",
+      "postcode": "৪৩৪৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "Gahira",
+      "postcode": 4343
+    }
+  },
+  "4344": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "জগন্নাথ হাট",
+      "postcode": "৪৩৪৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "jagannath Hat",
+      "postcode": 4344
+    }
+  },
+  "4345": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "ফতেহপুর",
+      "postcode": "৪৩৪৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "Fatepur",
+      "postcode": 4345
+    }
+  },
+  "4346": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "নোয়াপাড়া",
+      "postcode": "৪৩৪৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "Guzra Noapara",
+      "postcode": 4346
+    }
+  },
+  "4347": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "দেওয়ানপুর",
+      "postcode": "৪৩৪৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "Dewanpur",
+      "postcode": 4347
+    }
+  },
+  "4348": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "মোহামনী",
+      "postcode": "৪৩৪৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "Mohamuni",
+      "postcode": 4348
+    }
+  },
+  "4349": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাউজান",
+      "suboffice": "বি.আই.টি পোস্ট অফিস",
+      "postcode": "৪৩৪৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Raozan",
+      "suboffice": "B.I.T Post Office",
+      "postcode": 4349
+    }
+  },
+  "4350": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "ফটিকছড়ি",
+      "suboffice": "ফটিকছড়ি",
+      "postcode": "৪৩৫০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Fatikchhari",
+      "suboffice": "Fatikchhari",
+      "postcode": 4350
+    }
+  },
+  "4351": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "ফটিকছড়ি",
+      "suboffice": "নানুপুর",
+      "postcode": "৪৩৫১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Fatikchhari",
+      "suboffice": "Nanupur",
+      "postcode": 4351
+    }
+  },
+  "4352": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "ফটিকছড়ি",
+      "suboffice": "ভাণ্ডার শরীফ",
+      "postcode": "৪৩৫২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Fatikchhari",
+      "suboffice": "Bhandar Sharif",
+      "postcode": 4352
+    }
+  },
+  "4353": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "ফটিকছড়ি",
+      "suboffice": "নাজিরহাট",
+      "postcode": "৪৩৫৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Fatikchhari",
+      "suboffice": "Najirhat",
+      "postcode": 4353
+    }
+  },
+  "4354": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "ফটিকছড়ি",
+      "suboffice": "হারুয়ালছড়ি",
+      "postcode": "৪৩৫৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Fatikchhari",
+      "suboffice": "Harualchhari",
+      "postcode": 4354
+    }
+  },
+  "4355": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "ফটিকছড়ি",
+      "suboffice": "নারায়ণহাট",
+      "postcode": "৪৩৫৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Fatikchhari",
+      "suboffice": "Narayanhat",
+      "postcode": 4355
+    }
+  },
+  "4360": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাঙ্গুনিয়া",
+      "suboffice": "রাঙ্গুনিয়া",
+      "postcode": "৪৩৬০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Rangunia",
+      "suboffice": "Rangunia",
+      "postcode": 4360
+    }
+  },
+  "4361": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "রাঙ্গুনিয়া",
+      "suboffice": "ধামাইর",
+      "postcode": "৪৩৬১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Rangunia",
+      "suboffice": "Dhamair",
+      "postcode": 4361
+    }
+  },
+  "4363": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "বোয়ালখালী",
+      "suboffice": "কানুনগোপাড়া",
+      "postcode": "৪৩৬৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Boalkhali",
+      "suboffice": "Kanungopara",
+      "postcode": 4363
+    }
+  },
+  "4364": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "বোয়ালখালী",
+      "suboffice": "সারোয়াতলী",
+      "postcode": "৪৩৬৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Boalkhali",
+      "suboffice": "Saroatoli",
+      "postcode": 4364
+    }
+  },
+  "4365": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "বোয়ালখালী",
+      "suboffice": "ইকবাল পার্ক",
+      "postcode": "৪৩৬৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Boalkhali",
+      "suboffice": "Iqbal Park",
+      "postcode": 4365
+    }
+  },
+  "4366": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "বোয়ালখালী",
+      "suboffice": "বোয়ালখালী",
+      "postcode": "৪৩৬৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Boalkhali",
+      "suboffice": "Boalkhali",
+      "postcode": 4366
+    }
+  },
+  "4367": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "বোয়ালখালী",
+      "suboffice": "সাকপুরা",
+      "postcode": "৪৩৬৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Boalkhali",
+      "suboffice": "Sakpura",
+      "postcode": 4367
+    }
+  },
+  "4368": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "বোয়ালখালী",
+      "suboffice": "কদুরখিল",
+      "postcode": "৪৩৬৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Boalkhali",
+      "suboffice": "Kadurkhal",
+      "postcode": 4368
+    }
+  },
+  "4369": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "বোয়ালখালী",
+      "suboffice": "চরণদ্বীপ",
+      "postcode": "৪৩৬৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Boalkhali",
+      "suboffice": "Charandwip",
+      "postcode": 4369
+    }
+  },
+  "4370": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "পটিয়া",
+      "suboffice": "পটিয়া প্রধান কার্যালয়",
+      "postcode": "৪৩৭০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Patiya",
+      "suboffice": "Patiya Head Office",
+      "postcode": 4370
+    }
+  },
+  "4371": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "পটিয়া",
+      "suboffice": "বুধপাড়া",
+      "postcode": "৪৩৭১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Patiya",
+      "suboffice": "Budhpara",
+      "postcode": 4371
+    }
+  },
+  "4376": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "আনোয়ারা",
+      "suboffice": "আনোয়ারা",
+      "postcode": "৪৩৭৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Anawara",
+      "suboffice": "Anowara",
+      "postcode": 4376
+    }
+  },
+  "4377": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "আনোয়ারা",
+      "suboffice": "পরৈকোড়া",
+      "postcode": "৪৩৭৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Anawara",
+      "suboffice": "Paroikora",
+      "postcode": 4377
+    }
+  },
+  "4378": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "আনোয়ারা",
+      "suboffice": "বটতলি",
+      "postcode": "৪৩৭৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Anawara",
+      "suboffice": "Battali",
+      "postcode": 4378
+    }
+  },
+  "4380": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "পূর্ব জোয়ারা",
+      "suboffice": "পূর্ব জোয়ারা",
+      "postcode": "৪৩৮০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "East Joara",
+      "suboffice": "East Joara",
+      "postcode": 4380
+    }
+  },
+  "4381": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "পূর্ব জোয়ারা",
+      "suboffice": "গাছবাড়িয়া",
+      "postcode": "৪৩৮১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "East Joara",
+      "suboffice": "Gachbaria",
+      "postcode": 4381
+    }
+  },
+  "4382": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "পূর্ব জোয়ারা",
+      "suboffice": "দোহাজারী",
+      "postcode": "৪৩৮২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "East Joara",
+      "suboffice": "Dohazari",
+      "postcode": 4382
+    }
+  },
+  "4383": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "পূর্ব জোয়ারা",
+      "suboffice": "বর্মা",
+      "postcode": "৪৩৮৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "East Joara",
+      "suboffice": "Barma",
+      "postcode": 4383
+    }
+  },
+  "4386": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সাতকানিয়া",
+      "suboffice": "সাতকানিয়া",
+      "postcode": "৪৩৮৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Satkania",
+      "suboffice": "Satkania",
+      "postcode": 4386
+    }
+  },
+  "4387": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সাতকানিয়া",
+      "suboffice": "বায়তুল ইজ্জত",
+      "postcode": "৪৩৮৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Satkania",
+      "suboffice": "Baitul Ijjat",
+      "postcode": 4387
+    }
+  },
+  "4388": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "সাতকানিয়া",
+      "suboffice": "বাজালিয়া",
+      "postcode": "৪৩৮৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Satkania",
+      "suboffice": "Bazalia",
+      "postcode": 4388
+    }
+  },
+  "4390": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "জলদি",
+      "suboffice": "জলদি",
+      "postcode": "৪৩৯০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Jaldi",
+      "suboffice": "Jaldi",
+      "postcode": 4390
+    }
+  },
+  "4391": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "জলদি",
+      "suboffice": "খান বাহাদুর",
+      "postcode": "৪৩৯১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Jaldi",
+      "suboffice": "Khan Bahadur",
+      "postcode": 4391
+    }
+  },
+  "4392": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "জলদি",
+      "suboffice": "গুনাগরী",
+      "postcode": "৪৩৯২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Jaldi",
+      "suboffice": "Gunagari",
+      "postcode": 4392
+    }
+  },
+  "4393": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "জলদি",
+      "suboffice": "বাণীগ্রাম",
+      "postcode": "৪৩৯৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Jaldi",
+      "suboffice": "Banigram",
+      "postcode": 4393
+    }
+  },
+  "4396": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "লোহাগাড়া",
+      "suboffice": "লোহাগাড়া",
+      "postcode": "৪৩৯৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Lohagara",
+      "suboffice": "Lohagara",
+      "postcode": 4396
+    }
+  },
+  "4397": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "লোহাগাড়া",
+      "suboffice": "পদুয়া",
+      "postcode": "৪৩৯৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Lohagara",
+      "suboffice": "Padua",
+      "postcode": 4397
+    }
+  },
+  "4398": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চট্টগ্রাম",
+      "thana": "লোহাগাড়া",
+      "suboffice": "চুনতি",
+      "postcode": "৪৩৯৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chittagong",
+      "thana": "Lohagara",
+      "suboffice": "Chunti",
+      "postcode": 4398
+    }
+  }
+}

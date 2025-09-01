@@ -1,0 +1,418 @@
+{
+  "3600": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "চাঁদপুর সদর",
+      "suboffice": "চাঁদপুর সদর",
+      "postcode": "৩৬০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Chandpur Sadar",
+      "suboffice": "Chandpur Sadar",
+      "postcode": 3600
+    }
+  },
+  "3601": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "চাঁদপুর সদর",
+      "suboffice": "পুরানবাজারের",
+      "postcode": "৩৬০১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Chandpur Sadar",
+      "suboffice": "Puranbazar",
+      "postcode": 3601
+    }
+  },
+  "3602": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "চাঁদপুর সদর",
+      "suboffice": "বাবুরহাট",
+      "postcode": "৩৬০২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Chandpur Sadar",
+      "suboffice": "Baburhat",
+      "postcode": 3602
+    }
+  },
+  "3603": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "চাঁদপুর সদর",
+      "suboffice": "সাহাতালি",
+      "postcode": "৩৬০৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Chandpur Sadar",
+      "suboffice": "Sahatali",
+      "postcode": 3603
+    }
+  },
+  "3610": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "হাজীগঞ্জ",
+      "suboffice": "হাজীগঞ্জ",
+      "postcode": "৩৬১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Hajiganj",
+      "suboffice": "Hajiganj",
+      "postcode": 3610
+    }
+  },
+  "3611": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "হাজীগঞ্জ",
+      "suboffice": "বলাখাল",
+      "postcode": "৩৬১১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Hajiganj",
+      "suboffice": "Bolakhal",
+      "postcode": 3611
+    }
+  },
+  "3620": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "শাহরাস্তি",
+      "suboffice": "শাহরাস্তি",
+      "postcode": "৩৬২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Shahrasti",
+      "suboffice": "UNKILA",
+      "postcode": 3620
+    }
+  },
+  "3621": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "শাহরাস্তি",
+      "suboffice": "খিলাবাজার",
+      "postcode": "৩৬২১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Shahrasti",
+      "suboffice": "Khilabazar",
+      "postcode": 3621
+    }
+  },
+  "3622": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "শাহরাস্তি",
+      "suboffice": "পশ্চিম খেরিহার",
+      "postcode": "৩৬২২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Shahrasti",
+      "suboffice": "Pashchim Kherihar Al",
+      "postcode": 3622
+    }
+  },
+  "3623": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "শাহরাস্তি",
+      "suboffice": "ছোটোশি",
+      "postcode": "৩৬২৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Shahrasti",
+      "suboffice": "Chotoshi",
+      "postcode": 3623
+    }
+  },
+  "3624": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "শাহরাস্তি",
+      "suboffice": "ইসলামিয়া মাদ্রাসা",
+      "postcode": "৩৬২৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Shahrasti",
+      "suboffice": "Islamia Madrasha",
+      "postcode": 3624
+    }
+  },
+  "3630": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "কচুয়া",
+      "suboffice": "কচুয়া",
+      "postcode": "৩৬৩০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Kachua",
+      "suboffice": "Kachua",
+      "postcode": 3630
+    }
+  },
+  "3631": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "কচুয়া",
+      "suboffice": "পাক শ্রীরামপুর",
+      "postcode": "৩৬৩১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Kachua",
+      "suboffice": "Pak Shrirampur",
+      "postcode": 3631
+    }
+  },
+  "3632": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "কচুয়া",
+      "suboffice": "রহিমা নগর",
+      "postcode": "৩৬৩২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Kachua",
+      "suboffice": "Rahima Nagar",
+      "postcode": 3632
+    }
+  },
+  "3633": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "কচুয়া",
+      "suboffice": "সাচার",
+      "postcode": "৩৬৩৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Kachua",
+      "suboffice": "Shachar",
+      "postcode": 3633
+    }
+  },
+  "3640": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "মতলবগঞ্জ",
+      "suboffice": "মতলবগঞ্জ",
+      "postcode": "৩৬৪০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Matlobganj",
+      "suboffice": "Matlobganj",
+      "postcode": 3640
+    }
+  },
+  "3641": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "মতলবগঞ্জ",
+      "suboffice": "মোহনপুর",
+      "postcode": "৩৬৪১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Matlobganj",
+      "suboffice": "Mohanpur",
+      "postcode": 3641
+    }
+  },
+  "3642": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "মতলবগঞ্জ",
+      "suboffice": "কালিপুর",
+      "postcode": "৩৬৪২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Matlobganj",
+      "suboffice": "Kalipur",
+      "postcode": 3642
+    }
+  },
+  "3650": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "ফরিদগঞ্জ",
+      "suboffice": "ফরিদগঞ্জ",
+      "postcode": "৩৬৫০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Faridganj",
+      "suboffice": "Faridganj",
+      "postcode": 3650
+    }
+  },
+  "3651": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "ফরিদগঞ্জ",
+      "suboffice": "চন্দ্র",
+      "postcode": "৩৬৫১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Faridganj",
+      "suboffice": "Chandra",
+      "postcode": 3651
+    }
+  },
+  "3652": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "ফরিদগঞ্জ",
+      "suboffice": "রূপসা",
+      "postcode": "৩৬৫২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Faridganj",
+      "suboffice": "Rupsha",
+      "postcode": 3652
+    }
+  },
+  "3653": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "ফরিদগঞ্জ",
+      "suboffice": "গৃদকালিন্দিয়া",
+      "postcode": "৩৬৫৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Faridganj",
+      "suboffice": "Gridkaliandia",
+      "postcode": 3653
+    }
+  },
+  "3654": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "ফরিদগঞ্জ",
+      "suboffice": "রামপুরবাজার",
+      "postcode": "৩৬৫৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Faridganj",
+      "suboffice": "Rampurbazar",
+      "postcode": 3654
+    }
+  },
+  "3655": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "ফরিদগঞ্জ",
+      "suboffice": "ইসলামপুর শাহ ইসাইন",
+      "postcode": "৩৬৫৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Faridganj",
+      "suboffice": "Islampur Shah Isain",
+      "postcode": 3655
+    }
+  },
+  "3660": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "হাইমচর",
+      "suboffice": "হাইমচর",
+      "postcode": "৩৬৬০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Hayemchar",
+      "suboffice": "Hayemchar",
+      "postcode": 3660
+    }
+  },
+  "3661": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "চাঁদপুর",
+      "thana": "হাইমচর",
+      "suboffice": "গান্ধামারা",
+      "postcode": "৩৬৬১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Chandpur",
+      "thana": "Hayemchar",
+      "suboffice": "Gandamara",
+      "postcode": 3661
+    }
+  }
+}

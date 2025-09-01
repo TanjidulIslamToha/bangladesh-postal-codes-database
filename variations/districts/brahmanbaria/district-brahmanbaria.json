@@ -1,0 +1,450 @@
+{
+  "3400": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "ব্রাহ্মণবাড়িয়া সদর",
+      "suboffice": "ব্রাহ্মণবাড়িয়া সদর",
+      "postcode": "৩৪০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Brahamanbaria Sadar",
+      "suboffice": "Brahamanbaria Sadar",
+      "postcode": 3400
+    }
+  },
+  "3401": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "ব্রাহ্মণবাড়িয়া সদর",
+      "suboffice": "তালশহর",
+      "postcode": "৩৪০১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Brahamanbaria Sadar",
+      "suboffice": "Talshahar",
+      "postcode": 3401
+    }
+  },
+  "3402": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "ব্রাহ্মণবাড়িয়া সদর",
+      "suboffice": "আশুগঞ্জ",
+      "postcode": "৩৪০২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Brahamanbaria Sadar",
+      "suboffice": "Ashuganj",
+      "postcode": 3402
+    }
+  },
+  "3403": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "ব্রাহ্মণবাড়িয়া সদর",
+      "suboffice": "আশুগঞ্জ সেয়ার",
+      "postcode": "৩৪০৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Brahamanbaria Sadar",
+      "suboffice": "Ashuganj Share",
+      "postcode": 3403
+    }
+  },
+  "3404": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "ব্রাহ্মণবাড়িয়া সদর",
+      "suboffice": "পুনে",
+      "postcode": "৩৪০৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Brahamanbaria Sadar",
+      "suboffice": "Poun",
+      "postcode": 3404
+    }
+  },
+  "3410": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নবীনগর",
+      "suboffice": "নবীনগর",
+      "postcode": "৩৪১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nabinagar",
+      "suboffice": "Nabinagar",
+      "postcode": 3410
+    }
+  },
+  "3411": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নবীনগর",
+      "suboffice": "লাউফতেহপুর",
+      "postcode": "৩৪১১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nabinagar",
+      "suboffice": "Laubfatehpur",
+      "postcode": 3411
+    }
+  },
+  "3412": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নবীনগর",
+      "suboffice": "রসুল্লাবাদ",
+      "postcode": "৩৪১২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nabinagar",
+      "suboffice": "Rasullabad",
+      "postcode": 3412
+    }
+  },
+  "3413": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নবীনগর",
+      "suboffice": "শ্যামগ্রাম",
+      "postcode": "৩৪১৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nabinagar",
+      "suboffice": "Shamgram",
+      "postcode": 3413
+    }
+  },
+  "3414": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নবীনগর",
+      "suboffice": "রতনপুর",
+      "postcode": "৩৪১৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nabinagar",
+      "suboffice": "Ratanpur",
+      "postcode": 3414
+    }
+  },
+  "3415": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নবীনগর",
+      "suboffice": "শাহপুর",
+      "postcode": "৩৪১৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nabinagar",
+      "suboffice": "Shahapur",
+      "postcode": 3415
+    }
+  },
+  "3417": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নবীনগর",
+      "suboffice": "কাইতলা",
+      "postcode": "৩৪১৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nabinagar",
+      "suboffice": "Kaitala",
+      "postcode": 3417
+    }
+  },
+  "3418": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নবীনগর",
+      "suboffice": "ছলিমগঞ্জ",
+      "postcode": "৩৪১৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nabinagar",
+      "suboffice": "Salimganj",
+      "postcode": 3418
+    }
+  },
+  "3419": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নবীনগর",
+      "suboffice": "জীবনগঞ্জ",
+      "postcode": "৩৪১৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nabinagar",
+      "suboffice": "Jibanganj",
+      "postcode": 3419
+    }
+  },
+  "3420": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "বাঞ্ছারামপুর",
+      "suboffice": "বাঞ্ছারামপুর",
+      "postcode": "৩৪২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Banchharampur",
+      "suboffice": "Banchharampur",
+      "postcode": 3420
+    }
+  },
+  "3430": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "সরাইল",
+      "suboffice": "সরাইল",
+      "postcode": "৩৪৩০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Sarail",
+      "suboffice": "Sarial",
+      "postcode": 3430
+    }
+  },
+  "3431": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "সরাইল",
+      "suboffice": "শাহবাজপুর",
+      "postcode": "৩৪৩১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Sarail",
+      "suboffice": "Shahbajpur",
+      "postcode": 3431
+    }
+  },
+  "3432": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "সরাইল",
+      "suboffice": "চান্দুরা",
+      "postcode": "৩৪৩২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Sarail",
+      "suboffice": "Chandura",
+      "postcode": 3432
+    }
+  },
+  "3440": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নাসিরনগর",
+      "suboffice": "নাসিরনগর",
+      "postcode": "৩৪৪০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nasirnagar",
+      "suboffice": "Nasirnagar",
+      "postcode": 3440
+    }
+  },
+  "3441": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "নাসিরনগর",
+      "suboffice": "ফান্দাউক",
+      "postcode": "৩৪৪১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Nasirnagar",
+      "suboffice": "Fandauk",
+      "postcode": 3441
+    }
+  },
+  "3450": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "আখাউড়া",
+      "suboffice": "আখাউড়া",
+      "postcode": "৩৪৫০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Akhaura",
+      "suboffice": "Akhaura",
+      "postcode": 3450
+    }
+  },
+  "3451": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "আখাউড়া",
+      "suboffice": "আজমপুর",
+      "postcode": "৩৪৫১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Akhaura",
+      "suboffice": "Azampur",
+      "postcode": 3451
+    }
+  },
+  "3452": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "আখাউড়া",
+      "suboffice": "গঙ্গাসাগর",
+      "postcode": "৩৪৫২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Akhaura",
+      "suboffice": "Gangasagar",
+      "postcode": 3452
+    }
+  },
+  "3460": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "কসবা",
+      "suboffice": "কসবা",
+      "postcode": "৩৪৬০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Kasba",
+      "suboffice": "Kasba",
+      "postcode": 3460
+    }
+  },
+  "3461": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "কসবা",
+      "suboffice": "কুটি",
+      "postcode": "৩৪৬১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Kasba",
+      "suboffice": "Kuti",
+      "postcode": 3461
+    }
+  },
+  "3462": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "কসবা",
+      "suboffice": "চন্ডিদার",
+      "postcode": "৩৪৬২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Kasba",
+      "suboffice": "Chandidar",
+      "postcode": 3462
+    }
+  },
+  "3463": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "কসবা",
+      "suboffice": "চরগাছ",
+      "postcode": "৩৪৬৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Kasba",
+      "suboffice": "Chargachh",
+      "postcode": 3463
+    }
+  },
+  "3464": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "ব্রাহ্মণবাড়িয়া",
+      "thana": "কসবা",
+      "suboffice": "গোপীনাথপুর",
+      "postcode": "৩৪৬৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Brahmanbaria",
+      "thana": "Kasba",
+      "suboffice": "Gopinathpur",
+      "postcode": 3464
+    }
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "9300": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "বাগেরহাট সদর",
+      "suboffice": "বাগেরহাট সদর",
+      "postcode": "৯৩০০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Bagerhat Sadar",
+      "suboffice": "Bagerhat Sadar",
+      "postcode": 9300
+    }
+  },
+  "9301": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "বাগেরহাট সদর",
+      "suboffice": "পি.সি. কলেজ",
+      "postcode": "৯৩০১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Bagerhat Sadar",
+      "suboffice": "P.C College",
+      "postcode": 9301
+    }
+  },
+  "9302": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "বাগেরহাট সদর",
+      "suboffice": "রাংদিয়া",
+      "postcode": "৯৩০২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Bagerhat Sadar",
+      "suboffice": "Rangdia",
+      "postcode": 9302
+    }
+  },
+  "9310": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "কচুয়া",
+      "suboffice": "কচুয়া",
+      "postcode": "৯৩১০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Kachua",
+      "suboffice": "Kachua",
+      "postcode": 9310
+    }
+  },
+  "9311": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "কচুয়া",
+      "suboffice": "সোনারকোলা",
+      "postcode": "৯৩১১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Kachua",
+      "suboffice": "Sonarkola",
+      "postcode": 9311
+    }
+  },
+  "9320": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মোড়েলগঞ্জ",
+      "suboffice": "মোড়েলগঞ্জ",
+      "postcode": "৯৩২০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Morelganj",
+      "suboffice": "Morelganj",
+      "postcode": 9320
+    }
+  },
+  "9321": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মোড়েলগঞ্জ",
+      "suboffice": "সন্ন্যাসী বাজার",
+      "postcode": "৯৩২১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Morelganj",
+      "suboffice": "Sannasi Bazar",
+      "postcode": 9321
+    }
+  },
+  "9322": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মোড়েলগঞ্জ",
+      "suboffice": "তেলিগাতী",
+      "postcode": "৯৩২২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Morelganj",
+      "suboffice": "Teligatee",
+      "postcode": 9322
+    }
+  },
+  "9330": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "শরনখোলা",
+      "suboffice": "শরনখোলা",
+      "postcode": "৯৩৩০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Rayenda",
+      "suboffice": "Rayenda",
+      "postcode": 9330
+    }
+  },
+  "9340": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "রামপাল",
+      "suboffice": "রামপাল",
+      "postcode": "৯৩৪০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Rampal",
+      "suboffice": "Rampal",
+      "postcode": 9340
+    }
+  },
+  "9341": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "রামপাল",
+      "suboffice": "ফয়লাহাট",
+      "postcode": "৯৩৪১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Rampal",
+      "suboffice": "Foylahat",
+      "postcode": 9341
+    }
+  },
+  "9342": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "রামপাল",
+      "suboffice": "সোনাতুনিয়া",
+      "postcode": "৯৩৪২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Rampal",
+      "suboffice": "Sonatunia",
+      "postcode": 9342
+    }
+  },
+  "9343": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "রামপাল",
+      "suboffice": "গৌরম্ভা",
+      "postcode": "৯৩৪৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Rampal",
+      "suboffice": "Gourambha",
+      "postcode": 9343
+    }
+  },
+  "9350": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মংলা",
+      "suboffice": "মংলা",
+      "postcode": "৯৩৫০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Chalna Ankorage",
+      "suboffice": "Chalna Ankorage",
+      "postcode": 9350
+    }
+  },
+  "9351": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মংলা",
+      "suboffice": "মংলা বন্দর",
+      "postcode": "৯৩৫১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Chalna Ankorage",
+      "suboffice": "Mongla Port",
+      "postcode": 9351
+    }
+  },
+  "9360": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "চিতলমারী",
+      "suboffice": "চিতলমারী",
+      "postcode": "৯৩৬০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Chitalmari",
+      "suboffice": "Chitalmari",
+      "postcode": 9360
+    }
+  },
+  "9361": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "চিতলমারী",
+      "suboffice": "বড়বাড়িয়া",
+      "postcode": "৯৩৬১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Chitalmari",
+      "suboffice": "Barabaria",
+      "postcode": 9361
+    }
+  },
+  "9370": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "ফকিরহাট",
+      "suboffice": "ফকিরহাট",
+      "postcode": "৯৩৭০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Fakirhat",
+      "suboffice": "Fakirhat",
+      "postcode": 9370
+    }
+  },
+  "9371": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "ফকিরহাট",
+      "suboffice": "মানসা",
+      "postcode": "৯৩৭১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Fakirhat",
+      "suboffice": "Mansa",
+      "postcode": 9371
+    }
+  },
+  "9372": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "ফকিরহাট",
+      "suboffice": "ভাঙ্গনপাড় বাজার",
+      "postcode": "৯৩৭২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Fakirhat",
+      "suboffice": "Bhanganpar Bazar",
+      "postcode": 9372
+    }
+  },
+  "9380": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মোল্লাহাট",
+      "suboffice": "মোল্লাহাট",
+      "postcode": "৯৩৮০"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Mollahat",
+      "suboffice": "Mollahat",
+      "postcode": 9380
+    }
+  },
+  "9381": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মোল্লাহাট",
+      "suboffice": "কাহালপুর",
+      "postcode": "৯৩৮১"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Mollahat",
+      "suboffice": "Kahalpur",
+      "postcode": 9381
+    }
+  },
+  "9382": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মোল্লাহাট",
+      "suboffice": "দারিয়ালা",
+      "postcode": "৯৩৮২"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Mollahat",
+      "suboffice": "Dariala",
+      "postcode": 9382
+    }
+  },
+  "9383": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মোল্লাহাট",
+      "suboffice": "চল কুলিয়া",
+      "postcode": "৯৩৮৩"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Mollahat",
+      "suboffice": "Charkulia",
+      "postcode": 9383
+    }
+  },
+  "9384": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মোল্লাহাট",
+      "suboffice": "নগরকান্দি",
+      "postcode": "৯৩৮৪"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Mollahat",
+      "suboffice": "Nagarkandi",
+      "postcode": 9384
+    }
+  },
+  "9385": {
+    "bn": {
+      "division": "খুলনা",
+      "district": "বাগেরহাট",
+      "thana": "মোল্লাহাট",
+      "suboffice": "পাক গাংনী",
+      "postcode": "৯৩৮৫"
+    },
+    "en": {
+      "division": "Khulna",
+      "district": "Bagerhat",
+      "thana": "Mollahat",
+      "suboffice": "Pak Gangni",
+      "postcode": 9385
+    }
+  }
+}

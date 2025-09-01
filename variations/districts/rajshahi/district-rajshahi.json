@@ -1,0 +1,370 @@
+{
+  "6000": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "রাজশাহী সদর",
+      "suboffice": "রাজশাহী সদর",
+      "postcode": "৬০০০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Rajshahi Sadar",
+      "suboffice": "Rajshahi Sadar",
+      "postcode": 6000
+    }
+  },
+  "6100": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "রাজশাহী সদর",
+      "suboffice": "ঘোড়ামারা",
+      "postcode": "৬১০০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Rajshahi Sadar",
+      "suboffice": "Ghuramara",
+      "postcode": 6100
+    }
+  },
+  "6201": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "রাজশাহী সদর",
+      "suboffice": "রাজশাহী কোর্ট",
+      "postcode": "৬২০১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Rajshahi Sadar",
+      "suboffice": "Rajshahi Court",
+      "postcode": 6201
+    }
+  },
+  "6202": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "রাজশাহী সদর",
+      "suboffice": "রাজশাহী সেনানিবাস",
+      "postcode": "৬২০২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Rajshahi Sadar",
+      "suboffice": "Rajshahi Canttonment",
+      "postcode": 6202
+    }
+  },
+  "6203": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "রাজশাহী সদর",
+      "suboffice": "সপুরা",
+      "postcode": "৬২০৩"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Rajshahi Sadar",
+      "suboffice": "Sapura",
+      "postcode": 6203
+    }
+  },
+  "6204": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "রাজশাহী সদর",
+      "suboffice": "কাজলা",
+      "postcode": "৬২০৪"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Rajshahi Sadar",
+      "suboffice": "Kazla",
+      "postcode": 6204
+    }
+  },
+  "6205": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "রাজশাহী সদর",
+      "suboffice": "রাজশাহী বিশ্ববিদ্যালয়",
+      "postcode": "৬২০৫"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Rajshahi Sadar",
+      "suboffice": "Rajshahi University",
+      "postcode": 6205
+    }
+  },
+  "6206": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "রাজশাহী সদর",
+      "suboffice": "বিনোদপুর বাজার",
+      "postcode": "৬২০৬"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Rajshahi Sadar",
+      "suboffice": "Binodpur Bazar",
+      "postcode": 6206
+    }
+  },
+  "6210": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "দর্শনপাড়া",
+      "suboffice": "দর্শনপাড়া",
+      "postcode": "৬২১০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Lalitganj",
+      "suboffice": "Lalitganj",
+      "postcode": 6210
+    }
+  },
+  "6211": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "ললিতগঞ্জ",
+      "suboffice": "রাজশাহী চিনিকল",
+      "postcode": "৬২১১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Lalitganj",
+      "suboffice": "Rajshahi Sugar Mills",
+      "postcode": 6211
+    }
+  },
+  "6212": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "ললিতগঞ্জ",
+      "suboffice": "শ্যামপুর",
+      "postcode": "৬২১২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Lalitganj",
+      "suboffice": "Shyampur",
+      "postcode": 6212
+    }
+  },
+  "6220": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "খোদমোহনপুর",
+      "suboffice": "খোদমোহনপুর",
+      "postcode": "৬২২০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Khod Mohanpur",
+      "suboffice": "Khodmohanpur",
+      "postcode": 6220
+    }
+  },
+  "6230": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "তানোর",
+      "suboffice": "তানোর",
+      "postcode": "৬২৩০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Tanor",
+      "suboffice": "Tanor",
+      "postcode": 6230
+    }
+  },
+  "6240": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "দুর্গাপুর",
+      "suboffice": "দুর্গাপুর",
+      "postcode": "৬২৪০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Durgapur",
+      "suboffice": "Durgapur",
+      "postcode": 6240
+    }
+  },
+  "6250": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "ভবানীগঞ্জ",
+      "suboffice": "ভবানীগঞ্জ",
+      "postcode": "৬২৫০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Bagmara",
+      "suboffice": "Bhabaniganj",
+      "postcode": 6250
+    }
+  },
+  "6251": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "ভবানীগঞ্জ",
+      "suboffice": "তাহেরপুর",
+      "postcode": "৬২৫১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Bagmara",
+      "suboffice": "Taharpur",
+      "postcode": 6251
+    }
+  },
+  "6260": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "পুঠিয়া",
+      "suboffice": "পুঠিয়া",
+      "postcode": "৬২৬০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Putia",
+      "suboffice": "Putia",
+      "postcode": 6260
+    }
+  },
+  "6270": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "চারঘাট",
+      "suboffice": "চারঘাট",
+      "postcode": "৬২৭০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Charghat",
+      "suboffice": "Charghat",
+      "postcode": 6270
+    }
+  },
+  "6271": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "চারঘাট",
+      "suboffice": "সারদা",
+      "postcode": "৬২৭১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Charghat",
+      "suboffice": "Sarda",
+      "postcode": 6271
+    }
+  },
+  "6280": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "বাঘা",
+      "suboffice": "বাঘা",
+      "postcode": "৬২৮০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Bagha",
+      "suboffice": "Bagha",
+      "postcode": 6280
+    }
+  },
+  "6281": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "বাঘা",
+      "suboffice": "আড়ানী",
+      "postcode": "৬২৮১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Bagha",
+      "suboffice": "Arani",
+      "postcode": 6281
+    }
+  },
+  "6290": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "গোদাগাড়ী",
+      "suboffice": "গোদাগাড়ী",
+      "postcode": "৬২৯০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Godagari",
+      "suboffice": "Godagari",
+      "postcode": 6290
+    }
+  },
+  "6291": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "রাজশাহী",
+      "thana": "গোদাগাড়ী",
+      "suboffice": "প্রেমতলী",
+      "postcode": "৬২৯১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Rajshahi",
+      "thana": "Godagari",
+      "suboffice": "Premtoli",
+      "postcode": 6291
+    }
+  }
+}

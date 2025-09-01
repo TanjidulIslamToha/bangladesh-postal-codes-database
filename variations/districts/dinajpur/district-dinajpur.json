@@ -1,0 +1,306 @@
+{
+  "5200": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "দিনাজপুর সদর",
+      "suboffice": "দিনাজপুর সদর",
+      "postcode": "৫২০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Dinajpur Sadar",
+      "suboffice": "Dinajpur Sadar",
+      "postcode": 5200
+    }
+  },
+  "5201": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "দিনাজপুর সদর",
+      "suboffice": "দিনাজপুর রাজবাড়ী",
+      "postcode": "৫২০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Dinajpur Sadar",
+      "suboffice": "Dinajpur Rajbari",
+      "postcode": 5201
+    }
+  },
+  "5210": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "বিরল",
+      "suboffice": "বিরল",
+      "postcode": "৫২১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Biral",
+      "suboffice": "Biral",
+      "postcode": 5210
+    }
+  },
+  "5216": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "সেতাবগঞ্জ",
+      "suboffice": "সেতাবগঞ্জ",
+      "postcode": "৫২১৬"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Setabganj",
+      "suboffice": "Setabganj",
+      "postcode": 5216
+    }
+  },
+  "5220": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "বীরগঞ্জ",
+      "suboffice": "বীরগঞ্জ",
+      "postcode": "৫২২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Birganj",
+      "suboffice": "Birganj",
+      "postcode": 5220
+    }
+  },
+  "5226": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "মহারাজগঞ্জ",
+      "suboffice": "মহারাজগঞ্জ",
+      "postcode": "৫২২৬"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Maharajganj",
+      "suboffice": "Maharajganj",
+      "postcode": 5226
+    }
+  },
+  "5230": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "খানসামা",
+      "suboffice": "খানসামা",
+      "postcode": "৫২৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Khansama",
+      "suboffice": "Khansama",
+      "postcode": 5230
+    }
+  },
+  "5231": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "খানসামা",
+      "suboffice": "পাকেরহাট",
+      "postcode": "৫২৩১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Khansama",
+      "suboffice": "Pakarhat",
+      "postcode": 5231
+    }
+  },
+  "5240": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "চিরিরবন্দর",
+      "suboffice": "চিরিরবন্দর",
+      "postcode": "৫২৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Chirirbandar",
+      "suboffice": "Chirirbandar",
+      "postcode": 5240
+    }
+  },
+  "5241": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "চিরিরবন্দর",
+      "suboffice": "রাণীরবন্দর",
+      "postcode": "৫২৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Chirirbandar",
+      "suboffice": "Ranirbandar",
+      "postcode": 5241
+    }
+  },
+  "5250": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "পার্বতীপুর",
+      "suboffice": "পার্বতীপুর",
+      "postcode": "৫২৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Parbatipur",
+      "suboffice": "Parbatipur",
+      "postcode": 5250
+    }
+  },
+  "5260": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "ফুলবাড়ী",
+      "suboffice": "ফুলবাড়ী",
+      "postcode": "৫২৬০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Phulbari",
+      "suboffice": "Phulbari",
+      "postcode": 5260
+    }
+  },
+  "5266": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "বিরামপুর",
+      "suboffice": "বিরামপুর",
+      "postcode": "৫২৬৬"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Mohakhali",
+      "suboffice": "Birampur",
+      "postcode": 5266
+    }
+  },
+  "5270": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "বাংলা হিলি",
+      "suboffice": "বাংলা হিলি",
+      "postcode": "৫২৭০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Bangla Hili",
+      "suboffice": "Bangla Hili",
+      "postcode": 5270
+    }
+  },
+  "5280": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "নবাবগঞ্জ",
+      "postcode": "৫২৮০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Nawabganj",
+      "suboffice": "Nawabganj",
+      "postcode": 5280
+    }
+  },
+  "5281": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "দাউদপুর",
+      "postcode": "৫২৮১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Nawabganj",
+      "suboffice": "Daudpur",
+      "postcode": 5281
+    }
+  },
+  "5282": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "গোপালপুর",
+      "postcode": "৫২৮২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Nawabganj",
+      "suboffice": "Gopalpur",
+      "postcode": 5282
+    }
+  },
+  "5290": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "ওসমানপুর",
+      "suboffice": "ওসমানপুর",
+      "postcode": "৫২৯০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Ghoraghat",
+      "suboffice": "Osmanpur",
+      "postcode": 5290
+    }
+  },
+  "5291": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "ওসমানপুর",
+      "suboffice": "ঘোড়াঘাট",
+      "postcode": "৫২৯১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Ghoraghat",
+      "suboffice": "Ghoraghat",
+      "postcode": 5291
+    }
+  }
+}

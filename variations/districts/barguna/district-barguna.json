@@ -1,0 +1,130 @@
+{
+  "8700": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বরগুনা সদর",
+      "suboffice": "বরগুনা সদর",
+      "postcode": "৮৭০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Barguna Sadar",
+      "suboffice": "Barguna Sadar",
+      "postcode": 8700
+    }
+  },
+  "8701": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বরগুনা সদর",
+      "suboffice": "নালি বন্দর",
+      "postcode": "৮৭০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Barguna Sadar",
+      "suboffice": "Nali Bandar",
+      "postcode": 8701
+    }
+  },
+  "8710": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "আমতলী",
+      "suboffice": "আমতলী",
+      "postcode": "৮৭১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Amtali",
+      "suboffice": "Amtali",
+      "postcode": 8710
+    }
+  },
+  "8720": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "পাথরঘাটা",
+      "suboffice": "পাথরঘাটা",
+      "postcode": "৮৭২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Patharghata",
+      "suboffice": "Patharghata",
+      "postcode": 8720
+    }
+  },
+  "8721": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "পাথরঘাটা",
+      "suboffice": "কাকচিড়া",
+      "postcode": "৮৭২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Patharghata",
+      "suboffice": "Kakchira",
+      "postcode": 8721
+    }
+  },
+  "8730": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বামনা",
+      "suboffice": "বামনা",
+      "postcode": "৮৭৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Bamna",
+      "suboffice": "Bamna",
+      "postcode": 8730
+    }
+  },
+  "8740": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বেতাগী",
+      "suboffice": "বেতাগী",
+      "postcode": "৮৭৪০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Betagi",
+      "suboffice": "Betagi",
+      "postcode": 8740
+    }
+  },
+  "8741": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "বরগুনা",
+      "thana": "বেতাগী",
+      "suboffice": "দারুল ঊলম",
+      "postcode": "৮৭৪১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Barguna",
+      "thana": "Betagi",
+      "suboffice": "Darul Ulam",
+      "postcode": 8741
+    }
+  }
+}

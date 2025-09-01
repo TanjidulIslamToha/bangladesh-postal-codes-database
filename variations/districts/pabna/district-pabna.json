@@ -1,0 +1,290 @@
+{
+  "6600": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "পাবনা সদর",
+      "suboffice": "পাবনা সদর",
+      "postcode": "৬৬০০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Pabna Sadar",
+      "suboffice": "Pabna Sadar",
+      "postcode": 6600
+    }
+  },
+  "6601": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "পাবনা সদর",
+      "suboffice": "কালিকো কটন মিলস",
+      "postcode": "৬৬০১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Pabna Sadar",
+      "suboffice": "Kaliko Cotton Mills",
+      "postcode": 6601
+    }
+  },
+  "6602": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "পাবনা সদর",
+      "suboffice": "হেমায়েতপুর",
+      "postcode": "৬৬০২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Pabna Sadar",
+      "suboffice": "Hamayetpur",
+      "postcode": 6602
+    }
+  },
+  "6610": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "আটঘরিয়া",
+      "suboffice": "আটঘরিয়া",
+      "postcode": "৬৬১০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Atghoria",
+      "suboffice": "Atghoria",
+      "postcode": 6610
+    }
+  },
+  "6620": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "ঈশ্বরদী",
+      "suboffice": "ঈশ্বরদী",
+      "postcode": "৬৬২০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Ishwardi",
+      "suboffice": "Ishwardi",
+      "postcode": 6620
+    }
+  },
+  "6621": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "ঈশ্বরদী",
+      "suboffice": "ধাপারী",
+      "postcode": "৬৬২১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Ishwardi",
+      "suboffice": "Dhapari",
+      "postcode": 6621
+    }
+  },
+  "6622": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "ঈশ্বরদী",
+      "suboffice": "পাকশী",
+      "postcode": "৬৬২২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Ishwardi",
+      "suboffice": "Pakshi",
+      "postcode": 6622
+    }
+  },
+  "6623": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "ঈশ্বরদী",
+      "suboffice": "রাজাপুর",
+      "postcode": "৬৬২৩"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Ishwardi",
+      "suboffice": "Rajapur",
+      "postcode": 6623
+    }
+  },
+  "6630": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "চাটমোহর",
+      "suboffice": "চাটমোহর",
+      "postcode": "৬৬৩০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Chatmohar",
+      "suboffice": "Chatmohar",
+      "postcode": 6630
+    }
+  },
+  "6640": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "ভাঙ্গুরা",
+      "suboffice": "ভাঙ্গুরা",
+      "postcode": "৬৬৪০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Bhangura",
+      "suboffice": "Bhangura",
+      "postcode": 6640
+    }
+  },
+  "6650": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "ফরিদপুর",
+      "suboffice": "ফরিদপুর",
+      "postcode": "৬৬৫০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Banwarinagar",
+      "suboffice": "Banwarinagar",
+      "postcode": 6650
+    }
+  },
+  "6660": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "সুজানগর",
+      "suboffice": "সুজানগর",
+      "postcode": "৬৬৬০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Sujanagar",
+      "suboffice": "Sujanagar",
+      "postcode": 6660
+    }
+  },
+  "6661": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "সুজানগর",
+      "suboffice": "সাগরকান্দি",
+      "postcode": "৬৬৬১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Sujanagar",
+      "suboffice": "Sagarkandi",
+      "postcode": 6661
+    }
+  },
+  "6670": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "সাঁথিয়া",
+      "suboffice": "সাঁথিয়া",
+      "postcode": "৬৬৭০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Sathia",
+      "suboffice": "Sathia",
+      "postcode": 6670
+    }
+  },
+  "6680": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "বেড়া",
+      "suboffice": "বেড়া",
+      "postcode": "৬৬৮০"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Bera",
+      "suboffice": "Bera",
+      "postcode": 6680
+    }
+  },
+  "6681": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "বেড়া",
+      "suboffice": "নাকালিয়া",
+      "postcode": "৬৬৮১"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Bera",
+      "suboffice": "Nakalia",
+      "postcode": 6681
+    }
+  },
+  "6682": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "বেড়া",
+      "suboffice": "কাশিনাথপুর",
+      "postcode": "৬৬৮২"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Bera",
+      "suboffice": "Kashinathpur",
+      "postcode": 6682
+    }
+  },
+  "6683": {
+    "bn": {
+      "division": "রাজশাহী",
+      "district": "পাবনা",
+      "thana": "বেড়া",
+      "suboffice": "পুরান ভারেঙ্গা",
+      "postcode": "৬৬৮৩"
+    },
+    "en": {
+      "division": "Rajshahi",
+      "district": "Pabna",
+      "thana": "Bera",
+      "suboffice": "Puran Bharenga",
+      "postcode": 6683
+    }
+  }
+}

@@ -1,0 +1,3923 @@
+{
+  "Dhaka GPO": [
+    1000
+  ],
+  "Dhaka Sadar HO": [
+    1100
+  ],
+  "Wari TSO": [
+    1203
+  ],
+  "Gandaria TSO": [
+    1204
+  ],
+  "Kalabagan": [
+    1205
+  ],
+  "Dhaka Cantonment-TSO": [
+    1206
+  ],
+  "Mohammadpur Housing": [
+    1207
+  ],
+  "Dhaka Politechnic": [
+    1208
+  ],
+  "Jigatala TSO": [
+    1209
+  ],
+  "Posta TSO": [
+    1211
+  ],
+  "Dhania TSO": [
+    1212,
+    1236
+  ],
+  "Banani TSO": [
+    1213
+  ],
+  "Basabo TSO": [
+    1214
+  ],
+  "Tejgaon TSO": [
+    1215
+  ],
+  "Mirpur TSO": [
+    1216
+  ],
+  "Shantinagr TSO": [
+    1217
+  ],
+  "KhilgaonTSO": [
+    1219
+  ],
+  "BangabhabanTSO": [
+    1222
+  ],
+  "DilkushaTSO": [
+    1223
+  ],
+  "Sangsad BhabanTSO": [
+    1225
+  ],
+  "KhilkhetTSO": [
+    1229
+  ],
+  "Uttara Model Town TSO": [
+    1230
+  ],
+  "Keraniganj": [
+    1310
+  ],
+  "Dhaka Jute Mills": [
+    1311
+  ],
+  "Ati": [
+    1312
+  ],
+  "Kalatia": [
+    1313
+  ],
+  "Nawabganj": [
+    1320,
+    5280
+  ],
+  "Hasnabad": [
+    1321
+  ],
+  "Daudpur": [
+    1322,
+    5281
+  ],
+  "Agla": [
+    1323
+  ],
+  "Khalpar": [
+    1324
+  ],
+  "Churain": [
+    1325
+  ],
+  "Joypara": [
+    1330
+  ],
+  "Palamganj": [
+    1331
+  ],
+  "Narisha": [
+    1332
+  ],
+  "Haridia": [
+    1333
+  ],
+  "Madini Mandal": [
+    1335
+  ],
+  "Savar": [
+    1340
+  ],
+  "Dairy Farm": [
+    1341
+  ],
+  "Jahangirnagar University": [
+    1342
+  ],
+  "Saver P.A.T.C": [
+    1343
+  ],
+  "Savar Canttonment": [
+    1344
+  ],
+  "Shimulia": [
+    1345
+  ],
+  "Kashem Cotton Mills": [
+    1346
+  ],
+  "Rajphulbaria": [
+    1347
+  ],
+  "Amin Bazar": [
+    1348
+  ],
+  "EPZ": [
+    1349
+  ],
+  "Dhamrai": [
+    1350
+  ],
+  "Kamalpur": [
+    1351
+  ],
+  "Demra": [
+    1360
+  ],
+  "Sarulia": [
+    1361
+  ],
+  "Matuail": [
+    1362
+  ],
+  "Narayanganj Sadar": [
+    1400
+  ],
+  "Bandar": [
+    1410
+  ],
+  "D.C Mills": [
+    1411
+  ],
+  "Nabiganj": [
+    1412,
+    3370
+  ],
+  "BIDS": [
+    1413
+  ],
+  "Madanganj": [
+    1414
+  ],
+  "Fatullah": [
+    1420
+  ],
+  "Fatulla Bazar": [
+    1421
+  ],
+  "Siddhirganj": [
+    1430
+  ],
+  "Adamjeenagar": [
+    1431
+  ],
+  "LN Mills": [
+    1432
+  ],
+  "Baidder Bazar": [
+    1440,
+    1451
+  ],
+  "Bara Nagar": [
+    1441
+  ],
+  "Barodi": [
+    1442
+  ],
+  "Araihazar": [
+    1450
+  ],
+  "Rupganj": [
+    1460
+  ],
+  "Kanchan": [
+    1461
+  ],
+  "Bhulta": [
+    1462
+  ],
+  "Nagri": [
+    1463
+  ],
+  "Murapara": [
+    1464
+  ],
+  "Munshiganj Sadar": [
+    1500
+  ],
+  "Rikabibazar": [
+    1501
+  ],
+  "Mirkadim": [
+    1502
+  ],
+  "Kathakhali": [
+    1503
+  ],
+  "Gajaria": [
+    1510,
+    8332
+  ],
+  "Hossendi": [
+    1511
+  ],
+  "Gouragonj": [
+    1512,
+    1534
+  ],
+  "Tangibari": [
+    1520
+  ],
+  "Betkahat": [
+    1521
+  ],
+  "Baligao": [
+    1522
+  ],
+  "Bajrajugini": [
+    1523
+  ],
+  "Hasail": [
+    1524
+  ],
+  "Dighirpar": [
+    1525
+  ],
+  "Pura EDSO": [
+    1526
+  ],
+  "Pura": [
+    1527
+  ],
+  "Lohajang": [
+    1530
+  ],
+  "Korhati": [
+    1531
+  ],
+  "Haldia SO": [
+    1532
+  ],
+  "Haridia DESO": [
+    1533
+  ],
+  "Sirajdikhan": [
+    1540
+  ],
+  "Kola": [
+    1541
+  ],
+  "Ichapur": [
+    1542
+  ],
+  "Malkha Nagar": [
+    1543
+  ],
+  "Shekher Nagar": [
+    1544
+  ],
+  "Sreenagar": [
+    1550
+  ],
+  "Rarikhal": [
+    1551
+  ],
+  "Maijpara": [
+    1552
+  ],
+  "Hashara": [
+    1553
+  ],
+  "Kolapara": [
+    1554
+  ],
+  "Kumarbhog": [
+    1555
+  ],
+  "Vaggyakul SO": [
+    1556
+  ],
+  "Baghra": [
+    1557
+  ],
+  "Bhaggyakul": [
+    1558
+  ],
+  "Narsingdi Sadar": [
+    1600
+  ],
+  "UMC Jute Mills": [
+    1601
+  ],
+  "Narsingdi College": [
+    1602
+  ],
+  "Panchdona": [
+    1603
+  ],
+  "Madhabdi": [
+    1604
+  ],
+  "Karimpur": [
+    1605,
+    3235
+  ],
+  "Palash": [
+    1610
+  ],
+  "Sarkarkhana": [
+    1611
+  ],
+  "Char Sindhur": [
+    1612
+  ],
+  "Ghorashal": [
+    1613
+  ],
+  "Shibpur": [
+    1620
+  ],
+  "Raipur": [
+    1630,
+    3710,
+    6701
+  ],
+  "Bazar Hasnabad": [
+    1631
+  ],
+  "Radhaganj bazar": [
+    1632
+  ],
+  "Belabo": [
+    1640
+  ],
+  "Monohordi": [
+    1650
+  ],
+  "Hatirdia": [
+    1651
+  ],
+  "Katabaria": [
+    1652
+  ],
+  "Gazipur Sadar": [
+    1700
+  ],
+  "B.R.R": [
+    1701
+  ],
+  "Chandna": [
+    1702
+  ],
+  "B.O.F": [
+    1703
+  ],
+  "National University": [
+    1704
+  ],
+  "Monnunagar": [
+    1710
+  ],
+  "Nishat Nagar": [
+    1711
+  ],
+  "Ershad Nagar": [
+    1712
+  ],
+  "Kaliganj": [
+    1720,
+    9440
+  ],
+  "Pubail": [
+    1721
+  ],
+  "Santanpara": [
+    1722
+  ],
+  "Vaoal Jamalpur": [
+    1723
+  ],
+  "kapashia": [
+    1730
+  ],
+  "Tengra": [
+    1740,
+    7610
+  ],
+  "Rajendrapur": [
+    1741
+  ],
+  "Rajendrapur Cantonment": [
+    1742
+  ],
+  "Barmi": [
+    1743
+  ],
+  "Satkhamair": [
+    1744
+  ],
+  "Kawraid": [
+    1745
+  ],
+  "Bashamur": [
+    1747
+  ],
+  "Boubi": [
+    1748
+  ],
+  "Kaliakaar": [
+    1750
+  ],
+  "Safipur": [
+    1751
+  ],
+  "Manikganj Sadar": [
+    1800
+  ],
+  "Manikganj Bazar": [
+    1801
+  ],
+  "Gorpara": [
+    1802
+  ],
+  "Mahadebpur": [
+    1803,
+    6530
+  ],
+  "Barangail": [
+    1804
+  ],
+  "Saturia": [
+    1810
+  ],
+  "Baliati": [
+    1811
+  ],
+  "Singair": [
+    1820
+  ],
+  "Baira": [
+    1821
+  ],
+  "joymantop": [
+    1822
+  ],
+  "Barhamganj": [
+    1830,
+    7930
+  ],
+  "Jhitka": [
+    1831
+  ],
+  "Ghior": [
+    1840
+  ],
+  "Shibaloy": [
+    1850
+  ],
+  "Aricha": [
+    1851
+  ],
+  "Tewta": [
+    1852
+  ],
+  "Uthli": [
+    1853
+  ],
+  "Doulatpur": [
+    1860,
+    3132,
+    7050,
+    9202
+  ],
+  "Tangail Sadar": [
+    1900
+  ],
+  "Kagmari": [
+    1901
+  ],
+  "Santosh": [
+    1902
+  ],
+  "Korotia": [
+    1903
+  ],
+  "Purabari": [
+    1904
+  ],
+  "Delduar": [
+    1910
+  ],
+  "Jangalia": [
+    1911
+  ],
+  "Patharail": [
+    1912
+  ],
+  "Elasin": [
+    1913
+  ],
+  "Hinga Nagar": [
+    1914
+  ],
+  "Lowhati": [
+    1915
+  ],
+  "Basail": [
+    1920
+  ],
+  "Kashkawlia": [
+    1930
+  ],
+  "Nagarpur": [
+    1936
+  ],
+  "Dhuburia": [
+    1937
+  ],
+  "Salimabad": [
+    1938
+  ],
+  "Mirzapur": [
+    1940,
+    4334,
+    5041
+  ],
+  "Gorai": [
+    1941
+  ],
+  "M.C. College": [
+    1942
+  ],
+  "Warri paikpara": [
+    1943
+  ],
+  "Jarmuki": [
+    1944
+  ],
+  "Mohera": [
+    1945
+  ],
+  "Sakhipur": [
+    1950
+  ],
+  "Kachua": [
+    1951,
+    3630,
+    9310
+  ],
+  "Bhuapur": [
+    1960
+  ],
+  "Kalihati": [
+    1970
+  ],
+  "Rajafair": [
+    1971
+  ],
+  "Nagbari": [
+    1972
+  ],
+  "Ballabazar": [
+    1973
+  ],
+  "Elinga": [
+    1974
+  ],
+  "Palisha": [
+    1975
+  ],
+  "Nagarbari SO": [
+    1976
+  ],
+  "Nagarbari": [
+    1977
+  ],
+  "Ghatial": [
+    1980
+  ],
+  "Zahidganj": [
+    1981
+  ],
+  "D. Pakutia": [
+    1982
+  ],
+  "Dhalapara": [
+    1983
+  ],
+  "Lohani": [
+    1984
+  ],
+  "Gopalpur": [
+    1990,
+    3828,
+    5282
+  ],
+  "Chatutia": [
+    1991
+  ],
+  "Hemnagar": [
+    1992
+  ],
+  "Madhupur": [
+    1996
+  ],
+  "Dhonbari": [
+    1997
+  ],
+  "Jalalpur": [
+    2000,
+    2011
+  ],
+  "Nandina": [
+    2001
+  ],
+  "Narundi": [
+    2002
+  ],
+  "Melandah": [
+    2010
+  ],
+  "Malancha": [
+    2012
+  ],
+  "Mahmudpur": [
+    2013
+  ],
+  "Islampur": [
+    2020
+  ],
+  "Durmoot": [
+    2021
+  ],
+  "Gilabari": [
+    2022
+  ],
+  "Dewangonj S. Mills": [
+    2030,
+    2031
+  ],
+  "Madarganj": [
+    2040
+  ],
+  "Balijhuri": [
+    2041
+  ],
+  "Sharishabari": [
+    2050
+  ],
+  "Adarvita": [
+    2051
+  ],
+  "Bausee": [
+    2052
+  ],
+  "Jagannath Ghat": [
+    2053
+  ],
+  "Pingna": [
+    2054
+  ],
+  "Jamuna Sar Karkhana": [
+    2055
+  ],
+  "Sherpur Shadar": [
+    2100
+  ],
+  "Nalitabari": [
+    2110
+  ],
+  "Hatibandha": [
+    2111,
+    5530
+  ],
+  "Jhinaigati": [
+    2120
+  ],
+  "Shribardi": [
+    2130
+  ],
+  "Bakshigonj": [
+    2140
+  ],
+  "Nakla": [
+    2150
+  ],
+  "Gonopaddi": [
+    2151
+  ],
+  "Mymensingh Sadar": [
+    2200
+  ],
+  "Kawatkhali": [
+    2201
+  ],
+  "Agriculture Universi": [
+    2202
+  ],
+  "Shombhuganj": [
+    2203
+  ],
+  "Biddyaganj": [
+    2204
+  ],
+  "Pearpur": [
+    2205
+  ],
+  "Muktagachha": [
+    2210
+  ],
+  "Fulbaria": [
+    2216
+  ],
+  "Trishal": [
+    2220
+  ],
+  "Ahmadbad": [
+    2221
+  ],
+  "Ram Amritaganj": [
+    2222
+  ],
+  "Dhala": [
+    2223
+  ],
+  "Gaforgaon": [
+    2230
+  ],
+  "Shibganj": [
+    2231,
+    5102,
+    5810
+  ],
+  "Usti": [
+    2232
+  ],
+  "Kandipara": [
+    2233
+  ],
+  "Dobasia": [
+    2234
+  ],
+  "Bhaluka": [
+    2240
+  ],
+  "Phulpur": [
+    2250
+  ],
+  "Beltia": [
+    2251
+  ],
+  "Tarakanda": [
+    2252
+  ],
+  "Haluaghat": [
+    2260
+  ],
+  "Dhara": [
+    2261
+  ],
+  "Munshirhat": [
+    2262,
+    3943
+  ],
+  "Gouripur": [
+    2270,
+    3517
+  ],
+  "Ramgopalpur": [
+    2271
+  ],
+  "Isshwargonj": [
+    2280
+  ],
+  "Sohagi": [
+    2281
+  ],
+  "Atharabari": [
+    2282
+  ],
+  "Nandail": [
+    2290
+  ],
+  "Gangail": [
+    2291
+  ],
+  "Kishoreganj Sadar": [
+    2300
+  ],
+  "Kishoreganj S.Mills": [
+    2301
+  ],
+  "Maizhati": [
+    2302
+  ],
+  "Nilganj": [
+    2303
+  ],
+  "Karimganj": [
+    2310
+  ],
+  "Tarail": [
+    2316
+  ],
+  "Hossenpur": [
+    2320
+  ],
+  "Pakundia": [
+    2326
+  ],
+  "Katiadi": [
+    2330
+  ],
+  "Gochhihata": [
+    2331
+  ],
+  "Bajitpur": [
+    2336
+  ],
+  "Sararchar": [
+    2337
+  ],
+  "Laksmipur": [
+    2338
+  ],
+  "Kuliarchar": [
+    2340
+  ],
+  "Chhoysuti": [
+    2341
+  ],
+  "Bhairab": [
+    2350
+  ],
+  "Nikli": [
+    2360
+  ],
+  "MIthamoin": [
+    2370
+  ],
+  "Abdullahpur": [
+    2371
+  ],
+  "Ostagram": [
+    2380
+  ],
+  "Itna": [
+    2390,
+    7512
+  ],
+  "Netrakona Sadar": [
+    2400
+  ],
+  "Baikherhati": [
+    2401
+  ],
+  "Purbadhola": [
+    2410
+  ],
+  "Shamganj": [
+    2411
+  ],
+  "Jaria Jhanjhail": [
+    2412
+  ],
+  "Dhobaura": [
+    2416
+  ],
+  "Sakoai": [
+    2417
+  ],
+  "Susnng Durgapur": [
+    2420
+  ],
+  "Kalmakanda": [
+    2430
+  ],
+  "Barhatta": [
+    2440
+  ],
+  "Mohanganj": [
+    2446
+  ],
+  "Dharampasha": [
+    2450
+  ],
+  "Moddoynagar": [
+    2456
+  ],
+  "Khaliajhri": [
+    2460
+  ],
+  "Shaldigha": [
+    2462
+  ],
+  "Atpara": [
+    2470
+  ],
+  "Kendua": [
+    2480
+  ],
+  "Madan": [
+    2490
+  ],
+  "Sunamganj Sadar": [
+    3000
+  ],
+  "Pagla": [
+    3001
+  ],
+  "Patharia": [
+    3002
+  ],
+  "Bishamsapur": [
+    3010
+  ],
+  "Sachna": [
+    3020
+  ],
+  "Tahirpur": [
+    3030
+  ],
+  "Dhirai Chandpur": [
+    3040
+  ],
+  "Jagdal": [
+    3041
+  ],
+  "Ghungiar": [
+    3050
+  ],
+  "Jagnnathpur": [
+    3060
+  ],
+  "Saidpur": [
+    3061,
+    5310
+  ],
+  "Atuajan": [
+    3062
+  ],
+  "Hasan Fatemapur": [
+    3063
+  ],
+  "Rasulganj": [
+    3064
+  ],
+  "Shiramsi": [
+    3065
+  ],
+  "Duara bazar": [
+    3070
+  ],
+  "Chhatak": [
+    3080
+  ],
+  "Chhatak Cement Facto": [
+    3081
+  ],
+  "Chhatak Paper Mills": [
+    3082
+  ],
+  "Gabindaganj": [
+    3083,
+    5740
+  ],
+  "Gabindaganj Natun Ba": [
+    3084
+  ],
+  "Khurma": [
+    3085
+  ],
+  "Moinpur": [
+    3086
+  ],
+  "jahidpur": [
+    3087
+  ],
+  "Islamabad": [
+    3088
+  ],
+  "Sylhet Sadar": [
+    3100
+  ],
+  "Mangal Kandi": [
+    3101
+  ],
+  "Sylhet Biman Bondar": [
+    3102
+  ],
+  "Khadimnagar": [
+    3103
+  ],
+  "Jalalabad Cantoment": [
+    3104
+  ],
+  "Silam": [
+    3105
+  ],
+  "Birahimpur": [
+    3106
+  ],
+  "Jalalabad": [
+    3107,
+    4214
+  ],
+  "Mogla": [
+    3108
+  ],
+  "Ranga Hajiganj": [
+    3109
+  ],
+  "Kadamtali": [
+    3111
+  ],
+  "Kamalbazer": [
+    3112
+  ],
+  "Lalbazar": [
+    3113
+  ],
+  "Shahajalal Science &amp;": [
+    3114
+  ],
+  "Fenchuganj": [
+    3116
+  ],
+  "Fenchuganj SareKarkh": [
+    3117
+  ],
+  "Balaganj": [
+    3120
+  ],
+  "Karua": [
+    3121
+  ],
+  "Brahman Shashon": [
+    3122
+  ],
+  "Tajpur": [
+    3123
+  ],
+  "Goala Bazar": [
+    3124
+  ],
+  "Begumpur": [
+    3125
+  ],
+  "Omarpur": [
+    3126
+  ],
+  "Kathal Khair": [
+    3127
+  ],
+  "Gaharpur": [
+    3128
+  ],
+  "Natun Bazar": [
+    3129
+  ],
+  "Bishwanath": [
+    3130
+  ],
+  "Dashghar": [
+    3131
+  ],
+  "Deokalas": [
+    3133
+  ],
+  "Singer kanch": [
+    3134
+  ],
+  "Companyganj": [
+    3140,
+    3542
+  ],
+  "Goainghat": [
+    3150
+  ],
+  "Jaflong": [
+    3151
+  ],
+  "Chiknagul": [
+    3152
+  ],
+  "Jaintapur": [
+    3156
+  ],
+  "Golapganj": [
+    3160
+  ],
+  "Dhaka Dakkshin": [
+    3161
+  ],
+  "Dakkhin Bhadashore": [
+    3162
+  ],
+  "Ranaping": [
+    3163
+  ],
+  "Banigram": [
+    3164,
+    4393
+  ],
+  "Chandanpur": [
+    3165,
+    9415
+  ],
+  "Bianibazar": [
+    3170
+  ],
+  "jaldup": [
+    3171
+  ],
+  "Mathiura": [
+    3172
+  ],
+  "Kurar bazar": [
+    3173
+  ],
+  "Salia bazar": [
+    3174
+  ],
+  "Churkai": [
+    3175
+  ],
+  "Kanaighat": [
+    3180
+  ],
+  "Chatulbazar": [
+    3181
+  ],
+  "Manikganj": [
+    3182
+  ],
+  "Gachbari": [
+    3183
+  ],
+  "Jakiganj": [
+    3190
+  ],
+  "Ichhamati": [
+    3191
+  ],
+  "Moulvibazar Sadar": [
+    3200
+  ],
+  "Barakapan": [
+    3201
+  ],
+  "Monumukh": [
+    3202
+  ],
+  "Afrozganj": [
+    3203
+  ],
+  "Srimangal": [
+    3210
+  ],
+  "Narain Chora": [
+    3211
+  ],
+  "Kalighat": [
+    3212
+  ],
+  "Khejurichhara": [
+    3213
+  ],
+  "Satgaon": [
+    3214
+  ],
+  "Kamalganj": [
+    3220
+  ],
+  "Keramatnaga": [
+    3221
+  ],
+  "Patrakhola": [
+    3222
+  ],
+  "Shamsher Nagar": [
+    3223
+  ],
+  "Munshibazar": [
+    3224
+  ],
+  "Kulaura": [
+    3230
+  ],
+  "Tillagaon": [
+    3231
+  ],
+  "Langla": [
+    3232
+  ],
+  "Prithimpasha": [
+    3233
+  ],
+  "Kajaldhara": [
+    3234
+  ],
+  "Baramchal": [
+    3237
+  ],
+  "Rajnagar": [
+    3240
+  ],
+  "Baralekha": [
+    3250
+  ],
+  "Juri": [
+    3251
+  ],
+  "Dhakkhinbag": [
+    3252
+  ],
+  "Purbashahabajpur": [
+    3253
+  ],
+  "Habiganj Sadar": [
+    3300
+  ],
+  "Shaestaganj": [
+    3301
+  ],
+  "Gopaya": [
+    3302
+  ],
+  "Bahubal": [
+    3310
+  ],
+  "Chunarughat": [
+    3320
+  ],
+  "Chandpurbagan": [
+    3321
+  ],
+  "Narapati": [
+    3322
+  ],
+  "Madhabpur": [
+    3330
+  ],
+  "Itakhola": [
+    3331
+  ],
+  "Shahajibazar": [
+    3332
+  ],
+  "Saihamnagar": [
+    3333
+  ],
+  "Kalauk": [
+    3340
+  ],
+  "Lakhai": [
+    3341
+  ],
+  "Baniachang": [
+    3350
+  ],
+  "Jatrapasha": [
+    3351
+  ],
+  "Kadirganj": [
+    3352
+  ],
+  "Azmireeganj": [
+    3360
+  ],
+  "Goplarbazar": [
+    3371
+  ],
+  "Golduba": [
+    3372
+  ],
+  "Digalbak": [
+    3373
+  ],
+  "Inathganj": [
+    3374
+  ],
+  "Brahamanbaria Sadar": [
+    3400
+  ],
+  "Talshahar": [
+    3401
+  ],
+  "Ashuganj": [
+    3402
+  ],
+  "Ashuganj Share": [
+    3403
+  ],
+  "Poun": [
+    3404
+  ],
+  "Nabinagar": [
+    3410
+  ],
+  "Laubfatehpur": [
+    3411
+  ],
+  "Rasullabad": [
+    3412
+  ],
+  "Shamgram": [
+    3413
+  ],
+  "Ratanpur": [
+    3414,
+    9442
+  ],
+  "Shahapur": [
+    3415,
+    9253
+  ],
+  "Kaitala": [
+    3417
+  ],
+  "Salimganj": [
+    3418
+  ],
+  "Jibanganj": [
+    3419
+  ],
+  "Banchharampur": [
+    3420
+  ],
+  "Sarial": [
+    3430
+  ],
+  "Shahbajpur": [
+    3431
+  ],
+  "Chandura": [
+    3432
+  ],
+  "Nasirnagar": [
+    3440
+  ],
+  "Fandauk": [
+    3441
+  ],
+  "Akhaura": [
+    3450
+  ],
+  "Azampur": [
+    3451,
+    4325
+  ],
+  "Gangasagar": [
+    3452
+  ],
+  "Kasba": [
+    3460
+  ],
+  "Kuti": [
+    3461
+  ],
+  "Chandidar": [
+    3462
+  ],
+  "Chargachh": [
+    3463
+  ],
+  "Gopinathpur": [
+    3464
+  ],
+  "Comilla Sadar": [
+    3500
+  ],
+  "Comilla Contoment": [
+    3501
+  ],
+  "Halimanagar": [
+    3502
+  ],
+  "Courtbari": [
+    3503
+  ],
+  "Suaganj": [
+    3504
+  ],
+  "Mohichail": [
+    3510
+  ],
+  "Madhaiabazar": [
+    3511
+  ],
+  "Daudkandi": [
+    3516
+  ],
+  "Dashpara": [
+    3518
+  ],
+  "Eliotganj": [
+    3519
+  ],
+  "Burichang": [
+    3520
+  ],
+  "Maynamoti bazar": [
+    3521
+  ],
+  "Brahmanpara": [
+    3526
+  ],
+  "Davidhar": [
+    3530
+  ],
+  "Gangamandal": [
+    3531
+  ],
+  "Barashalghar": [
+    3532
+  ],
+  "Dhamtee": [
+    3533
+  ],
+  "Muradnagar": [
+    3540
+  ],
+  "Ramchandarpur": [
+    3541,
+    6302
+  ],
+  "Bangra": [
+    3543
+  ],
+  "Sonakanda": [
+    3544
+  ],
+  "Pantibazar": [
+    3545
+  ],
+  "Homna": [
+    3546
+  ],
+  "Chouddagram": [
+    3550
+  ],
+  "Batisa": [
+    3551
+  ],
+  "Chiora": [
+    3552
+  ],
+  "Barura": [
+    3560
+  ],
+  "Poyalgachha": [
+    3561
+  ],
+  "Murdafarganj": [
+    3562
+  ],
+  "Laksam": [
+    3570,
+    3571
+  ],
+  "Bipulasar": [
+    3572
+  ],
+  "Langalkot": [
+    3580
+  ],
+  "Dhalua": [
+    3581
+  ],
+  "Chhariabazar": [
+    3582
+  ],
+  "Gunabati": [
+    3583
+  ],
+  "Chandpur Sadar": [
+    3600
+  ],
+  "Puranbazar": [
+    3601
+  ],
+  "Baburhat": [
+    3602
+  ],
+  "Sahatali": [
+    3603
+  ],
+  "Hajiganj": [
+    3610
+  ],
+  "Bolakhal": [
+    3611
+  ],
+  "UNKILA": [
+    3620
+  ],
+  "Khilabazar": [
+    3621
+  ],
+  "Pashchim Kherihar Al": [
+    3622
+  ],
+  "Chotoshi": [
+    3623
+  ],
+  "Islamia Madrasha": [
+    3624
+  ],
+  "Pak Shrirampur": [
+    3631
+  ],
+  "Rahima Nagar": [
+    3632
+  ],
+  "Shachar": [
+    3633
+  ],
+  "Matlobganj": [
+    3640
+  ],
+  "Mohanpur": [
+    3641
+  ],
+  "Kalipur": [
+    3642
+  ],
+  "Faridganj": [
+    3650
+  ],
+  "Chandra": [
+    3651
+  ],
+  "Rupsha": [
+    3652,
+    9240,
+    9241
+  ],
+  "Gridkaliandia": [
+    3653
+  ],
+  "Rampurbazar": [
+    3654
+  ],
+  "Islampur Shah Isain": [
+    3655
+  ],
+  "Hayemchar": [
+    3660
+  ],
+  "Gandamara": [
+    3661
+  ],
+  "Lakshimpur Sadar": [
+    3700
+  ],
+  "Dalal Bazar": [
+    3701
+  ],
+  "Bhabaniganj": [
+    3702,
+    6250
+  ],
+  "Mandari": [
+    3703
+  ],
+  "Keramatganj": [
+    3704,
+    8342
+  ],
+  "Rupchara": [
+    3705
+  ],
+  "Duttapara": [
+    3706
+  ],
+  "Choupalli": [
+    3707
+  ],
+  "Chandraganj": [
+    3708
+  ],
+  "Amani Lakshimpur": [
+    3709
+  ],
+  "Rakhallia": [
+    3711
+  ],
+  "Nagerdighirpar": [
+    3712
+  ],
+  "Khaser Hat": [
+    3713
+  ],
+  "Bhuiyanbari": [
+    3714
+  ],
+  "Ramganj": [
+    3720
+  ],
+  "Alipur": [
+    3721
+  ],
+  "Panpara": [
+    3722
+  ],
+  "Kanchanpur": [
+    3723
+  ],
+  "Naagmud": [
+    3724
+  ],
+  "Dolta": [
+    3725
+  ],
+  "Char Alexgander": [
+    3730
+  ],
+  "Hajirghat": [
+    3731
+  ],
+  "Ramgatirhat": [
+    3732
+  ],
+  "Noakhali Sadar": [
+    3800
+  ],
+  "Noakhali College": [
+    3801
+  ],
+  "Sonapur": [
+    3802
+  ],
+  "Din Monir Hat": [
+    3803
+  ],
+  "Pak Kishoreganj": [
+    3804
+  ],
+  "Mriddarhat": [
+    3806
+  ],
+  "Kabirhat": [
+    3807
+  ],
+  "Khalifar Hat": [
+    3808
+  ],
+  "Charam Tua": [
+    3809
+  ],
+  "Chaprashir Hat": [
+    3811
+  ],
+  "Char Jabbar": [
+    3812
+  ],
+  "Begumganj": [
+    3820
+  ],
+  "Choumohani": [
+    3821
+  ],
+  "Banglabazar": [
+    3822
+  ],
+  "Mir Owarishpur": [
+    3823
+  ],
+  "Bazra": [
+    3824
+  ],
+  "Jamidar Hat": [
+    3825
+  ],
+  "Sonaimuri": [
+    3827
+  ],
+  "Joynarayanpur": [
+    3829
+  ],
+  "Alaiarpur": [
+    3831
+  ],
+  "Tangirpar": [
+    3832
+  ],
+  "Khalafat Bazar": [
+    3833
+  ],
+  "Rajganj": [
+    3834
+  ],
+  "Oachhekpur": [
+    3835
+  ],
+  "Bhabani Jibanpur": [
+    3837
+  ],
+  "Maheshganj": [
+    3838
+  ],
+  "Nadona": [
+    3839
+  ],
+  "Nandiapara": [
+    3841
+  ],
+  "Khalishpur": [
+    3842
+  ],
+  "Dauti": [
+    3843
+  ],
+  "Joyag": [
+    3844
+  ],
+  "Thanar Hat": [
+    3845
+  ],
+  "Amisha Para": [
+    3847
+  ],
+  "Durgapur": [
+    3848,
+    6240
+  ],
+  "Basur Hat": [
+    3850
+  ],
+  "Charhajari": [
+    3851
+  ],
+  "Senbag": [
+    3860
+  ],
+  "Kallyandi": [
+    3861
+  ],
+  "Beezbag": [
+    3862
+  ],
+  "Kankirhat": [
+    3863
+  ],
+  "Chatarpaia": [
+    3864
+  ],
+  "T.P. Lamua": [
+    3865
+  ],
+  "Chatkhil": [
+    3870
+  ],
+  "Palla": [
+    3871
+  ],
+  "Khilpara": [
+    3872
+  ],
+  "Bodalcourt": [
+    3873
+  ],
+  "Rezzakpur": [
+    3874
+  ],
+  "Solla": [
+    3875
+  ],
+  "Karihati": [
+    3877
+  ],
+  "Dosh Gharia": [
+    3878
+  ],
+  "Bansa Bazar": [
+    3879
+  ],
+  "Sahapur": [
+    3881
+  ],
+  "Sampara": [
+    3882
+  ],
+  "Shingbahura": [
+    3883
+  ],
+  "Hatiya": [
+    3890
+  ],
+  "Afazia": [
+    3891
+  ],
+  "Tamoraddi": [
+    3892
+  ],
+  "Chourangi Bazar": [
+    3893
+  ],
+  "Feni Sadar": [
+    3900
+  ],
+  "Fazilpur": [
+    3901
+  ],
+  "Sharshadie": [
+    3902
+  ],
+  "Laskarhat": [
+    3903
+  ],
+  "Chhagalnaia": [
+    3910
+  ],
+  "Maharajganj": [
+    3911,
+    5226
+  ],
+  "Daraga Hat": [
+    3912,
+    4322
+  ],
+  "Puabashimulia": [
+    3913
+  ],
+  "Dagondhuia": [
+    3920
+  ],
+  "Dudmukha": [
+    3921
+  ],
+  "Silonia": [
+    3922
+  ],
+  "Rajapur": [
+    3923,
+    6623,
+    6742,
+    8410
+  ],
+  "Sonagazi": [
+    3930
+  ],
+  "Motiganj": [
+    3931
+  ],
+  "Ahmadpur": [
+    3932
+  ],
+  "Kazirhat": [
+    3933
+  ],
+  "Pashurampur": [
+    3940
+  ],
+  "Shuarbazar": [
+    3941
+  ],
+  "Fulgazi": [
+    3942
+  ],
+  "Chattogram GPO": [
+    4000
+  ],
+  "Chattogram Bandar": [
+    4100
+  ],
+  "Pahartoli": [
+    4202
+  ],
+  "Chawkbazar": [
+    4203
+  ],
+  "Patenga": [
+    4204
+  ],
+  "Chattogram Airport": [
+    4205
+  ],
+  "Jaldia Merine Accade": [
+    4206
+  ],
+  "Firozshah": [
+    4207
+  ],
+  "Mohard": [
+    4208
+  ],
+  "Chitt. Politechnic In": [
+    4209
+  ],
+  "Bayezid Bostami": [
+    4210
+  ],
+  "Amin Jute Mills": [
+    4211
+  ],
+  "Chandgaon": [
+    4212
+  ],
+  "Wazedia": [
+    4213
+  ],
+  "Anandabazar": [
+    4215
+  ],
+  "Halishahar": [
+    4216
+  ],
+  "North Katuli": [
+    4217
+  ],
+  "Chitt. Sailers Colon": [
+    4218
+  ],
+  "Chitt. Customs Acca": [
+    4219
+  ],
+  "Chitt. Cantonment": [
+    4220
+  ],
+  "Al- Amin Baria Madra": [
+    4221
+  ],
+  "Middle Patenga": [
+    4222
+  ],
+  "Export Processing": [
+    4223
+  ],
+  "Rampur TSO": [
+    4224
+  ],
+  "Khulshi": [
+    4225
+  ],
+  "North Halishahar": [
+    4226
+  ],
+  "Sandwip": [
+    4300,
+    4302
+  ],
+  "Shiberhat": [
+    4301
+  ],
+  "Sitakunda": [
+    4310
+  ],
+  "Baroidhala": [
+    4311
+  ],
+  "Barabkunda": [
+    4312
+  ],
+  "Bawashbaria": [
+    4313
+  ],
+  "Kumira": [
+    4314
+  ],
+  "Bhatiari": [
+    4315
+  ],
+  "Fouzdarhat": [
+    4316
+  ],
+  "Jafrabad": [
+    4317
+  ],
+  "Mirsharai": [
+    4320
+  ],
+  "Abutorab": [
+    4321
+  ],
+  "Bharawazhat": [
+    4323
+  ],
+  "Joarganj": [
+    4324
+  ],
+  "Korerhat": [
+    4327
+  ],
+  "Mohazanhat": [
+    4328
+  ],
+  "Hathazari": [
+    4330
+  ],
+  "Chitt.University": [
+    4331
+  ],
+  "Gorduara": [
+    4332
+  ],
+  "Katirhat": [
+    4333
+  ],
+  "Fatahabad": [
+    4335
+  ],
+  "Nuralibari": [
+    4337
+  ],
+  "Yunus Nagar": [
+    4338
+  ],
+  "Madrasa": [
+    4339
+  ],
+  "Rouzan": [
+    4340
+  ],
+  "Beenajuri": [
+    4341
+  ],
+  "Kundeshwari": [
+    4342
+  ],
+  "Gahira": [
+    4343
+  ],
+  "jagannath Hat": [
+    4344
+  ],
+  "Fatepur": [
+    4345
+  ],
+  "Guzra Noapara": [
+    4346
+  ],
+  "Dewanpur": [
+    4347
+  ],
+  "Mohamuni": [
+    4348
+  ],
+  "B.I.T Post Office": [
+    4349
+  ],
+  "Fatikchhari": [
+    4350
+  ],
+  "Nanupur": [
+    4351
+  ],
+  "Bhandar Sharif": [
+    4352
+  ],
+  "Najirhat": [
+    4353
+  ],
+  "Harualchhari": [
+    4354
+  ],
+  "Narayanhat": [
+    4355
+  ],
+  "Rangunia": [
+    4360
+  ],
+  "Dhamair": [
+    4361
+  ],
+  "Kanungopara": [
+    4363
+  ],
+  "Saroatoli": [
+    4364
+  ],
+  "Iqbal Park": [
+    4365
+  ],
+  "Boalkhali": [
+    4366
+  ],
+  "Sakpura": [
+    4367
+  ],
+  "Kadurkhal": [
+    4368
+  ],
+  "Charandwip": [
+    4369
+  ],
+  "Patiya Head Office": [
+    4370
+  ],
+  "Budhpara": [
+    4371
+  ],
+  "Anowara": [
+    4376
+  ],
+  "Paroikora": [
+    4377
+  ],
+  "Battali": [
+    4378
+  ],
+  "East Joara": [
+    4380
+  ],
+  "Gachbaria": [
+    4381
+  ],
+  "Dohazari": [
+    4382
+  ],
+  "Barma": [
+    4383
+  ],
+  "Satkania": [
+    4386
+  ],
+  "Baitul Ijjat": [
+    4387
+  ],
+  "Bazalia": [
+    4388
+  ],
+  "Jaldi": [
+    4390
+  ],
+  "Khan Bahadur": [
+    4391
+  ],
+  "Gunagari": [
+    4392
+  ],
+  "Lohagara": [
+    4396
+  ],
+  "Padua": [
+    4397
+  ],
+  "Chunti": [
+    4398
+  ],
+  "Khagrachari Sadar": [
+    4400
+  ],
+  "Panchhari": [
+    4410
+  ],
+  "Diginala": [
+    4420
+  ],
+  "Mahalchhari": [
+    4430
+  ],
+  "Ramghar Head Office": [
+    4440
+  ],
+  "Matiranga": [
+    4450
+  ],
+  "Manikchhari": [
+    4460
+  ],
+  "Laxmichhari": [
+    4470
+  ],
+  "Rangamati Sadar": [
+    4500
+  ],
+  "Kalampati": [
+    4510
+  ],
+  "Betbunia": [
+    4511
+  ],
+  "Nanichhar": [
+    4520
+  ],
+  "Kaptai": [
+    4530
+  ],
+  "Chandraghona": [
+    4531
+  ],
+  "Kaptai Project": [
+    4532
+  ],
+  "Kaptai Nuton Bazar": [
+    4533
+  ],
+  "Rajsthali": [
+    4540
+  ],
+  "Bilaichhari": [
+    4550
+  ],
+  "Jarachhari": [
+    4560
+  ],
+  "Barakal": [
+    4570
+  ],
+  "Longachh": [
+    4580
+  ],
+  "Marishya": [
+    4590
+  ],
+  "Bandarban Sadar": [
+    4600
+  ],
+  "Roanchhari": [
+    4610
+  ],
+  "Ruma": [
+    4620
+  ],
+  "Thanchi": [
+    4630
+  ],
+  "Lama": [
+    4641
+  ],
+  "Alikadam": [
+    4650
+  ],
+  "Naikhong": [
+    4660
+  ],
+  "Coxs Bazar Sadar": [
+    4700
+  ],
+  "Zhilanja": [
+    4701
+  ],
+  "Eidga": [
+    4702
+  ],
+  "Gorakghat": [
+    4710
+  ],
+  "Kutubdia": [
+    4720
+  ],
+  "Ramu": [
+    4730
+  ],
+  "Chiringga": [
+    4740
+  ],
+  "Chiringga S.O": [
+    4741
+  ],
+  "Badarkali": [
+    4742
+  ],
+  "Malumghat": [
+    4743
+  ],
+  "Ukhia": [
+    4750
+  ],
+  "Teknaf": [
+    4760
+  ],
+  "Hnila": [
+    4761
+  ],
+  "St.Martin": [
+    4762
+  ],
+  "Panchagar Sadar": [
+    5000
+  ],
+  "Chotto Dab": [
+    5010,
+    5040
+  ],
+  "Dabiganj": [
+    5020
+  ],
+  "Tetulia": [
+    5030
+  ],
+  "Thakurgaon Sadar": [
+    5100
+  ],
+  "Thakurgaon Road": [
+    5101
+  ],
+  "Ruhia": [
+    5103
+  ],
+  "Pirganj": [
+    5110,
+    5470
+  ],
+  "Rani Sankail": [
+    5120
+  ],
+  "Nekmarad": [
+    5121
+  ],
+  "Jibanpur": [
+    5130
+  ],
+  "Baliadangi": [
+    5140
+  ],
+  "Lahiri": [
+    5141
+  ],
+  "Dinajpur Sadar": [
+    5200
+  ],
+  "Dinajpur Rajbari": [
+    5201
+  ],
+  "Biral": [
+    5210
+  ],
+  "Setabganj": [
+    5216
+  ],
+  "Birganj": [
+    5220
+  ],
+  "Khansama": [
+    5230
+  ],
+  "Pakarhat": [
+    5231
+  ],
+  "Chirirbandar": [
+    5240
+  ],
+  "Ranirbandar": [
+    5241
+  ],
+  "Parbatipur": [
+    5250
+  ],
+  "Phulbari": [
+    5260,
+    5680
+  ],
+  "Birampur": [
+    5266
+  ],
+  "Bangla Hili": [
+    5270
+  ],
+  "Osmanpur": [
+    5290
+  ],
+  "Ghoraghat": [
+    5291
+  ],
+  "Nilphamari Sadar": [
+    5300
+  ],
+  "Nilphamari Sugar Mil": [
+    5301
+  ],
+  "Saidpur Upashahar": [
+    5311
+  ],
+  "Kishoriganj": [
+    5320
+  ],
+  "Jaldhaka": [
+    5330
+  ],
+  "Domar": [
+    5340
+  ],
+  "Chilahati": [
+    5341
+  ],
+  "Dimla": [
+    5350
+  ],
+  "Ghaga Kharibari": [
+    5351
+  ],
+  "Rangpur Sadar": [
+    5400
+  ],
+  "Rangpur Upa-Shahar": [
+    5401
+  ],
+  "Alamnagar": [
+    5402
+  ],
+  "Mahiganj": [
+    5403
+  ],
+  "Rangpur Cadet Colleg": [
+    5404
+  ],
+  "Rangpur Carmiecal Col": [
+    5405
+  ],
+  "Gangachara": [
+    5410
+  ],
+  "Taraganj": [
+    5420
+  ],
+  "Badarganj": [
+    5430
+  ],
+  "Shyampur": [
+    5431,
+    6212
+  ],
+  "Kaunia": [
+    5440
+  ],
+  "Haragachh": [
+    5441
+  ],
+  "Pirgachha": [
+    5450
+  ],
+  "Mithapukur": [
+    5460
+  ],
+  "Lalmonirhat Sadar": [
+    5500
+  ],
+  "Moghalhat": [
+    5501
+  ],
+  "Kulaghat SO": [
+    5502
+  ],
+  "Aditmari": [
+    5510
+  ],
+  "Tushbhandar": [
+    5520
+  ],
+  "Patgram": [
+    5540
+  ],
+  "Baura": [
+    5541
+  ],
+  "Burimari": [
+    5542
+  ],
+  "Kurigram Sadar": [
+    5600
+  ],
+  "Pandul": [
+    5601
+  ],
+  "Rajarhat": [
+    5610
+  ],
+  "Nazimkhan": [
+    5611
+  ],
+  "Ulipur": [
+    5620
+  ],
+  "Bozra hat": [
+    5621
+  ],
+  "Chilmari": [
+    5630
+  ],
+  "Jorgachh": [
+    5631
+  ],
+  "Roumari": [
+    5640
+  ],
+  "Rajibpur": [
+    5650
+  ],
+  "Nageshwar": [
+    5660
+  ],
+  "Bhurungamari": [
+    5670
+  ],
+  "Gaibandha Sadar": [
+    5700
+  ],
+  "Saadullapur": [
+    5710
+  ],
+  "Naldanga": [
+    5711,
+    7350
+  ],
+  "Sundarganj": [
+    5720
+  ],
+  "Bamandanga": [
+    5721
+  ],
+  "Palashbari": [
+    5730
+  ],
+  "Mahimaganj": [
+    5741
+  ],
+  "Bonarpara": [
+    5750
+  ],
+  "saghata": [
+    5751
+  ],
+  "Phulchhari": [
+    5760
+  ],
+  "Bharatkhali": [
+    5761
+  ],
+  "Bogura Sadar": [
+    5800
+  ],
+  "Bogura Canttonment": [
+    5801
+  ],
+  "-": [
+    5820
+  ],
+  "Sukhanpukur": [
+    5821
+  ],
+  "Sonatola": [
+    5826
+  ],
+  "Sariakandi": [
+    5830
+  ],
+  "Chandan Baisha": [
+    5831
+  ],
+  "Sherpur": [
+    5840
+  ],
+  "Chandaikona": [
+    5841
+  ],
+  "Palli Unnyan Accadem": [
+    5842
+  ],
+  "Dhunat": [
+    5850
+  ],
+  "Gosaibari": [
+    5851
+  ],
+  "Nandigram": [
+    5860
+  ],
+  "Kahalu": [
+    5870
+  ],
+  "Dupchanchia": [
+    5880
+  ],
+  "Talora": [
+    5881
+  ],
+  "Adamdighi": [
+    5890
+  ],
+  "Santahar": [
+    5891
+  ],
+  "Nasharatpur": [
+    5892
+  ],
+  "Joypurhat Sadar": [
+    5900
+  ],
+  "Panchbibi": [
+    5910
+  ],
+  "Khetlal": [
+    5920
+  ],
+  "kalai": [
+    5930
+  ],
+  "Akklepur": [
+    5940
+  ],
+  "jamalganj": [
+    5941
+  ],
+  "Tilakpur": [
+    5942
+  ],
+  "Rajshahi Sadar": [
+    6000
+  ],
+  "Ghuramara": [
+    6100
+  ],
+  "Rajshahi Court": [
+    6201
+  ],
+  "Rajshahi Canttonment": [
+    6202
+  ],
+  "Sapura": [
+    6203
+  ],
+  "Kazla": [
+    6204
+  ],
+  "Rajshahi University": [
+    6205
+  ],
+  "Binodpur Bazar": [
+    6206
+  ],
+  "Lalitganj": [
+    6210
+  ],
+  "Rajshahi Sugar Mills": [
+    6211
+  ],
+  "Khodmohanpur": [
+    6220
+  ],
+  "Tanor": [
+    6230
+  ],
+  "Taharpur": [
+    6251
+  ],
+  "Putia": [
+    6260
+  ],
+  "Charghat": [
+    6270
+  ],
+  "Sarda": [
+    6271
+  ],
+  "Bagha": [
+    6280
+  ],
+  "Arani": [
+    6281
+  ],
+  "Godagari": [
+    6290
+  ],
+  "Premtoli": [
+    6291
+  ],
+  "Chapai Nawabganj Sadar": [
+    6300
+  ],
+  "Rajarampur": [
+    6301
+  ],
+  "Amnura": [
+    6303
+  ],
+  "Nachol": [
+    6310,
+    7612
+  ],
+  "Mandumala": [
+    6311
+  ],
+  "Rohanpur": [
+    6320
+  ],
+  "Gomashtapur": [
+    6321
+  ],
+  "Bholahat": [
+    6330
+  ],
+  "Shibganj U.P.O": [
+    6340
+  ],
+  "Kansart": [
+    6341
+  ],
+  "Manaksha": [
+    6342
+  ],
+  "Natore Sadar": [
+    6400
+  ],
+  "Digapatia": [
+    6401
+  ],
+  "Baiddyabal Gharia": [
+    6402
+  ],
+  "Madhnagar": [
+    6403
+  ],
+  "Laxman": [
+    6410
+  ],
+  "Gopalpur U.P.O": [
+    6420
+  ],
+  "Lalpur S.O": [
+    6421
+  ],
+  "Abdulpur": [
+    6422
+  ],
+  "Harua": [
+    6430
+  ],
+  "Dayarampur": [
+    6431
+  ],
+  "Baraigram": [
+    6432
+  ],
+  "Hatgurudaspur": [
+    6440
+  ],
+  "Singra": [
+    6450
+  ],
+  "Naogaon Sadar": [
+    6500
+  ],
+  "Prasadpur": [
+    6510
+  ],
+  "Manda": [
+    6511
+  ],
+  "Balihar": [
+    6512
+  ],
+  "Niamatpur": [
+    6520
+  ],
+  "Patnitala": [
+    6540
+  ],
+  "Nitpur": [
+    6550
+  ],
+  "Porsa": [
+    6551
+  ],
+  "Panguria": [
+    6552
+  ],
+  "Sapahar": [
+    6560
+  ],
+  "Moduhil": [
+    6561
+  ],
+  "Badalgachhi": [
+    6570
+  ],
+  "Dhamuirhat": [
+    6580
+  ],
+  "Raninagar": [
+    6590
+  ],
+  "Kashimpur": [
+    6591
+  ],
+  "Ahsanganj": [
+    6596
+  ],
+  "Bandai": [
+    6597
+  ],
+  "Pabna Sadar": [
+    6600
+  ],
+  "Kaliko Cotton Mills": [
+    6601
+  ],
+  "Hamayetpur": [
+    6602
+  ],
+  "Atghoria": [
+    6610
+  ],
+  "Ishwardi": [
+    6620
+  ],
+  "Dhapari": [
+    6621
+  ],
+  "Pakshi": [
+    6622
+  ],
+  "Chatmohar": [
+    6630
+  ],
+  "Bhangura": [
+    6640
+  ],
+  "Banwarinagar": [
+    6650
+  ],
+  "Sujanagar": [
+    6660
+  ],
+  "Sagarkandi": [
+    6661
+  ],
+  "Sathia": [
+    6670
+  ],
+  "Bera": [
+    6680
+  ],
+  "Nakalia": [
+    6681
+  ],
+  "Kashinathpur": [
+    6682
+  ],
+  "Puran Bharenga": [
+    6683
+  ],
+  "Sirajganj Sadar": [
+    6700
+  ],
+  "Rashidabad": [
+    6702
+  ],
+  "Kazipur": [
+    6710
+  ],
+  "Shuvgachha": [
+    6711
+  ],
+  "Gandail": [
+    6712
+  ],
+  "Dhangora": [
+    6720
+  ],
+  "Malonga": [
+    6721
+  ],
+  "Baiddya Jam Toil": [
+    6730
+  ],
+  "Belkuchi": [
+    6740
+  ],
+  "Sohagpur": [
+    6741
+  ],
+  "Enayetpur": [
+    6751
+  ],
+  "Sthal": [
+    6752
+  ],
+  "Ullapara": [
+    6760
+  ],
+  "Ullapara R.S": [
+    6761
+  ],
+  "Lahiri Mohanpur": [
+    6762
+  ],
+  "Salap": [
+    6763
+  ],
+  "Shahjadpur": [
+    6770
+  ],
+  "Porjana": [
+    6771
+  ],
+  "Jamirta": [
+    6772
+  ],
+  "Kaijuri": [
+    6773
+  ],
+  "Tarash": [
+    6780
+  ],
+  "Kushtia Sadar": [
+    7000
+  ],
+  "Kushtia Mohini": [
+    7001
+  ],
+  "Jagati": [
+    7002
+  ],
+  "Islami University": [
+    7003
+  ],
+  "Kumarkhali": [
+    7010
+  ],
+  "Panti": [
+    7011
+  ],
+  "Janipur": [
+    7020
+  ],
+  "Khoksa": [
+    7021
+  ],
+  "Mirpur": [
+    7030
+  ],
+  "Poradaha": [
+    7031
+  ],
+  "Amla Sadarpur": [
+    7032
+  ],
+  "Bheramara": [
+    7040
+  ],
+  "Ganges Bheramara": [
+    7041
+  ],
+  "Allardarga": [
+    7042
+  ],
+  "Taragunia": [
+    7051
+  ],
+  "Khasmathurapur": [
+    7052
+  ],
+  "Meherpur Sadar": [
+    7100
+  ],
+  "Amjhupi": [
+    7101,
+    7152
+  ],
+  "Mujib Nagar Complex": [
+    7102
+  ],
+  "Gangni": [
+    7110
+  ],
+  "Chuadanga Sadar": [
+    7200
+  ],
+  "Munshiganj": [
+    7201
+  ],
+  "Alamdanga": [
+    7210
+  ],
+  "Hardi": [
+    7211
+  ],
+  "Damurhuda": [
+    7220
+  ],
+  "Darshana": [
+    7221
+  ],
+  "Andulbaria": [
+    7222
+  ],
+  "Doulatganj": [
+    7230
+  ],
+  "Jhenaidah Sadar": [
+    7300
+  ],
+  "Jhenaidah Cadet College": [
+    7301
+  ],
+  "Harinakundu": [
+    7310
+  ],
+  "Shailakupa": [
+    7320
+  ],
+  "Kumiradaha": [
+    7321
+  ],
+  "Kotchandpur": [
+    7330
+  ],
+  "Maheshpur": [
+    7340
+  ],
+  "Hatbar Bazar": [
+    7351
+  ],
+  "Jashore Sadar": [
+    7400
+  ],
+  "Jashore Upa-Shahar": [
+    7401
+  ],
+  "Chanchra": [
+    7402
+  ],
+  "Jashore canttonment": [
+    7403
+  ],
+  "Jashore Airbach": [
+    7404
+  ],
+  "Rupdia": [
+    7405
+  ],
+  "Basundia": [
+    7406
+  ],
+  "Churamankathi": [
+    7407
+  ],
+  "Chougachha": [
+    7410
+  ],
+  "Jhikargachha": [
+    7420
+  ],
+  "Sarsa": [
+    7430
+  ],
+  "Benapole": [
+    7431
+  ],
+  "Jadabpur": [
+    7432
+  ],
+  "Bag Achra": [
+    7433
+  ],
+  "Monirampur": [
+    7440
+  ],
+  "Keshobpur": [
+    7450
+  ],
+  "Noapara": [
+    7460
+  ],
+  "Rajghat": [
+    7461
+  ],
+  "Bhugilhat": [
+    7462
+  ],
+  "Bagharpara": [
+    7470
+  ],
+  "Gouranagar": [
+    7471
+  ],
+  "Narail Sadar": [
+    7500
+  ],
+  "Ratanganj": [
+    7501
+  ],
+  "Laxmipasha": [
+    7510
+  ],
+  "Lohagora": [
+    7511
+  ],
+  "Naldi": [
+    7513
+  ],
+  "Baradia": [
+    7514
+  ],
+  "Kalia": [
+    7520
+  ],
+  "Mohajan": [
+    7521
+  ],
+  "Magura Sadar": [
+    7600
+  ],
+  "Langalbadh": [
+    7611
+  ],
+  "Arpara": [
+    7620
+  ],
+  "Mohammadpur": [
+    7630
+  ],
+  "Binodpur": [
+    7631
+  ],
+  "Nahata": [
+    7632
+  ],
+  "Rajbari Sadar": [
+    7700
+  ],
+  "Goalanda": [
+    7710
+  ],
+  "Khankhanapur": [
+    7711
+  ],
+  "Pangsha": [
+    7720
+  ],
+  "Ramkol": [
+    7721
+  ],
+  "Ratandia": [
+    7722
+  ],
+  "Mrigibazar": [
+    7723
+  ],
+  "Baliakandi": [
+    7730
+  ],
+  "Nalia": [
+    7731
+  ],
+  "Faridpursadar": [
+    7800
+  ],
+  "Kanaipur": [
+    7801
+  ],
+  "Ambikapur": [
+    7802
+  ],
+  "Baitulaman Politecni": [
+    7803
+  ],
+  "Sri Angan": [
+    7804
+  ],
+  "Charbadrashan": [
+    7810
+  ],
+  "Sadarpur": [
+    7820
+  ],
+  "Hat Krishapur": [
+    7821
+  ],
+  "Bishwa jaker Manjil": [
+    7822
+  ],
+  "Bhanga": [
+    7830
+  ],
+  "Nagarkanda": [
+    7840
+  ],
+  "Talma": [
+    7841
+  ],
+  "Madukhali": [
+    7850
+  ],
+  "Kamarkali": [
+    7851
+  ],
+  "Boalmari": [
+    7860
+  ],
+  "Rupatpat": [
+    7861
+  ],
+  "Alfadanga": [
+    7870
+  ],
+  "Madaripur Sadar": [
+    7900
+  ],
+  "Charmugria": [
+    7901
+  ],
+  "Kulpaddi": [
+    7902
+  ],
+  "Habiganj": [
+    7903
+  ],
+  "Mustafapur": [
+    7904
+  ],
+  "Rajoir": [
+    7910
+  ],
+  "Khalia": [
+    7911
+  ],
+  "Kalkini": [
+    7920
+  ],
+  "Sahabrampur": [
+    7921
+  ],
+  "Nilaksmibandar": [
+    7931
+  ],
+  "Bahadurpur": [
+    7932
+  ],
+  "Umedpur": [
+    7933
+  ],
+  "Shariatpur Sadar": [
+    8000
+  ],
+  "Angaria": [
+    8001
+  ],
+  "Chikandi": [
+    8002
+  ],
+  "Jajira": [
+    8010
+  ],
+  "Chandradighalia": [
+    8013
+  ],
+  "Naria": [
+    8020
+  ],
+  "Bhozeshwar": [
+    8021
+  ],
+  "Gharisar": [
+    8022
+  ],
+  "Upshi": [
+    8023
+  ],
+  "Kartikpur": [
+    8024
+  ],
+  "Bhedorganj": [
+    8030
+  ],
+  "Damudhya": [
+    8040
+  ],
+  "Gosairhat": [
+    8050
+  ],
+  "Gopalganj Sadar": [
+    8100
+  ],
+  "Ulpur": [
+    8101
+  ],
+  "Barfa": [
+    8102
+  ],
+  "Kotalipara": [
+    8110
+  ],
+  "Tungipara": [
+    8120
+  ],
+  "Patgati": [
+    8121
+  ],
+  "Kashiani": [
+    8130
+  ],
+  "Ramdia College": [
+    8131
+  ],
+  "Ratoil": [
+    8132
+  ],
+  "Jonapur": [
+    8133
+  ],
+  "Muksudpur": [
+    8140
+  ],
+  "Batkiamari": [
+    8141
+  ],
+  "Khandarpara": [
+    8142
+  ],
+  "Chandramohon": [
+    8200
+  ],
+  "Bukhainagar": [
+    8201
+  ],
+  "Saheberhat": [
+    8202
+  ],
+  "Sugandia": [
+    8203
+  ],
+  "Patang": [
+    8204
+  ],
+  "Kashipur": [
+    8205
+  ],
+  "Jaguarhat": [
+    8206
+  ],
+  "Babuganj": [
+    8210
+  ],
+  "Rahamatpur": [
+    8211
+  ],
+  "Chandpasha": [
+    8212
+  ],
+  "Madhabpasha": [
+    8213
+  ],
+  "Thakur Mallik": [
+    8214
+  ],
+  "Nizamuddin College": [
+    8215
+  ],
+  "Barishal Cadet": [
+    8216
+  ],
+  "Uzirpur": [
+    8220
+  ],
+  "Dhamura": [
+    8221
+  ],
+  "Jugirkanda": [
+    8222
+  ],
+  "Dakuarhat": [
+    8223
+  ],
+  "Shikarpur": [
+    8224
+  ],
+  "Gouranadi": [
+    8230
+  ],
+  "Tarki Bandar": [
+    8231
+  ],
+  "Kashemabad": [
+    8232
+  ],
+  "Batajor": [
+    8233
+  ],
+  "Agailzhara": [
+    8240
+  ],
+  "Gaila": [
+    8241
+  ],
+  "Paisarhat": [
+    8242
+  ],
+  "Muladi": [
+    8250
+  ],
+  "Kazirchar": [
+    8251
+  ],
+  "Charkalekhan": [
+    8252
+  ],
+  "Barajalia": [
+    8260
+  ],
+  "Osman Manjil": [
+    8261
+  ],
+  "Mahendiganj": [
+    8270
+  ],
+  "Laskarpur": [
+    8271
+  ],
+  "Ulania": [
+    8272
+  ],
+  "Nalgora": [
+    8273
+  ],
+  "Langutia": [
+    8274
+  ],
+  "Luxmibardhan": [
+    8280
+  ],
+  "Charamandi": [
+    8281
+  ],
+  "Padri Shibpur": [
+    8282
+  ],
+  "Shialguni": [
+    8283
+  ],
+  "kalaskati": [
+    8284
+  ],
+  "Bhola Sadar": [
+    8300
+  ],
+  "Joynagar": [
+    8301
+  ],
+  "Doulatkhan": [
+    8310
+  ],
+  "Hajipur": [
+    8311
+  ],
+  "Borhanuddin UPO": [
+    8320
+  ],
+  "Mirzakalu": [
+    8321
+  ],
+  "Lalmohan UPO": [
+    8330
+  ],
+  "Daurihat": [
+    8331
+  ],
+  "Charfashion": [
+    8340
+  ],
+  "Dularhat": [
+    8341
+  ],
+  "Hatshoshiganj": [
+    8350
+  ],
+  "Hajirhat": [
+    8360
+  ],
+  "Jhalokati Sadar": [
+    8400
+  ],
+  "Nabagram": [
+    8401
+  ],
+  "Baukathi": [
+    8402
+  ],
+  "Gabha": [
+    8403
+  ],
+  "Shekherhat": [
+    8404
+  ],
+  "Nalchhiti": [
+    8420
+  ],
+  "Beerkathi": [
+    8421
+  ],
+  "Kathalia": [
+    8430
+  ],
+  "Amua": [
+    8431
+  ],
+  "Niamatee": [
+    8432
+  ],
+  "Shoulajalia": [
+    8433
+  ],
+  "Pirojpur Sadar": [
+    8500
+  ],
+  "Hularhat": [
+    8501
+  ],
+  "Parerhat": [
+    8502
+  ],
+  "Kaukhali": [
+    8510
+  ],
+  "Keundia": [
+    8511
+  ],
+  "Joykul": [
+    8512
+  ],
+  "Jolagati": [
+    8513
+  ],
+  "Swarupkathi": [
+    8520
+  ],
+  "Darus Sunnat": [
+    8521
+  ],
+  "Kaurikhara": [
+    8522
+  ],
+  "Jalabari": [
+    8523
+  ],
+  "Banaripara": [
+    8530
+  ],
+  "Chakhar": [
+    8531
+  ],
+  "Nazirpur": [
+    8540
+  ],
+  "Sriramkathi": [
+    8541
+  ],
+  "Bhandaria": [
+    8550
+  ],
+  "Kanudashkathi": [
+    8551
+  ],
+  "Dhaoa": [
+    8552
+  ],
+  "Mathbaria": [
+    8560
+  ],
+  "Tushkhali": [
+    8561
+  ],
+  "Halta": [
+    8562
+  ],
+  "Gulishakhali": [
+    8563
+  ],
+  "Tiarkhali": [
+    8564
+  ],
+  "Betmor Natun Hat": [
+    8565
+  ],
+  "Shilarganj": [
+    8566
+  ],
+  "Patuakhali Sadar": [
+    8600
+  ],
+  "Moukaran": [
+    8601
+  ],
+  "Dumkee": [
+    8602
+  ],
+  "Rahimabad": [
+    8603
+  ],
+  "Subidkhali": [
+    8610
+  ],
+  "Bauphal": [
+    8620
+  ],
+  "Bagabandar": [
+    8621
+  ],
+  "Birpasha": [
+    8622
+  ],
+  "Kalishari": [
+    8623
+  ],
+  "Kalaia": [
+    8624
+  ],
+  "Dashmina": [
+    8630
+  ],
+  "Galachipa": [
+    8640
+  ],
+  "Gazipur Bandar": [
+    8641
+  ],
+  "Khepupara": [
+    8650
+  ],
+  "Mahipur": [
+    8651
+  ],
+  "Barguna Sadar": [
+    8700
+  ],
+  "Nali Bandar": [
+    8701
+  ],
+  "Amtali": [
+    8710
+  ],
+  "Patharghata": [
+    8720
+  ],
+  "Kakchira": [
+    8721
+  ],
+  "Bamna": [
+    8730
+  ],
+  "Betagi": [
+    8740
+  ],
+  "Darul Ulam": [
+    8741
+  ],
+  "Khulna G.P.O": [
+    9000
+  ],
+  "Khula Sadar": [
+    9100
+  ],
+  "Khulna Shipyard": [
+    9201
+  ],
+  "BIT Khulna": [
+    9203
+  ],
+  "Siramani": [
+    9204
+  ],
+  "Jahanabad Canttonmen": [
+    9205
+  ],
+  "Sonali Jute Mills": [
+    9206
+  ],
+  "Atra Shilpa Area": [
+    9207
+  ],
+  "Khulna University": [
+    9208
+  ],
+  "Phultala": [
+    9210
+  ],
+  "Digalia": [
+    9220
+  ],
+  "Chandni Mahal": [
+    9221
+  ],
+  "Senhati": [
+    9222
+  ],
+  "Ghoshghati": [
+    9223
+  ],
+  "Gazirhat": [
+    9224
+  ],
+  "Terakhada": [
+    9230
+  ],
+  "Pak Barasat": [
+    9231
+  ],
+  "Belphulia": [
+    9242
+  ],
+  "Sajiara": [
+    9250
+  ],
+  "Ghonabanda": [
+    9251
+  ],
+  "Chuknagar": [
+    9252
+  ],
+  "Batiaghat": [
+    9260
+  ],
+  "Surkalee": [
+    9261
+  ],
+  "Chalna Bazar": [
+    9270
+  ],
+  "Dakup": [
+    9271
+  ],
+  "Bajua": [
+    9272
+  ],
+  "Nalian": [
+    9273
+  ],
+  "Paikgachha": [
+    9280
+  ],
+  "Godaipur": [
+    9281
+  ],
+  "Kapilmoni": [
+    9282
+  ],
+  "Katipara": [
+    9283
+  ],
+  "Chandkhali": [
+    9284
+  ],
+  "Garaikhali": [
+    9285
+  ],
+  "Koyra": [
+    9290
+  ],
+  "Amadee": [
+    9291
+  ],
+  "Bagerhat Sadar": [
+    9300
+  ],
+  "P.C College": [
+    9301
+  ],
+  "Rangdia": [
+    9302
+  ],
+  "Sonarkola": [
+    9311
+  ],
+  "Morelganj": [
+    9320
+  ],
+  "Sannasi Bazar": [
+    9321
+  ],
+  "Teligatee": [
+    9322
+  ],
+  "Rayenda": [
+    9330
+  ],
+  "Rampal": [
+    9340
+  ],
+  "Foylahat": [
+    9341
+  ],
+  "Sonatunia": [
+    9342
+  ],
+  "Gourambha": [
+    9343
+  ],
+  "Chalna Ankorage": [
+    9350
+  ],
+  "Mongla Port": [
+    9351
+  ],
+  "Chitalmari": [
+    9360
+  ],
+  "Barabaria": [
+    9361
+  ],
+  "Fakirhat": [
+    9370
+  ],
+  "Mansa": [
+    9371
+  ],
+  "Bhanganpar Bazar": [
+    9372
+  ],
+  "Mollahat": [
+    9380
+  ],
+  "Kahalpur": [
+    9381
+  ],
+  "Dariala": [
+    9382
+  ],
+  "Charkulia": [
+    9383
+  ],
+  "Nagarkandi": [
+    9384
+  ],
+  "Pak Gangni": [
+    9385
+  ],
+  "Satkhira Sadar": [
+    9400
+  ],
+  "Satkhira Islamia Acc": [
+    9401
+  ],
+  "Gunakar kati": [
+    9402
+  ],
+  "Budhhat": [
+    9403
+  ],
+  "Murarikati": [
+    9410
+  ],
+  "Murarikathi": [
+    9411
+  ],
+  "Jhaudanga": [
+    9412
+  ],
+  "Hamidpur": [
+    9413
+  ],
+  "Khordo": [
+    9414
+  ],
+  "Taala": [
+    9420
+  ],
+  "Patkelghata": [
+    9421
+  ],
+  "Debbhata": [
+    9430
+  ],
+  "Gurugram": [
+    9431
+  ],
+  "Nalta Mubaroknagar": [
+    9441
+  ],
+  "Nakipur": [
+    9450
+  ],
+  "Noornagar": [
+    9451
+  ],
+  "Naobeki": [
+    9452
+  ],
+  "Buri Goalini": [
+    9453
+  ],
+  "Gabura": [
+    9454
+  ],
+  "Habinagar": [
+    9455
+  ],
+  "Ashashuni": [
+    9460
+  ],
+  "Baradal": [
+    9461
+  ]
+}

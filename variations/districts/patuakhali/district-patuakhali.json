@@ -1,0 +1,242 @@
+{
+  "8600": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "পটুয়াখালী সদর",
+      "suboffice": "পটুয়াখালী সদর",
+      "postcode": "৮৬০০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Patuakhali Sadar",
+      "suboffice": "Patuakhali Sadar",
+      "postcode": 8600
+    }
+  },
+  "8601": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "পটুয়াখালী সদর",
+      "suboffice": "মৌকরণ",
+      "postcode": "৮৬০১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Patuakhali Sadar",
+      "suboffice": "Moukaran",
+      "postcode": 8601
+    }
+  },
+  "8602": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "পটুয়াখালী সদর",
+      "suboffice": "দুমকী",
+      "postcode": "৮৬০২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Patuakhali Sadar",
+      "suboffice": "Dumkee",
+      "postcode": 8602
+    }
+  },
+  "8603": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "পটুয়াখালী সদর",
+      "suboffice": "রহিমাবাদ",
+      "postcode": "৮৬০৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Patuakhali Sadar",
+      "suboffice": "Rahimabad",
+      "postcode": 8603
+    }
+  },
+  "8610": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "সুবিদখালী",
+      "suboffice": "সুবিদখালী",
+      "postcode": "৮৬১০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Subidkhali",
+      "suboffice": "Subidkhali",
+      "postcode": 8610
+    }
+  },
+  "8620": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "বাউফল",
+      "postcode": "৮৬২০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Bauphal",
+      "postcode": 8620
+    }
+  },
+  "8621": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "বাগাবন্দর",
+      "postcode": "৮৬২১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Bagabandar",
+      "postcode": 8621
+    }
+  },
+  "8622": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "বীরপাশা",
+      "postcode": "৮৬২২"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Birpasha",
+      "postcode": 8622
+    }
+  },
+  "8623": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "কালীশুরী",
+      "postcode": "৮৬২৩"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Kalishari",
+      "postcode": 8623
+    }
+  },
+  "8624": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "বাউফল",
+      "suboffice": "কালাইয়া",
+      "postcode": "৮৬২৪"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Bauphal",
+      "suboffice": "Kalaia",
+      "postcode": 8624
+    }
+  },
+  "8630": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "দশমিনা",
+      "suboffice": "দশমিনা",
+      "postcode": "৮৬৩০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Dashmina",
+      "suboffice": "Dashmina",
+      "postcode": 8630
+    }
+  },
+  "8640": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "গলাচিপা",
+      "suboffice": "গলাচিপা",
+      "postcode": "৮৬৪০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Galachipa",
+      "suboffice": "Galachipa",
+      "postcode": 8640
+    }
+  },
+  "8641": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "গলাচিপা",
+      "suboffice": "গাজীপুর বন্দর",
+      "postcode": "৮৬৪১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Galachipa",
+      "suboffice": "Gazipur Bandar",
+      "postcode": 8641
+    }
+  },
+  "8650": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "খেপুপাড়া",
+      "suboffice": "খেপুপাড়া",
+      "postcode": "৮৬৫০"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Khepupara",
+      "suboffice": "Khepupara",
+      "postcode": 8650
+    }
+  },
+  "8651": {
+    "bn": {
+      "division": "বরিশাল",
+      "district": "পটুয়াখালী",
+      "thana": "খেপুপাড়া",
+      "suboffice": "মহীপুর",
+      "postcode": "৮৬৫১"
+    },
+    "en": {
+      "division": "Barisal",
+      "district": "Patuakhali",
+      "thana": "Khepupara",
+      "suboffice": "Mahipur",
+      "postcode": 8651
+    }
+  }
+}

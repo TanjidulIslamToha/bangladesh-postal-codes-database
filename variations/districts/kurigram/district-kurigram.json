@@ -1,0 +1,210 @@
+{
+  "5600": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "কুড়িগ্রাম সদর",
+      "suboffice": "কুড়িগ্রাম সদর",
+      "postcode": "৫৬০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Kurigram Sadar",
+      "suboffice": "Kurigram Sadar",
+      "postcode": 5600
+    }
+  },
+  "5601": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "কুড়িগ্রাম সদর",
+      "suboffice": "পান্ডুল",
+      "postcode": "৫৬০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Kurigram Sadar",
+      "suboffice": "Pandul",
+      "postcode": 5601
+    }
+  },
+  "5610": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "রাজারহাট",
+      "suboffice": "রাজারহাট",
+      "postcode": "৫৬১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Rajarhat",
+      "suboffice": "Rajarhat",
+      "postcode": 5610
+    }
+  },
+  "5611": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "রাজারহাট",
+      "suboffice": "নাজিমখান",
+      "postcode": "৫৬১১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Rajarhat",
+      "suboffice": "Nazimkhan",
+      "postcode": 5611
+    }
+  },
+  "5620": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "উলিপুর",
+      "suboffice": "উলিপুর",
+      "postcode": "৫৬২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Ulipur",
+      "suboffice": "Ulipur",
+      "postcode": 5620
+    }
+  },
+  "5621": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "উলিপুর",
+      "suboffice": "বাজারহাট",
+      "postcode": "৫৬২১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Ulipur",
+      "suboffice": "Bozra hat",
+      "postcode": 5621
+    }
+  },
+  "5630": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "চিলমারী",
+      "suboffice": "চিলমারী",
+      "postcode": "৫৬৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Chilmari",
+      "suboffice": "Chilmari",
+      "postcode": 5630
+    }
+  },
+  "5631": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "চিলমারী",
+      "suboffice": "জোড়গাছা",
+      "postcode": "৫৬৩১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Chilmari",
+      "suboffice": "Jorgachh",
+      "postcode": 5631
+    }
+  },
+  "5640": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "রৌমারী",
+      "suboffice": "রৌমারী",
+      "postcode": "৫৬৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Roumari",
+      "suboffice": "Roumari",
+      "postcode": 5640
+    }
+  },
+  "5650": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "রাজিবপুর",
+      "suboffice": "রাজিবপুর",
+      "postcode": "৫৬৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Rajibpur",
+      "suboffice": "Rajibpur",
+      "postcode": 5650
+    }
+  },
+  "5660": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "নাগেশ্বর",
+      "suboffice": "নাগেশ্বর",
+      "postcode": "৫৬৬০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Nageshwar",
+      "suboffice": "Nageshwar",
+      "postcode": 5660
+    }
+  },
+  "5670": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "ভূরুঙ্গামারী",
+      "suboffice": "ভূরুঙ্গামারী",
+      "postcode": "৫৬৭০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Bhurungamari",
+      "suboffice": "Bhurungamari",
+      "postcode": 5670
+    }
+  },
+  "5680": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "কুড়িগ্রাম সদর",
+      "suboffice": "ফুলবাড়ী",
+      "postcode": "৫৬৮০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Kurigram Sadar",
+      "suboffice": "Phulbari",
+      "postcode": 5680
+    }
+  }
+}

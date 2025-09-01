@@ -1,0 +1,226 @@
+{
+  "4500": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "রাঙ্গামাটি সদর",
+      "suboffice": "রাঙ্গামাটি সদর",
+      "postcode": "৪৫০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Rangamati Sadar",
+      "suboffice": "Rangamati Sadar",
+      "postcode": 4500
+    }
+  },
+  "4510": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "কলমপতি",
+      "suboffice": "কলমপতি",
+      "postcode": "৪৫১০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Kalampati",
+      "suboffice": "Kalampati",
+      "postcode": 4510
+    }
+  },
+  "4511": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "কলমপতি",
+      "suboffice": "বেতবুনিয়া",
+      "postcode": "৪৫১১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Kalampati",
+      "suboffice": "Betbunia",
+      "postcode": 4511
+    }
+  },
+  "4520": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "নানিয়ারচর",
+      "suboffice": "নানিচর",
+      "postcode": "৪৫২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Naniachhar",
+      "suboffice": "Nanichhar",
+      "postcode": 4520
+    }
+  },
+  "4530": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "কাপ্তাই",
+      "suboffice": "কাপ্তাই",
+      "postcode": "৪৫৩০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "kaptai",
+      "suboffice": "Kaptai",
+      "postcode": 4530
+    }
+  },
+  "4531": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "কাপ্তাই",
+      "suboffice": "চন্দ্রঘোনার",
+      "postcode": "৪৫৩১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "kaptai",
+      "suboffice": "Chandraghona",
+      "postcode": 4531
+    }
+  },
+  "4532": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "কাপ্তাই",
+      "suboffice": "কাপ্তাই প্রকল্প",
+      "postcode": "৪৫৩২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "kaptai",
+      "suboffice": "Kaptai Project",
+      "postcode": 4532
+    }
+  },
+  "4533": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "কাপ্তাই",
+      "suboffice": "কাপ্তাই নতুন বাজার",
+      "postcode": "৪৫৩৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "kaptai",
+      "suboffice": "Kaptai Nuton Bazar",
+      "postcode": 4533
+    }
+  },
+  "4540": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "রাজস্থালি",
+      "suboffice": "রাজস্থালি",
+      "postcode": "৪৫৪০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Rajsthali",
+      "suboffice": "Rajsthali",
+      "postcode": 4540
+    }
+  },
+  "4550": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "বিলাইছড়ি",
+      "suboffice": "বিলাইছড়ি",
+      "postcode": "৪৫৫০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Bilaichhari",
+      "suboffice": "Bilaichhari",
+      "postcode": 4550
+    }
+  },
+  "4560": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "জুরাছড়ি",
+      "suboffice": "জুরাছড়ি",
+      "postcode": "৪৫৬০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Jarachhari",
+      "suboffice": "Jarachhari",
+      "postcode": 4560
+    }
+  },
+  "4570": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "বরকল",
+      "suboffice": "বরকল",
+      "postcode": "৪৫৭০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Barakal",
+      "suboffice": "Barakal",
+      "postcode": 4570
+    }
+  },
+  "4580": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "লংগাছ",
+      "suboffice": "লংগাছ",
+      "postcode": "৪৫৮০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Longachh",
+      "suboffice": "Longachh",
+      "postcode": 4580
+    }
+  },
+  "4590": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "রাঙ্গামাটি",
+      "thana": "মারিশ্যা",
+      "suboffice": "মারিশ্যা",
+      "postcode": "৪৫৯০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Rangamati",
+      "thana": "Marishya",
+      "suboffice": "Marishya",
+      "postcode": 4590
+    }
+  }
+}

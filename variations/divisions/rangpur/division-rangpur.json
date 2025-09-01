@@ -1,0 +1,1506 @@
+{
+  "5000": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "পঞ্চগড় সদর",
+      "suboffice": "পঞ্চগড় সদর",
+      "postcode": "৫০০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Panchagra Sadar",
+      "suboffice": "Panchagar Sadar",
+      "postcode": 5000
+    }
+  },
+  "5010": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "বোদা",
+      "suboffice": "বোদা",
+      "postcode": "৫০১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Chotto Dab",
+      "suboffice": "Chotto Dab",
+      "postcode": 5010
+    }
+  },
+  "5020": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "দেবীগঞ্জ",
+      "suboffice": "দেবীগঞ্জ",
+      "postcode": "৫০২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Dabiganj",
+      "suboffice": "Dabiganj",
+      "postcode": 5020
+    }
+  },
+  "5030": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "তেঁতুলিয়া",
+      "suboffice": "তেঁতুলিয়া",
+      "postcode": "৫০৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Tetulia",
+      "suboffice": "Tetulia",
+      "postcode": 5030
+    }
+  },
+  "5040": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "ছোট্ট ডাবের",
+      "suboffice": "ছোট্ট ডাবের",
+      "postcode": "৫০৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Chotto Dab",
+      "suboffice": "Chotto Dab",
+      "postcode": 5040
+    }
+  },
+  "5041": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "পঞ্চগড়",
+      "thana": "ছোট্ট ডাবের",
+      "suboffice": "মির্জাপুর",
+      "postcode": "৫০৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Panchagarh",
+      "thana": "Chotto Dab",
+      "suboffice": "Mirzapur",
+      "postcode": 5041
+    }
+  },
+  "5100": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "ঠাকুরগাঁও সদর",
+      "suboffice": "ঠাকুরগাঁও সদর",
+      "postcode": "৫১০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Thakurgaon Sadar",
+      "suboffice": "Thakurgaon Sadar",
+      "postcode": 5100
+    }
+  },
+  "5101": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "ঠাকুরগাঁও সদর",
+      "suboffice": "ঠাকুরগাঁও রোড",
+      "postcode": "৫১০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Thakurgaon Sadar",
+      "suboffice": "Thakurgaon Road",
+      "postcode": 5101
+    }
+  },
+  "5102": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "ঠাকুরগাঁও সদর",
+      "suboffice": "শিবগঞ্জ",
+      "postcode": "৫১০২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Thakurgaon Sadar",
+      "suboffice": "Shibganj",
+      "postcode": 5102
+    }
+  },
+  "5103": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "ঠাকুরগাঁও সদর",
+      "suboffice": "রুহিয়া",
+      "postcode": "৫১০৩"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Thakurgaon Sadar",
+      "suboffice": "Ruhia",
+      "postcode": 5103
+    }
+  },
+  "5110": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "পীরগঞ্জ",
+      "suboffice": "পীরগঞ্জ",
+      "postcode": "৫১১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Pirganj",
+      "suboffice": "Pirganj",
+      "postcode": 5110
+    }
+  },
+  "5120": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "রাণীশংকৈল",
+      "suboffice": "রাণীশংকৈল",
+      "postcode": "৫১২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Rani Sankail",
+      "suboffice": "Rani Sankail",
+      "postcode": 5120
+    }
+  },
+  "5121": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "রাণীশংকৈল",
+      "suboffice": "নেকমরদ",
+      "postcode": "৫১২১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Rani Sankail",
+      "suboffice": "Nekmarad",
+      "postcode": 5121
+    }
+  },
+  "5130": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "জীবনপুর",
+      "suboffice": "জীবনপুর",
+      "postcode": "৫১৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Jibanpur",
+      "suboffice": "Jibanpur",
+      "postcode": 5130
+    }
+  },
+  "5140": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "বালিয়াডাঙ্গী",
+      "suboffice": "বালিয়াডাঙ্গী",
+      "postcode": "৫১৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Baliadangi",
+      "suboffice": "Baliadangi",
+      "postcode": 5140
+    }
+  },
+  "5141": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "ঠাকুরগাঁও",
+      "thana": "বালিয়াডাঙ্গী",
+      "suboffice": "লাহিড়ি",
+      "postcode": "৫১৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Thakurgaon",
+      "thana": "Baliadangi",
+      "suboffice": "Lahiri",
+      "postcode": 5141
+    }
+  },
+  "5200": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "দিনাজপুর সদর",
+      "suboffice": "দিনাজপুর সদর",
+      "postcode": "৫২০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Dinajpur Sadar",
+      "suboffice": "Dinajpur Sadar",
+      "postcode": 5200
+    }
+  },
+  "5201": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "দিনাজপুর সদর",
+      "suboffice": "দিনাজপুর রাজবাড়ী",
+      "postcode": "৫২০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Dinajpur Sadar",
+      "suboffice": "Dinajpur Rajbari",
+      "postcode": 5201
+    }
+  },
+  "5210": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "বিরল",
+      "suboffice": "বিরল",
+      "postcode": "৫২১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Biral",
+      "suboffice": "Biral",
+      "postcode": 5210
+    }
+  },
+  "5216": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "সেতাবগঞ্জ",
+      "suboffice": "সেতাবগঞ্জ",
+      "postcode": "৫২১৬"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Setabganj",
+      "suboffice": "Setabganj",
+      "postcode": 5216
+    }
+  },
+  "5220": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "বীরগঞ্জ",
+      "suboffice": "বীরগঞ্জ",
+      "postcode": "৫২২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Birganj",
+      "suboffice": "Birganj",
+      "postcode": 5220
+    }
+  },
+  "5226": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "মহারাজগঞ্জ",
+      "suboffice": "মহারাজগঞ্জ",
+      "postcode": "৫২২৬"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Maharajganj",
+      "suboffice": "Maharajganj",
+      "postcode": 5226
+    }
+  },
+  "5230": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "খানসামা",
+      "suboffice": "খানসামা",
+      "postcode": "৫২৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Khansama",
+      "suboffice": "Khansama",
+      "postcode": 5230
+    }
+  },
+  "5231": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "খানসামা",
+      "suboffice": "পাকেরহাট",
+      "postcode": "৫২৩১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Khansama",
+      "suboffice": "Pakarhat",
+      "postcode": 5231
+    }
+  },
+  "5240": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "চিরিরবন্দর",
+      "suboffice": "চিরিরবন্দর",
+      "postcode": "৫২৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Chirirbandar",
+      "suboffice": "Chirirbandar",
+      "postcode": 5240
+    }
+  },
+  "5241": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "চিরিরবন্দর",
+      "suboffice": "রাণীরবন্দর",
+      "postcode": "৫২৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Chirirbandar",
+      "suboffice": "Ranirbandar",
+      "postcode": 5241
+    }
+  },
+  "5250": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "পার্বতীপুর",
+      "suboffice": "পার্বতীপুর",
+      "postcode": "৫২৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Parbatipur",
+      "suboffice": "Parbatipur",
+      "postcode": 5250
+    }
+  },
+  "5260": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "ফুলবাড়ী",
+      "suboffice": "ফুলবাড়ী",
+      "postcode": "৫২৬০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Phulbari",
+      "suboffice": "Phulbari",
+      "postcode": 5260
+    }
+  },
+  "5266": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "বিরামপুর",
+      "suboffice": "বিরামপুর",
+      "postcode": "৫২৬৬"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Mohakhali",
+      "suboffice": "Birampur",
+      "postcode": 5266
+    }
+  },
+  "5270": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "বাংলা হিলি",
+      "suboffice": "বাংলা হিলি",
+      "postcode": "৫২৭০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Bangla Hili",
+      "suboffice": "Bangla Hili",
+      "postcode": 5270
+    }
+  },
+  "5280": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "নবাবগঞ্জ",
+      "postcode": "৫২৮০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Nawabganj",
+      "suboffice": "Nawabganj",
+      "postcode": 5280
+    }
+  },
+  "5281": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "দাউদপুর",
+      "postcode": "৫২৮১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Nawabganj",
+      "suboffice": "Daudpur",
+      "postcode": 5281
+    }
+  },
+  "5282": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "নবাবগঞ্জ",
+      "suboffice": "গোপালপুর",
+      "postcode": "৫২৮২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Nawabganj",
+      "suboffice": "Gopalpur",
+      "postcode": 5282
+    }
+  },
+  "5290": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "ওসমানপুর",
+      "suboffice": "ওসমানপুর",
+      "postcode": "৫২৯০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Ghoraghat",
+      "suboffice": "Osmanpur",
+      "postcode": 5290
+    }
+  },
+  "5291": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "দিনাজপুর",
+      "thana": "ওসমানপুর",
+      "suboffice": "ঘোড়াঘাট",
+      "postcode": "৫২৯১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Dinajpur",
+      "thana": "Ghoraghat",
+      "suboffice": "Ghoraghat",
+      "postcode": 5291
+    }
+  },
+  "5300": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "নীলফামারী সদর",
+      "suboffice": "নীলফামারী সদর",
+      "postcode": "৫৩০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Nilphamari Sadar",
+      "suboffice": "Nilphamari Sadar",
+      "postcode": 5300
+    }
+  },
+  "5301": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "নীলফামারী সদর",
+      "suboffice": "নীলফামারী চিনি মিল",
+      "postcode": "৫৩০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Nilphamari Sadar",
+      "suboffice": "Nilphamari Sugar Mil",
+      "postcode": 5301
+    }
+  },
+  "5310": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "সৈয়দপুর",
+      "suboffice": "সৈয়দপুর",
+      "postcode": "৫৩১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Saidpur",
+      "suboffice": "Saidpur",
+      "postcode": 5310
+    }
+  },
+  "5311": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "সৈয়দপুর",
+      "suboffice": "সৈয়দপুর উপশহর",
+      "postcode": "৫৩১১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Saidpur",
+      "suboffice": "Saidpur Upashahar",
+      "postcode": 5311
+    }
+  },
+  "5320": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "কিশোরীগঞ্জ",
+      "suboffice": "কিশোরীগঞ্জ",
+      "postcode": "৫৩২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Kishoriganj",
+      "suboffice": "Kishoriganj",
+      "postcode": 5320
+    }
+  },
+  "5330": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "জলঢাকা",
+      "suboffice": "জলঢাকা",
+      "postcode": "৫৩৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Jaldhaka",
+      "suboffice": "Jaldhaka",
+      "postcode": 5330
+    }
+  },
+  "5340": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "ডোমার",
+      "suboffice": "ডোমার",
+      "postcode": "৫৩৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Domar",
+      "suboffice": "Domar",
+      "postcode": 5340
+    }
+  },
+  "5341": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "ডোমার",
+      "suboffice": "চিলাহাটি",
+      "postcode": "৫৩৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Domar",
+      "suboffice": "Chilahati",
+      "postcode": 5341
+    }
+  },
+  "5350": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "ডিমলা",
+      "suboffice": "ডিমলা",
+      "postcode": "৫৩৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Dimla",
+      "suboffice": "Dimla",
+      "postcode": 5350
+    }
+  },
+  "5351": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "নীলফামারী",
+      "thana": "ডিমলা",
+      "suboffice": "ঘাগা খড়িবাড়ি",
+      "postcode": "৫৩৫১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Nilphamari",
+      "thana": "Dimla",
+      "suboffice": "Ghaga Kharibari",
+      "postcode": 5351
+    }
+  },
+  "5400": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "রংপুর সদর",
+      "postcode": "৫৪০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Rangpur Sadar",
+      "postcode": 5400
+    }
+  },
+  "5401": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "রংপুর উপশহর",
+      "postcode": "৫৪০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Rangpur Upa-Shahar",
+      "postcode": 5401
+    }
+  },
+  "5402": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "আলমনগর",
+      "postcode": "৫৪০২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Alamnagar",
+      "postcode": 5402
+    }
+  },
+  "5403": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "মাহিগঞ্জ",
+      "postcode": "৫৪০৩"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Mahiganj",
+      "postcode": 5403
+    }
+  },
+  "5404": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "রংপুর ক্যাডেট কলেজ",
+      "postcode": "৫৪০৪"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Rangpur Cadet Colleg",
+      "postcode": 5404
+    }
+  },
+  "5405": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "রংপুর সদর",
+      "suboffice": "রংপুর কারমাইকেল কলেজ",
+      "postcode": "৫৪০৫"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Rangpur Sadar",
+      "suboffice": "Rangpur Carmiecal Col",
+      "postcode": 5405
+    }
+  },
+  "5410": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "গঙ্গাচড়া",
+      "suboffice": "গঙ্গাচড়া",
+      "postcode": "৫৪১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Gangachara",
+      "suboffice": "Gangachara",
+      "postcode": 5410
+    }
+  },
+  "5420": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "তারাগঞ্জ",
+      "suboffice": "তারাগঞ্জ",
+      "postcode": "৫৪২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Taraganj",
+      "suboffice": "Taraganj",
+      "postcode": 5420
+    }
+  },
+  "5430": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "বদরগঞ্জ",
+      "suboffice": "বদরগঞ্জ",
+      "postcode": "৫৪৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Badarganj",
+      "suboffice": "Badarganj",
+      "postcode": 5430
+    }
+  },
+  "5431": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "বদরগঞ্জ",
+      "suboffice": "শ্যামপুর",
+      "postcode": "৫৪৩১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Badarganj",
+      "suboffice": "Shyampur",
+      "postcode": 5431
+    }
+  },
+  "5440": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "কাউনিয়া",
+      "suboffice": "কাউনিয়া",
+      "postcode": "৫৪৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Kaunia",
+      "suboffice": "Kaunia",
+      "postcode": 5440
+    }
+  },
+  "5441": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "কাউনিয়া",
+      "suboffice": "হারাগাছ",
+      "postcode": "৫৪৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Kaunia",
+      "suboffice": "Haragachh",
+      "postcode": 5441
+    }
+  },
+  "5450": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "পীরগাছা",
+      "suboffice": "পীরগাছা",
+      "postcode": "৫৪৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Pirgachha",
+      "suboffice": "Pirgachha",
+      "postcode": 5450
+    }
+  },
+  "5460": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "মিঠাপুকুর",
+      "suboffice": "মিঠাপুকুর",
+      "postcode": "৫৪৬০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Mithapukur",
+      "suboffice": "Mithapukur",
+      "postcode": 5460
+    }
+  },
+  "5470": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "রংপুর",
+      "thana": "পীরগঞ্জ",
+      "suboffice": "পীরগঞ্জ",
+      "postcode": "৫৪৭০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Rangpur",
+      "thana": "Pirganj",
+      "suboffice": "Pirganj",
+      "postcode": 5470
+    }
+  },
+  "5500": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "লালমনিরহাট সদর",
+      "suboffice": "লালমনিরহাট সদর",
+      "postcode": "৫৫০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Lalmonirhat Sadar",
+      "suboffice": "Lalmonirhat Sadar",
+      "postcode": 5500
+    }
+  },
+  "5501": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "লালমনিরহাট সদর",
+      "suboffice": "মোগলহাট",
+      "postcode": "৫৫০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Lalmonirhat Sadar",
+      "suboffice": "Moghalhat",
+      "postcode": 5501
+    }
+  },
+  "5502": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "লালমনিরহাট সদর",
+      "suboffice": "কুলাঘাট SO",
+      "postcode": "৫৫০২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Lalmonirhat Sadar",
+      "suboffice": "Kulaghat SO",
+      "postcode": 5502
+    }
+  },
+  "5510": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "আদিতমারী",
+      "suboffice": "আদিতমারী",
+      "postcode": "৫৫১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Aditmari",
+      "suboffice": "Aditmari",
+      "postcode": 5510
+    }
+  },
+  "5520": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "তুষভান্ডার",
+      "suboffice": "তুষভান্ডার",
+      "postcode": "৫৫২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Tushbhandar",
+      "suboffice": "Tushbhandar",
+      "postcode": 5520
+    }
+  },
+  "5530": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "হাতীবান্ধা",
+      "suboffice": "হাতীবান্ধা",
+      "postcode": "৫৫৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Hatibandha",
+      "suboffice": "Hatibandha",
+      "postcode": 5530
+    }
+  },
+  "5540": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "পাটগ্রাম",
+      "suboffice": "পাটগ্রাম",
+      "postcode": "৫৫৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Patgram",
+      "suboffice": "Patgram",
+      "postcode": 5540
+    }
+  },
+  "5541": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "পাটগ্রাম",
+      "suboffice": "বাউরা",
+      "postcode": "৫৫৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Patgram",
+      "suboffice": "Baura",
+      "postcode": 5541
+    }
+  },
+  "5542": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "লালমনিরহাট",
+      "thana": "পাটগ্রাম",
+      "suboffice": "বুড়িমারী",
+      "postcode": "৫৫৪২"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Lalmonirhat",
+      "thana": "Patgram",
+      "suboffice": "Burimari",
+      "postcode": 5542
+    }
+  },
+  "5600": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "কুড়িগ্রাম সদর",
+      "suboffice": "কুড়িগ্রাম সদর",
+      "postcode": "৫৬০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Kurigram Sadar",
+      "suboffice": "Kurigram Sadar",
+      "postcode": 5600
+    }
+  },
+  "5601": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "কুড়িগ্রাম সদর",
+      "suboffice": "পান্ডুল",
+      "postcode": "৫৬০১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Kurigram Sadar",
+      "suboffice": "Pandul",
+      "postcode": 5601
+    }
+  },
+  "5610": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "রাজারহাট",
+      "suboffice": "রাজারহাট",
+      "postcode": "৫৬১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Rajarhat",
+      "suboffice": "Rajarhat",
+      "postcode": 5610
+    }
+  },
+  "5611": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "রাজারহাট",
+      "suboffice": "নাজিমখান",
+      "postcode": "৫৬১১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Rajarhat",
+      "suboffice": "Nazimkhan",
+      "postcode": 5611
+    }
+  },
+  "5620": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "উলিপুর",
+      "suboffice": "উলিপুর",
+      "postcode": "৫৬২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Ulipur",
+      "suboffice": "Ulipur",
+      "postcode": 5620
+    }
+  },
+  "5621": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "উলিপুর",
+      "suboffice": "বাজারহাট",
+      "postcode": "৫৬২১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Ulipur",
+      "suboffice": "Bozra hat",
+      "postcode": 5621
+    }
+  },
+  "5630": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "চিলমারী",
+      "suboffice": "চিলমারী",
+      "postcode": "৫৬৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Chilmari",
+      "suboffice": "Chilmari",
+      "postcode": 5630
+    }
+  },
+  "5631": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "চিলমারী",
+      "suboffice": "জোড়গাছা",
+      "postcode": "৫৬৩১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Chilmari",
+      "suboffice": "Jorgachh",
+      "postcode": 5631
+    }
+  },
+  "5640": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "রৌমারী",
+      "suboffice": "রৌমারী",
+      "postcode": "৫৬৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Roumari",
+      "suboffice": "Roumari",
+      "postcode": 5640
+    }
+  },
+  "5650": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "রাজিবপুর",
+      "suboffice": "রাজিবপুর",
+      "postcode": "৫৬৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Rajibpur",
+      "suboffice": "Rajibpur",
+      "postcode": 5650
+    }
+  },
+  "5660": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "নাগেশ্বর",
+      "suboffice": "নাগেশ্বর",
+      "postcode": "৫৬৬০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Nageshwar",
+      "suboffice": "Nageshwar",
+      "postcode": 5660
+    }
+  },
+  "5670": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "ভূরুঙ্গামারী",
+      "suboffice": "ভূরুঙ্গামারী",
+      "postcode": "৫৬৭০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Bhurungamari",
+      "suboffice": "Bhurungamari",
+      "postcode": 5670
+    }
+  },
+  "5680": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "কুড়িগ্রাম",
+      "thana": "কুড়িগ্রাম সদর",
+      "suboffice": "ফুলবাড়ী",
+      "postcode": "৫৬৮০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Kurigram",
+      "thana": "Kurigram Sadar",
+      "suboffice": "Phulbari",
+      "postcode": 5680
+    }
+  },
+  "5700": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "গাইবান্ধা সদর",
+      "suboffice": "গাইবান্ধা সদর",
+      "postcode": "৫৭০০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Gaibandha Sadar",
+      "suboffice": "Gaibandha Sadar",
+      "postcode": 5700
+    }
+  },
+  "5710": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "সাদুল্লাপুর",
+      "suboffice": "সাদুল্লাপুর",
+      "postcode": "৫৭১০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Saadullapur",
+      "suboffice": "Saadullapur",
+      "postcode": 5710
+    }
+  },
+  "5711": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "সাদুল্লাপুর",
+      "suboffice": "নলডাঙ্গা",
+      "postcode": "৫৭১১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Saadullapur",
+      "suboffice": "Naldanga",
+      "postcode": 5711
+    }
+  },
+  "5720": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "সুন্দরগঞ্জ",
+      "suboffice": "সুন্দরগঞ্জ",
+      "postcode": "৫৭২০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Sundarganj",
+      "suboffice": "Sundarganj",
+      "postcode": 5720
+    }
+  },
+  "5721": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "সুন্দরগঞ্জ",
+      "suboffice": "বামনডাঙ্গা",
+      "postcode": "৫৭২১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Sundarganj",
+      "suboffice": "Bamandanga",
+      "postcode": 5721
+    }
+  },
+  "5730": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "পলাশবাড়ী",
+      "suboffice": "পলাশবাড়ী",
+      "postcode": "৫৭৩০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Palashbari",
+      "suboffice": "Palashbari",
+      "postcode": 5730
+    }
+  },
+  "5740": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "গোবিন্দগঞ্জ",
+      "suboffice": "গোবিন্দগঞ্জ",
+      "postcode": "৫৭৪০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Gobindaganj",
+      "suboffice": "Gabindaganj",
+      "postcode": 5740
+    }
+  },
+  "5741": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "গোবিন্দগঞ্জ",
+      "suboffice": "মহিমাগঞ্জ",
+      "postcode": "৫৭৪১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Gobindaganj",
+      "suboffice": "Mahimaganj",
+      "postcode": 5741
+    }
+  },
+  "5750": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "বোনারপাড়া",
+      "suboffice": "বোনারপাড়া",
+      "postcode": "৫৭৫০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Bonarpara",
+      "suboffice": "Bonarpara",
+      "postcode": 5750
+    }
+  },
+  "5751": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "বোনারপাড়া",
+      "suboffice": "সাঘাটা",
+      "postcode": "৫৭৫১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Bonarpara",
+      "suboffice": "saghata",
+      "postcode": 5751
+    }
+  },
+  "5760": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "ফুলছড়ি",
+      "suboffice": "ফুলছড়ি",
+      "postcode": "৫৭৬০"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Phulchhari",
+      "suboffice": "Phulchhari",
+      "postcode": 5760
+    }
+  },
+  "5761": {
+    "bn": {
+      "division": "রংপুর",
+      "district": "গাইবান্ধা",
+      "thana": "ফুলছড়ি",
+      "suboffice": "ভরতখালী",
+      "postcode": "৫৭৬১"
+    },
+    "en": {
+      "division": "Rangpur",
+      "district": "Gaibandha",
+      "thana": "Phulchhari",
+      "suboffice": "Bharatkhali",
+      "postcode": 5761
+    }
+  }
+}

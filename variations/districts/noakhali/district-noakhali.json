@@ -1,0 +1,946 @@
+{
+  "3800": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "নোয়াখালী সদর",
+      "postcode": "৩৮০০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Noakhali Sadar",
+      "postcode": 3800
+    }
+  },
+  "3801": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "নোয়াখালী কলেজ",
+      "postcode": "৩৮০১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Noakhali College",
+      "postcode": 3801
+    }
+  },
+  "3802": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "সোনাপুর",
+      "postcode": "৩৮০২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Sonapur",
+      "postcode": 3802
+    }
+  },
+  "3803": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "দীন মনির হাট",
+      "postcode": "৩৮০৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Din Monir Hat",
+      "postcode": 3803
+    }
+  },
+  "3804": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "পাক কিশোরগঞ্জ",
+      "postcode": "৩৮০৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Pak Kishoreganj",
+      "postcode": 3804
+    }
+  },
+  "3806": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "মৃদ্দারহাট",
+      "postcode": "৩৮০৬"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Mriddarhat",
+      "postcode": 3806
+    }
+  },
+  "3807": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "কবিরহাট",
+      "postcode": "৩৮০৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Kabirhat",
+      "postcode": 3807
+    }
+  },
+  "3808": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "খলিফার হাট",
+      "postcode": "৩৮০৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Khalifar Hat",
+      "postcode": 3808
+    }
+  },
+  "3809": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "চরমটুয়া",
+      "postcode": "৩৮০৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Charam Tua",
+      "postcode": 3809
+    }
+  },
+  "3811": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "চাপরাশির হাট",
+      "postcode": "৩৮১১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Chaprashir Hat",
+      "postcode": 3811
+    }
+  },
+  "3812": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "নোয়াখালী সদর",
+      "suboffice": "চর জব্বার",
+      "postcode": "৩৮১২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Noakhali Sadar",
+      "suboffice": "Char Jabbar",
+      "postcode": 3812
+    }
+  },
+  "3820": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "বেগমগঞ্জ",
+      "postcode": "৩৮২০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Begumganj",
+      "postcode": 3820
+    }
+  },
+  "3821": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "চৌমুহনি",
+      "postcode": "৩৮২১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Choumohani",
+      "postcode": 3821
+    }
+  },
+  "3822": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "বাংলাবাজার",
+      "postcode": "৩৮২২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Banglabazar",
+      "postcode": 3822
+    }
+  },
+  "3823": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "মীরওয়ারিশপুর",
+      "postcode": "৩৮২৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Mir Owarishpur",
+      "postcode": 3823
+    }
+  },
+  "3824": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "বজরা",
+      "postcode": "৩৮২৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Bazra",
+      "postcode": 3824
+    }
+  },
+  "3825": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "জমিদারহাট",
+      "postcode": "৩৮২৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Jamidar Hat",
+      "postcode": 3825
+    }
+  },
+  "3827": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "সোনাইমুড়ি",
+      "postcode": "৩৮২৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Sonaimuri",
+      "postcode": 3827
+    }
+  },
+  "3828": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "গোপালপুর",
+      "postcode": "৩৮২৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Gopalpur",
+      "postcode": 3828
+    }
+  },
+  "3829": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "জয়-নারায়ণপুর",
+      "postcode": "৩৮২৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Joynarayanpur",
+      "postcode": 3829
+    }
+  },
+  "3831": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "আলায়ারপুর",
+      "postcode": "৩৮৩১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Alaiarpur",
+      "postcode": 3831
+    }
+  },
+  "3832": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "টঙ্গীরপাড়",
+      "postcode": "৩৮৩২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Tangirpar",
+      "postcode": 3832
+    }
+  },
+  "3833": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "খলিফাত বাজার",
+      "postcode": "৩৮৩৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Khalafat Bazar",
+      "postcode": 3833
+    }
+  },
+  "3834": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "রাজগঞ্জ",
+      "postcode": "৩৮৩৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Rajganj",
+      "postcode": 3834
+    }
+  },
+  "3835": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "ওয়াসেকপুর",
+      "postcode": "৩৮৩৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Oachhekpur",
+      "postcode": 3835
+    }
+  },
+  "3837": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "ভবানী জীবনপুর",
+      "postcode": "৩৮৩৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Bhabani Jibanpur",
+      "postcode": 3837
+    }
+  },
+  "3838": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "মহেষগঞ্জ",
+      "postcode": "৩৮৩৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Maheshganj",
+      "postcode": 3838
+    }
+  },
+  "3839": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "নাদোনা",
+      "postcode": "৩৮৩৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Nadona",
+      "postcode": 3839
+    }
+  },
+  "3841": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "নন্দিয়াপাড়া",
+      "postcode": "৩৮৪১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Nandiapara",
+      "postcode": 3841
+    }
+  },
+  "3842": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "খালিশপুর",
+      "postcode": "৩৮৪২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Khalishpur",
+      "postcode": 3842
+    }
+  },
+  "3843": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "দাউতি",
+      "postcode": "৩৮৪৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Dauti",
+      "postcode": 3843
+    }
+  },
+  "3844": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "জয়াগ",
+      "postcode": "৩৮৪৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Joyag",
+      "postcode": 3844
+    }
+  },
+  "3845": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "থানার হাট",
+      "postcode": "৩৮৪৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Thanar Hat",
+      "postcode": 3845
+    }
+  },
+  "3847": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "আমিশাপাড়া",
+      "postcode": "৩৮৪৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Amisha Para",
+      "postcode": 3847
+    }
+  },
+  "3848": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বেগমগঞ্জ",
+      "suboffice": "দুর্গাপুর",
+      "postcode": "৩৮৪৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Begumganj",
+      "suboffice": "Durgapur",
+      "postcode": 3848
+    }
+  },
+  "3850": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বসুরহাট",
+      "suboffice": "বসুরহাট",
+      "postcode": "৩৮৫০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Basurhat",
+      "suboffice": "Basur Hat",
+      "postcode": 3850
+    }
+  },
+  "3851": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "বসুরহাট",
+      "suboffice": "চারহাজারী",
+      "postcode": "৩৮৫১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Basurhat",
+      "suboffice": "Charhajari",
+      "postcode": 3851
+    }
+  },
+  "3860": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "সেনবাগ",
+      "suboffice": "সেনবাগ",
+      "postcode": "৩৮৬০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Senbag",
+      "suboffice": "Senbag",
+      "postcode": 3860
+    }
+  },
+  "3861": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "সেনবাগ",
+      "suboffice": "কল্যান্দী",
+      "postcode": "৩৮৬১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Senbag",
+      "suboffice": "Kallyandi",
+      "postcode": 3861
+    }
+  },
+  "3862": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "সেনবাগ",
+      "suboffice": "বীজবাগ",
+      "postcode": "৩৮৬২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Senbag",
+      "suboffice": "Beezbag",
+      "postcode": 3862
+    }
+  },
+  "3863": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "সেনবাগ",
+      "suboffice": "কানকিরহাট",
+      "postcode": "৩৮৬৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Senbag",
+      "suboffice": "Kankirhat",
+      "postcode": 3863
+    }
+  },
+  "3864": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "সেনবাগ",
+      "suboffice": "ছাতারপাইয়া",
+      "postcode": "৩৮৬৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Senbag",
+      "suboffice": "Chatarpaia",
+      "postcode": 3864
+    }
+  },
+  "3865": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "সেনবাগ",
+      "suboffice": "টি.পি. লেমুয়া",
+      "postcode": "৩৮৬৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Senbag",
+      "suboffice": "T.P. Lamua",
+      "postcode": 3865
+    }
+  },
+  "3870": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "চাটখিল",
+      "postcode": "৩৮৭০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Chatkhil",
+      "postcode": 3870
+    }
+  },
+  "3871": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "পাল্লা",
+      "postcode": "৩৮৭১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Palla",
+      "postcode": 3871
+    }
+  },
+  "3872": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "খিলপাড়া",
+      "postcode": "৩৮৭২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Khilpara",
+      "postcode": 3872
+    }
+  },
+  "3873": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "বদলকোট",
+      "postcode": "৩৮৭৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Bodalcourt",
+      "postcode": 3873
+    }
+  },
+  "3874": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "রেজ্জাকপুর",
+      "postcode": "৩৮৭৪"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Rezzakpur",
+      "postcode": 3874
+    }
+  },
+  "3875": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "শল্লা",
+      "postcode": "৩৮৭৫"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Solla",
+      "postcode": 3875
+    }
+  },
+  "3877": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "কড়িহাটি",
+      "postcode": "৩৮৭৭"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Karihati",
+      "postcode": 3877
+    }
+  },
+  "3878": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "দশদিন ঘড়িয়া",
+      "postcode": "৩৮৭৮"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Dosh Gharia",
+      "postcode": 3878
+    }
+  },
+  "3879": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "বাঁশবাজার",
+      "postcode": "৩৮৭৯"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Bansa Bazar",
+      "postcode": 3879
+    }
+  },
+  "3881": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "সাহাপুর",
+      "postcode": "৩৮৮১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Sahapur",
+      "postcode": 3881
+    }
+  },
+  "3882": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "শম্পার",
+      "postcode": "৩৮৮২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Sampara",
+      "postcode": 3882
+    }
+  },
+  "3883": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "চাটখিল",
+      "suboffice": "সিংবাহুড়া",
+      "postcode": "৩৮৮৩"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Chatkhil",
+      "suboffice": "Shingbahura",
+      "postcode": 3883
+    }
+  },
+  "3890": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "হাতিয়া",
+      "suboffice": "হাতিয়া",
+      "postcode": "৩৮৯০"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Hatiya",
+      "suboffice": "Hatiya",
+      "postcode": 3890
+    }
+  },
+  "3891": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "হাতিয়া",
+      "suboffice": "আফাজিয়া",
+      "postcode": "৩৮৯১"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Hatiya",
+      "suboffice": "Afazia",
+      "postcode": 3891
+    }
+  },
+  "3892": {
+    "bn": {
+      "division": "চট্টগ্রাম",
+      "district": "নোয়াখালী",
+      "thana": "হাতিয়া",
+      "suboffice": "তমরুদ্দি",
+      "postcode": "৩৮৯২"
+    },
+    "en": {
+      "division": "Chittagong",
+      "district": "Noakhali",
+      "thana": "Hatiya",
+      "suboffice": "Tamoraddi",
+      "postcode": 3892
+    }
+  },
+  "3893": {
+    "bn": {
+      "division": "সিলেট",
+      "district": "সুনামগঞ্জ",
+      "thana": "ছাতক",
+      "suboffice": "চৌরঙ্গী বাজার",
+      "postcode": "৩৮৯৩"
+    },
+    "en": {
+      "division": "Sylhet",
+      "district": "Noakhali",
+      "thana": "Chhatak",
+      "suboffice": "Chourangi Bazar",
+      "postcode": 3893
+    }
+  }
+}

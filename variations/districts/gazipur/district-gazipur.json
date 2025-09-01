@@ -1,0 +1,370 @@
+{
+  "1700": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "গাজীপুর সদর",
+      "suboffice": "গাজীপুর সদর",
+      "postcode": "১৭০০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Gazipur Sadar",
+      "suboffice": "Gazipur Sadar",
+      "postcode": 1700
+    }
+  },
+  "1701": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "গাজীপুর সদর",
+      "suboffice": "B.R.R",
+      "postcode": "১৭০১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Gazipur Sadar",
+      "suboffice": "B.R.R",
+      "postcode": 1701
+    }
+  },
+  "1702": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "গাজীপুর সদর",
+      "suboffice": "চান্দনা",
+      "postcode": "১৭০২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Gazipur Sadar",
+      "suboffice": "Chandna",
+      "postcode": 1702
+    }
+  },
+  "1703": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "গাজীপুর সদর",
+      "suboffice": "B.O.F",
+      "postcode": "১৭০৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Gazipur Sadar",
+      "suboffice": "B.O.F",
+      "postcode": 1703
+    }
+  },
+  "1704": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "গাজীপুর সদর",
+      "suboffice": "জাতীয় বিশ্ববিদ্যালয়",
+      "postcode": "১৭০৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Gazipur Sadar",
+      "suboffice": "National University",
+      "postcode": 1704
+    }
+  },
+  "1710": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "মন্নুনগর",
+      "suboffice": "মন্নুনগর",
+      "postcode": "১৭১০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Monnunagar",
+      "suboffice": "Monnunagar",
+      "postcode": 1710
+    }
+  },
+  "1711": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "মন্নুনগর",
+      "suboffice": "নিশাত নগর",
+      "postcode": "১৭১১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Monnunagar",
+      "suboffice": "Nishat Nagar",
+      "postcode": 1711
+    }
+  },
+  "1712": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "মন্নুনগর",
+      "suboffice": "এরশাদ নগর",
+      "postcode": "১৭১২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Monnunagar",
+      "suboffice": "Ershad Nagar",
+      "postcode": 1712
+    }
+  },
+  "1720": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "কালীগঞ্জ",
+      "suboffice": "কালীগঞ্জ",
+      "postcode": "১৭২০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Kaliganj",
+      "suboffice": "Kaliganj",
+      "postcode": 1720
+    }
+  },
+  "1721": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "কালীগঞ্জ",
+      "suboffice": "পুবাইল",
+      "postcode": "১৭২১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Kaliganj",
+      "suboffice": "Pubail",
+      "postcode": 1721
+    }
+  },
+  "1722": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "কালীগঞ্জ",
+      "suboffice": "সান্তানপাড়া",
+      "postcode": "১৭২২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Kaliganj",
+      "suboffice": "Santanpara",
+      "postcode": 1722
+    }
+  },
+  "1723": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "কালীগঞ্জ",
+      "suboffice": "ভাওয়াল জামালপুর",
+      "postcode": "১৭২৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Kaliganj",
+      "suboffice": "Vaoal Jamalpur",
+      "postcode": 1723
+    }
+  },
+  "1730": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "কাপাসিয়া",
+      "suboffice": "কাপাসিয়া",
+      "postcode": "১৭৩০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Kapashia",
+      "suboffice": "kapashia",
+      "postcode": 1730
+    }
+  },
+  "1740": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "শ্রীপুর",
+      "suboffice": "শ্রীপুর",
+      "postcode": "১৭৪০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Sreepur",
+      "suboffice": "Tengra",
+      "postcode": 1740
+    }
+  },
+  "1741": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "শ্রীপুর",
+      "suboffice": "রাজেন্দ্রপুর",
+      "postcode": "১৭৪১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Sreepur",
+      "suboffice": "Rajendrapur",
+      "postcode": 1741
+    }
+  },
+  "1742": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "শ্রীপুর",
+      "suboffice": "রাজেন্দ্রপুর সেনানিবাস",
+      "postcode": "১৭৪২"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Sreepur",
+      "suboffice": "Rajendrapur Cantonment",
+      "postcode": 1742
+    }
+  },
+  "1743": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "শ্রীপুর",
+      "suboffice": "বারমি",
+      "postcode": "১৭৪৩"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Sreepur",
+      "suboffice": "Barmi",
+      "postcode": 1743
+    }
+  },
+  "1744": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "শ্রীপুর",
+      "suboffice": "সাতখামার",
+      "postcode": "১৭৪৪"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Sreepur",
+      "suboffice": "Satkhamair",
+      "postcode": 1744
+    }
+  },
+  "1745": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "শ্রীপুর",
+      "suboffice": "কাওরাইদ",
+      "postcode": "১৭৪৫"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Sreepur",
+      "suboffice": "Kawraid",
+      "postcode": 1745
+    }
+  },
+  "1747": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "শ্রীপুর",
+      "suboffice": "বাশামুর",
+      "postcode": "১৭৪৭"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Sreepur",
+      "suboffice": "Bashamur",
+      "postcode": 1747
+    }
+  },
+  "1748": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "শ্রীপুর",
+      "suboffice": "বউবি",
+      "postcode": "১৭৪৮"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Sreepur",
+      "suboffice": "Boubi",
+      "postcode": 1748
+    }
+  },
+  "1750": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "কালিয়াকৈর",
+      "suboffice": "কালিয়াকৈর",
+      "postcode": "১৭৫০"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Kaliakaar",
+      "suboffice": "Kaliakaar",
+      "postcode": 1750
+    }
+  },
+  "1751": {
+    "bn": {
+      "division": "ঢাকা",
+      "district": "গাজীপুর",
+      "thana": "কালিয়াকৈর",
+      "suboffice": "সফিপুর",
+      "postcode": "১৭৫১"
+    },
+    "en": {
+      "division": "Dhaka",
+      "district": "Gazipur",
+      "thana": "Kaliakaar",
+      "suboffice": "Safipur",
+      "postcode": 1751
+    }
+  }
+}
