@@ -22,23 +22,29 @@ All variations are under `variations/`.
   - `counts_by_division.csv`
   - `counts_by_district.csv`
   - `counts_by_thana.csv`
- - **`variations/divisions/`** — One folder per division, each containing:
-   - `division-<slug>.json` (combined bn+en for that division)
-   - `division-<slug>.csv`
- - **`variations/districts/`** — One folder per district, each containing:
-   - `district-<slug>.json` (combined bn+en for that district)
-   - `district-<slug>.csv`
- - **`variations/flat/`**
-   - `postcodes-flat.csv` — Whole dataset as a single CSV (bn+en columns)
- - **`variations/index/`**
-   - `division_index_en.json`, `district_index_en.json`
-   - `thana_index_en.json`, `suboffice_index_en.json`
-   - `thana_index_bn.json`, `suboffice_index_bn.json`
- - **`variations/unique/`**
-   - `unique_thanas_en.csv`, `unique_thanas_bn.csv`
-   - `unique_suboffices_en.csv`, `unique_suboffices_bn.csv`
- - **`variations/min/`**
-   - `postcodes-pretty.min.json` — Minified JSON
+- **`variations/divisions/`** — One folder per division, each containing:
+  - `division-<slug>.json` (combined bn+en for that division)
+  - `division-<slug>.csv`
+- **`variations/districts/`** — One folder per district, each containing:
+  - `district-<slug>.json` (combined bn+en for that district)
+  - `district-<slug>.csv`
+- **`variations/flat/`**
+  - `postcodes-flat.csv` — Whole dataset as a single CSV (bn+en columns)
+- **`variations/index/`**
+  - `division_index_en.json`, `district_index_en.json`
+  - `thana_index_en.json`, `suboffice_index_en.json`
+  - `thana_index_bn.json`, `suboffice_index_bn.json`
+- **`variations/unique/`**
+  - `unique_thanas_en.csv`, `unique_thanas_bn.csv`
+  - `unique_suboffices_en.csv`, `unique_suboffices_bn.csv`
+- **`variations/min/`**
+  - `postcodes-pretty.min.json` — Minified JSON
+- **`variations/jsonl/`**
+  - `postcodes.jsonl` — One JSON object per line
+- **`variations/postcodes.db`** — SQLite database (`postcodes` table) for SQL queries
+- **`variations/dict/`**
+  - `bn_to_en_division.json`, `bn_to_en_district.json`
+  - `bn_to_en_thana.json`, `bn_to_en_suboffice.json`
 
 ### Administrative Divisions
 - (merged into main JSON; separate division files removed)
@@ -188,6 +194,7 @@ To regenerate the variations after any change to `postcodes-pretty.json`:
 
 ```bash
 python generate_variations.py
+python generate_more_variations.py
 ```
 
 Outputs will be placed under the `variations/` folder as documented above.
